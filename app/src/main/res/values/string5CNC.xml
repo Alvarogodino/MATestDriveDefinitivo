@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="CNC_T1">El deslumbramiento</string>
+    <string name="CNC_T1D">Uno de los principales peligro en la circulación nocturna es,el deslumbramiento que se puede dar por no sustituir las luces de largo alcance por las de corto alcance, o elevarse el haz luminoso, de las luces de corto y largo alcance.
+
+    \n Para evitar el deslumbramiento el conductor debe mantener las luces bien regladas en todo momento, distribuir correctamente la carga y sustituir la luz de largo alcance por la de corto alcance, cuando sea necesario.</string>
+
+
+    <string name="CNC_T2">Adelantamientos en la conducción nocturna</string>
+    <string name="CNC_T2D">El adelantamiento resulta más peligroso durante la noche que durante el día, ya que durante las horas nocturnas se debe reducir la velocidad y el adelantamiento necesita que ésta se aumente.
+
+    \n Para mejorar la visibilidad durante la noche, el conductor del vehículo adelantado debe facilitar el adelantamiento cambiando las luces de largo alcance por la de corto alcance, restableciéndola cuando vea que ya no va a deslumbrar al vehículo que le adelanta.</string>
+
+
+    <string name="CNC_T3">Alumbrado en curvas y otras precauciones</string>
+    <string name="CNC_T3D">Cuando dos vehículos se crucen en una curva cerrada, el conductor que la encuentre a su derecha debe ser el primero que encienda la luz de corto alcance ya que el haz luminoso sigue la trayectoria cuando el vehículo gira.
+
+    \n Por su parte el conductor que encuentra la curva a la izquierda, no tiene que cambiar la luz de largo alcance inmediatamente porque su halo luminoso saldrá fuera de la calzada. Otras precauciones a tener en cuenta cuando se circule durante la noche es no utilizar gafas oscuras, llevar únicamente las luces reglamentarias, y tener cuidado con el sueño parando en una estación de servicio para dormir si fuera necesario.</string>
+
+
+    <string name="CNC_T4">La conducción con lluvia</string>
+    <string name="CNC_T4D">La lluvia puede influir negativamente en la conducción, ya que la calzada se vuelve más deslizante y el conductor debe adoptar las precauciones necesarias para evitar que el vehículo patine. El momento más peligroso de la conducción con lluvia es al caer las primeras gotas, ya que la mezcla del agua y el polvo y grasa del firme lo convierte en una superficie muy deslizante.
+
+    \n Las medidas que el conductor debe tener en cuenta a la hora de conducir la lluvia son el mantenimiento correcto de los neumáticos incluyendo la presión y el dibujo. De ésta manera se evitará conducir con unos neumáticos sin dibujo que no se agarren a la calzada a la hora de frenar el vehículo.
+    \n
+    \n También se debe comprobar frecuentemente el buen funcionamiento de los frenos pisando suavemente el pedal. ya que unos frenos mojados son ineficientes para la conducción. Durante la conducción con lluvia las frenadas serán suaves y progresivas, y se harán con mayor antelación que en condiciones normales, ya que la distancia de frenado aumenta el doble.</string>
+
+
+    <string name="CNC_T5">El aquaplaning</string>
+    <string name="CNC_T5D">Ante la lluvia muy intensa se forma una gran capa de agua en la calzada, superior a la que los neumáticos pueden desalojar a través de su dibujo. Cuando éste fenómeno se da los neumáticos pierden adherencia con la superficie, y el vehículo planea perdiendo el conductor el dominio de los frenos la dirección del vehículo.
+
+    \n Ésta circunstancia en la conducción recibe el nombre de aquaplaning. Para evitarlo moderaremos la velocidad para que los neumáticos desalojen bien el agua ya que a mayor velocidad más peligrosa será la conducción, ya que se acumulará más agua bajo las ruedas.
+    \n
+    \n Cuando existan charco de agua en la calzada también se debe evitar pasar por encima de ellos, o si no fuera posible moderar la velocidad para mantener la estabilidad del vehículo y no salpicar agua a los peatones.
+    \n
+    \n Si encontramos un tramo de la vía totalmente anegado de agua deberemos circular en primera marcha a una velocidad sostenida, y una vez atravesado el tramo comprobar la eficacia de los frenos. Es conveniente que ante una lluvia torrencial estacionemos el vehículo hasta que cese o disminuya su intensidad.</string>
+
+
+    <string name="CNC_T6">Mejorar la visibilidad con lluvia</string>
+    <string name="CNC_T6D">La lluvia dificulta la visibilidad de la vía, reduciendo la luminosidad a través del parabrisas y la luneta, y con el vaho en los espejos del vehículo. Para mejorar la visibilidad es recomendable encender la luz de corto alcance, o la de cruce ante lluvia intensa.
+
+    \n También es recomendable encender la luz antiniebla delantera y trasera con lluvia de gran intensidad. Se deben mantener siempre los cristales limpios para ver correctamente, y poner en marcha los limpiaparabrisas para apartar el agua y ver la vía.
+
+    \n Para evitar el vaho interior dentro del parabrisas accionaremos la calefacción y el sistema de ventilación del vehículo emitiendo el aire hacia el cristal. Las salpicaduras de barro que pudieran aparecer ocasionalmente al cruzar con otro vehículo, deberán ser previstas con antelación para que no afecten a la visibilidad.</string>
+
+
+    <string name="CNC_T7">La conducción con nieve</string>
+    <string name="CNC_T7D">Al caer los primeros copos de nieve, la conducción se vuelve muy peligrosa al mezclarse éstos con el polvo y la grasa del asfalto y convertirlo en altamente deslizante. Lo mismo ocurre cuando la nieve acaba de caer y forma una capa blanda que hace que el vehículo pueda derrapar.
+
+    \n Si la nieve por el contrario se congela sus efectos serán parecidos a los del hielo deslizando al vehículo. Si la nieve es intensa se corre el peligro de reducir la adherencia de los neumáticos, y perder visibilidad.</string>
+
+
+    <string name="CNC_T8">Mejorar la adherencia con nieve</string>
+    <string name="CNC_T8D">En las vías nevadas se debe de conducir de forma suave sin dar fuertes bandazos y utilizando el freno y el acelerador con delicadeza para no derrapar. También debemos cuidar el estado de frenos y neumáticos vigilando la presión de éstos últimos.
+
+    \n Se debe comprobar con frecuencia si los frenos están funcionando correctamente, aumentar la distancia de seguridad, y utilizar cadenas al menos en las ruedas motrices para evitar que el vehículo patine.
+    \n
+    \n Es de suma utilidad seguir las huellas dejadas por otros vehículos y no adelantar para evitar derrapes, bajando del vehículo para retirar nieve de las ruedas cuando sea necesario.En las curvas se debe entrar sin utilizar el freno hasta el fondo para no bloquear las ruedas y en la marcha más alta posible levantando el pedal del acelerador.
+    \n
+    \n Para evitar que las ruedas patinen al arrancar el vehículo las ruedas deben estar en línea recta, arrancar a poder ser en segunda marcha y soltar lentamente el embrague para mantener una aceleración constante.
+    \n
+    \n Las pendientes deberemos subirlas lentamente con una velocidad sostenida y en una relación de marchas alta, para evitar que las ruedas patinen. Por lo que se refiere a bajar las pendientes, se debe hacer muy lentamente, frenando con el motor suavemente y con antelación, y no con los frenos.</string>
+
+
+    <string name="CNC_T9">La conducción con hielo</string>
+    <string name="CNC_T9D">La conducción con la calzada helada es muy peligrosa, ya que éste es altamente deslizante y nos obliga a extremar las precauciones. Si la helada se ha producido durante la noche es posible que tengamos posteriormente problemas para arrancar, el vehículo o ver bien a través de los cristales por la escarcha.
+
+    \n No deberemos iniciar nunca la marcha tras una helada hasta que se elimine todo el hielo d los cristales con un rascador o alcohol. Se debe preveer la existencia de una carretera con hielo ya que hay zonas como los badenes o lugares sombríos, que son propensos a helarse.
+    \n
+    \n Otros indicios son la existencia de señales de peligro de calzada deslizante o notar la dirección del vehículo demasiado suave como si flotara.</string>
+
+
+    <string name="CNC_T10">Niebla-humo</string>
+    <string name="CNC_T10D">Si la niebla se mezclara con los humos del ambiente los efectos negativos de aquella, se multiplicarán hasta hacer que la visibilidad sea prácticamente nula. Con la niebla-humo utilizaremos la luz de corto alcance o de cruce, y ambas luces antiniebla. Si la nube de niebla es muy densa se debe utilizar la luz antiniebla posterior.</string>
+
+
+
+    <string-array name="CNC">
+        <item>El deslumbramiento</item>
+        <item>Adelantamientos en la conducción nocturna</item>
+        <item>Alumbrado en curvas y otras precauciones</item>
+        <item>La conducción con lluvia</item>
+        <item>El aquaplaning</item>
+        <item>Mejorar la visibilidad con lluvia</item>
+        <item>La conducción con nieve</item>
+        <item>Mejorar la adherencia con nieve</item>
+        <item>La conducción con hielo</item>
+        <item>Niebla-humo</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="ODS_T1">Señales luminosas en los vehículos prioritarios</string>
+    <string name="ODS_T1D">Para que se consideren vehículos prioritarios deben circular en servicio urgente, y sus conductores deben advertir su presenci mediante la utilización simultánea de señales luminosas y acústicas o la señal luminosa aisladamente.
+    \n
+    \n <b>Finalidad:</b> Señalizar su presencia para que los demás usuarios de la vía les cedan o faciliten el paso.
+    \n
+    \n <b>Vehículos obligados a llevarla:</b> Deben llevarla los vehículos que presten servicios de policía, extinción de incendios, protección civil y asistencia sanitaria. Está prohibido el montaje de éstas luces en otros vehículos.
+    \n
+    \n <b>Color de las luces:</b> Azul para los servicios de policía y amarillo-auto en el resto de servicios.
+    \n
+    \n <b>Luces de que debe constar:</b> Uno o dos dispositivos situados en la parte delantera que produzcan luz intermitente o giratoria. En las motocicletas irá situada en la parte trasera sobre un cabezal telescópico que permita situarlo en la parte más alta de la misma.
+    \n El dispositivo debe ser visible desde como mínimo desde 50 metros en todas las direcciones y opcionalmente el dispositivo luminoso se puede situar en la parte más retrasada del plano superior del vehículo.
+    \n
+    \n <b>Utilización:</b> Se utilizará la señal luminosa junto con las señales acústicas especiales cuando se circule en servicio urgente y haya peligro para el resto de conductores.
+    \n Se utilizará la señal luminosa aisladamente cuando se circule en servicio urgente pero no exista peligro para el resto de usuarios de la vía.</string>
+
+
+    <string name="ODS_T2">Señales luminosas en vehículos especiales</string>
+    <string name="ODS_T2D">Finalidad: La señal luminosa V-2 está constituida por una luz rotativa de color amarillo-auto y indica que uno de los vehículos especificados (de obras y servicios, especiales o columnas militares) se encuentra en servicio o realiza un transporte especial. Con éste tipo de alumbrado se deberá utilizar permanentemente las luces de cruce.</string>
+
+
+    <string name="ODS_T3">Vehículos para obras o servicios</string>
+    <string name="ODS_T3D">
+    \n <b>Finalidad:</b> La señal luminosa instalada en estos vehículos tiene como finalidad indicar su situación en la calzada y el posible peligro que representan para los demás conductores.
+    \n
+    \n <b>Vehículos obligados a llevarla:</b> Los vehículos-grúa destinados a remolcar coches accidentados, y los vehículos destinados a obras y servicios cuando realicen operación de limpieza, señalización,etc…
+    \n
+    \n <b>Color y características de las luces:</b> Las luces serán rotativas de color amarillo auto, y deberán ser visibles desde todas direcciones a una distancia de 100 metros tanto de día como de noche.
+    \n
+    \n <b>Utilización:</b> Los vehículos-grúa utilizarán la señal luminosa cuando obstaculicen la circulación para indicar su situación al resto de vehículos. Por lo que se refiere a los vehículos destinados a obras o servicios la utilizarán, cuando su situación pueda suponer un peligro para los demás.
+    \n
+    \n Por último, los vehículos especiales, si su tarea se desarrolla en autovías y autopistas, la utilizarán desde que entren en la misma hasta que lleguen al lugar donde se realice el trabajo.</string>
+
+
+    <string name="ODS_T4">Alumbrado indicador de “Libre”</string>
+    <string name="ODS_T4D">
+    \n <b>Finalidad:</b> Indicar a los posibles usuarios de servicio público de viajeros en auto-taxis que éstos están en condiciones de ser alquilados.
+    \n
+    \n <b>Vehículos obligados a llevarlo:</b> Los auto-taxisde servicio público de viajeros.
+    \n
+    \n <b>Color y número de luces:</b> Una luz no deslumbrante de color verde en la parte delantera derecha exterior del vehículo que deberá ser visible desde la parte delantera y trasera y desde el lado derecho. Además del alumbrado indicador de libre los auto-taxis podrán llevar colocado un indicador luminoso de tarifas múltiples.
+    \n
+    \n <b>Utilización:</b> Deberán llevar encendida la luz los auto-taxis, cuando circulen en condiciones de ser utilizados por los posibles usuarios.</string>
+
+
+    <string name="ODS_T5">Dispositivo de preseñalización de peligro</string>
+    <string name="ODS_T5D">Consiste en un triángulo equilátero con bordes de color rojo fluorescente, catadióptricos rojos y fondo vacío. Sus dimensiones deben ser las homologadas por la DGT.
+    \n
+    \n <b>Finalidad:</b> Advertir al resto de usuarios de la vía que un vehículo ha quedado inmovilizado en la calzada o el arcén, o que su cargamento se encuentra caído.
+    \n
+    \n <b>Vehículos obligados a llevarlo:</b> Todos los vehículos de motor excepto motocicletas y vehículos de tres ruedas deben llegar un juego de dos triángulos
+    \n
+    \n <b>Utilización:</b> Se utilizarán cuando un vehículo haya quedado inmovilizado o su carga haya caído sobre la vía, tanto de día como de noche.
+    \n
+    \n <b>Lugar y forma de colocación:</b> Se colocarán en el borde de la calzada, con el vértice hacia arriba, y a 50 metros como mínimo del vehículo para que sea visible desde al menos 100 metros de distancia.
+    \n
+    \n Se deben colocar uno por delante y otro por detrás del vehículo salvo en las vías de sentido único o con más de tres carriles en las que será suficiente el delantero.</string>
+
+
+    <string name="ODS_T6">Señales acústicas</string>
+    <string name="ODS_T6D">
+    \n <b>Finalidad:</b> Advertir la presencia del vehículo al resto de usuarios de la vía.
+    \n
+    \n <b>Vehículos obligados a llevarlas:</b> Todos los vehículos de motor, incluidos los ciclomotores. Los ciclos y bicicletas utilizarán un timbre, y no podrán llevar otro aparato distinto a éste.
+    \n
+    \n <b>Características que deben reunir:</b> Deben estar situadas a mano para que el conductor las utilice sin distraerse de la conducción. Han de producir un sonido continuo y uniforme para no molestar al resto de usuarios de la vía.
+    \n Los vehículos prioritarios deben llevar además del claxon, un aparato emisor de señales acústicas especiales o sirena.
+    \n Están prohibidas las señales acústicas estridentes, las que produzcan notas musicales distintas y las sirenas, ya que están reservadas a los vehículos prioritarios.
+    \n
+    \n <b>Utilización:</b> Se podrán utilizar por los vehículos no prioritarios por razones de tráfico con carácter excepcional y forma intermitente en caso de posible accidente en vías con muchas curvas o para advertir su presencia a los demás conductores cuando no podemos recurrir a otro medio.</string>
+
+
+
+    <string-array name="ODS">
+        <item>Señales luminosas en los vehículos prioritarios</item>
+        <item>Señales luminosas en vehículos especiales</item>
+        <item>Vehículos para obras o servicios</item>
+        <item>Alumbrado indicador de “Libre”</item>
+        <item>Dispositivo de preseñalización de peligro</item>
+        <item>Señales acústicas</item>
+    </string-array>
+</resources>

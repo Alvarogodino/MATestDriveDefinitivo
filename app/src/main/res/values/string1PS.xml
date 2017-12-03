@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PS_T1">Sentido de la circulación</string>
+    <string name="PS_T1D">Se debe circular siempre por la derecha de la calzada y lo más cerca posible del borde derecho, manteniendo la distancia de seguridad especialmente en las curvas. Deberemos dejar siempre a la izquierda en el sentido de la marcha las isletas, refugios y glorietas que nos crucemos.
+
+        \n Las vías pueden tener una o varias calzadas, y cada una de ellas uno o dos sentidos de circulación. Así pues las vías de una sola calzada pueden tener uno o dos sentidos de circulación, y las divididas en dos calzadas tendrán dos sentidos de circulación salvo señalización contraria.
+        \n En las vías con tres calzadas, se circulará en dos sentidos por la calzada central y en uno solo por las calzadas laterales.
+        \n Para saber cuándo una vía o calzada es de un solo sentido de circulación, el conductor deberá fijarse en la señalización existente.</string>
+
+    <string name="PS_T2">Posición en la calzada</string>
+    <string name="PS_T2D">Se deberá circular por la calzada sin invadir los arcenes, andenes o aceras salvo que se crucen por un paso especialmente habilitado. Tampoco se podrán invadir las zonas excluidas al tráfico, o reservadas a determinados vehículos.
+
+        \n Los vehículos especiales deberán circular por la calzada y no por el arcén salvo razones de emergencia.</string>
+
+    <string name="PS_T3">Utilización de carriles</string>
+    <string name="PS_T3D">Las calzadas pueden tener uno o varios carriles delimitados o no por marcas longitudinales pintadas en el pavimento. Existen unasnormas generales de circulación aplicables a la utilización de carriles en todo tipo de vías:
+
+        \n - En las calzadas con doble sentido de circulación y dos carriles se circulará por el carril derecho, y solo se utilizará el izquierdo para adelantar.
+        \n - En las calzadas con doble sentido de circulación y tres carriles separados por líneas discontinuas se circulará por el carril derecho y nunca por el izquierdo. El carril central se utilizará para adelantary cambiar de dirección a la izquierda.</string>
+
+    <string name="PS_T4">Vías fuera de poblado</string>
+    <string name="PS_T4D">En las calzadas de vías situadas fuera de poblado que tengan más de un carril para cada sentido de la marcha se circulará por el situado más a la derecha, y se podrán utilizar el resto cuando las circunstancias del tráfico lo aconsejen.
+
+        \n También en las calzadas de vías fuera de poblado con tres o más carriles para cada sentido de la marcha los camiones y vehículos especiales con MMA superior a 3500 kg o conjuntos de vehículos de más de 7 metros de longitud circularán por el carril situado más a la derecha. Podrán utilizar el carril inmediato al derecho cuando las circunstancias lo aconsejen pero nunca el resto.</string>
+
+    <string name="PS_T5">Utilización de carriles en poblado</string>
+    <string name="PS_T5D">En las calzadas dentro de poblado con al menos dos carriles para cada sentido, excepto si se trata de autovías o autopistas, se circulará por el que mejor convenga al destino que lleven.
+
+        \n No podrán abandonar éste carril los conductores de automóviles y vehículos especiales más que para cambiar de dirección, adelantar o estacionar.
+
+        \n En todo caso el conductor deberá circular centrado dentro del carril y sin pisar las líneas que lo delimitan.</string>
+
+    <string name="PS_T6">Circulación por el arcén</string>
+    <string name="PS_T6D">La utilización del arcén puede darse por razones de emergencia, seguridad o fluidez de la circulación. Están obligados a circular por el arcénsi fuera transitable y suficiente y si no existe parte en la vía destinada especialmente a su uso, los siguientes vehículos:
+        \n
+        \n - Vehículos de tracción animal, y vehículos especiales con MMA inferior a 3500 kg.
+        \n - Ciclos, ciclomotores de dos y tres ruedas y cuadriciclos ligeros
+        \n - Vehículos para personas de movilidad reducida y en seguimiento de ciclistas.
+        \n
+        \n Estos vehículos tendrán prohibido circular en posición paralela uno al lado del otro, excepto las bicicletas que podrán hacerlo en columna de dos acercándose al máximo al borde derecho.
+
+        \n Excepcionalmente también podrán circular en columna de dos los ciclomotores cuando el arcén sea suficiente y sin invadir la calzada.
+
+        \n Todos estos vehículos no podrán adelantar al resto si la duración de éste supera los 15 segundos o los 200 metros.
+
+        \n Por razones de emergenciadeberán circular por el arcén de su derecha si fuera transitable los vehículos con MMA inferior a 3500 kg cuando circulen a una velocidad muy reducida perturbando la circulación del resto de vehículos.
+
+</string>
+
+    <string name="PS_T7">Carriles reservados</string>
+    <string name="PS_T7D">Debido a la densidad del tráfico las autoridades reservan en ocasiones carriles para los transportes dedicados a colectivos de viajeros, con el fin de facilitar su circulación.
+
+        \n Se indica la existencia del carril mediante una línea longitudinal continua y las palabras bus y taxi pintadas en el pavimento. También puede señalizarse el carril mediante una señal vertical con la mención de taxi que prohíbe al resto de conductores que no sean de transportes colectivos circular por ese carril.
+
+        \n La circulación, parada y estacionamiento de vehículos distintos a la palabra pintada en el pavimento están prohibidos.</string>
+
+    <string name="PS_T8">Carril cerrado la circulación</string>
+    <string name="PS_T8D">Cuando un carril queda cerrado a la circulación es necesario advertirlo mediante señales que preseñalizan el carril que va a dejar de ser utilizable, y indicando que es necesario realizar un cambio de carril.</string>
+
+    <string name="PS_T9">Vías y carriles para ciclistas</string>
+    <string name="PS_T9D">Pueden existir tanto en poblado como fuera de él, carriles acondicionados especialmente para ciclos y carriles bici. La señal de obligación que en ellos encontramos obliga a los conductores de ciclos a utilizar esa vía y prohíbe su uso al resto de usuarios.
+
+        \n En la calzada se marca con dos líneas transversales, discontinuas y paralelas la existencia de un paso para ciclistas con preferencia de paso.</string>
+
+    <string name="PS_T10">Carriles reversibles</string>
+    <string name="PS_T10D">Los carriles reversibles se ponen en utilización cuando se da una gran congestión de tráfico en una vía. Con ellos se consigue que el tráfico resulte más fluido utilizando uno u otro sentido según las necesidades de cada momento.
+
+        \n Los vehículos que circulen por un carril reversible deberán llevar encendida como mínimo la luz de corto alcance o cruce tanto de día como de noche, y no deberán invadir el carril inmediatamente situado a su izquierda.</string>
+
+
+
+    <string-array name="PS">
+        <item>Sentido de la circulación</item>
+        <item>Posición en la calzada</item>
+        <item>Utilización de carriles</item>
+        <item>Vías fuera de poblado</item>
+        <item>Utilización de carriles en poblado</item>
+        <item>Circulación por el arcén</item>
+        <item>Carriles reservados</item>
+        <item>Carril cerrado la circulació</item>
+        <item>Vías y carriles para ciclistas</item>
+        <item>Carriles reversibles</item>
+    </string-array>
+
+
+
+
+
+</resources>

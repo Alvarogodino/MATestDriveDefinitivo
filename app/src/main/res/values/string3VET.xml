@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="VET_T1">La visibilidad</string>
+    <string name="VET_T1D">La primera condición que deben reunir los vehículos de motor es la de estar construidos y mantenidos para que el campo de visión del conductor hacia todos los lados, sea suficiente para que pueda conducir con seguridad.
+
+        \n Los elementos que proporcionan una buena visibilidad desde el interior del vehículo son:
+
+        \n - Elementos transparentes del habitáculo del vehículo
+        \n - Los espejos retrovisores
+        \n - Los dispositivos de alumbrado</string>
+
+    <string name="VET_T2">El parabrisas y la luneta</string>
+    <string name="VET_T2D">El parabrisas es el cristal transparente situado en la parte delantera del vehículo. Su finalidad es proteger de los fenómenos atmosféricos y permitir ver desde el asiento y hacia delante la vía.
+
+        \n El vehículo también cuenta con ventanillas laterales y una luneta en la parte posterior que facilitan la visibilidad hacia los lados y hacia atrás.
+
+        \n Es habitual que el parabrisas se pueda romper especialmente en carreteras con obras por la gravilla o por pequeñas piedras que despidan los demás vehículos. Para evitar ésta rotura en éstas zonas deberemos reducir la velocidad y aumentar la distancia de separación.</string>
+
+    <string name="VET_T3">Limpiaparabrisas y lavaparabrisas</string>
+    <string name="VET_T3D">Para obtener una buena visibilidad todos los cristales del vehículo se deben mantener limpios. Para ello el propio vehículo dispone de dispositivos adecuados como los limpiaparabrisas, el lavaparabrisas o los dispositivos antihielo y antivaho.
+
+        \n Nunca se debe poner en funcionamiento el limpiaparabrisas con el cristal seco ya que lo rayaría y un cristal rayado produce deslumbramiento al conductor. Las escobillas de limpieza deben encontrarse siempre en buen estado sustituyéndolas cuando vibren o las gomas estén dañadas.
+
+        \n Por lo que se refiere al lavaparabrisas éste consiste en un pequeño motor eléctrico que accionado por el conductor, recoge agua de un pequeño depósito y lo lanza en forma de pequeños chorros.
+
+        \n Limpiaremos los orificios de salida del lavaparabrisas cuando estén sucios y vigilaremos con frecuencia el nivel del agua del depósito, llenándolo cuando esté vacío con detergente neutro.</string>
+
+    <string name="VET_T4">Limpialuneta y lavaluneta</string>
+    <string name="VET_T4D">Algunos vehículos llevan instalados limpialuneta y lavaluneta para limpiar el cristal de ventanilla posterior. Estos dispositivos no son obligatorios pero si recomendables.</string>
+
+    <string name="VET_T5">Limpiafaros y lavafaros</string>
+    <string name="VET_T5D">Algunos vehículos llevan también instalados limpiafaros y lavafaros para limpiar los cristales de los faros. No son obligatorios pero si recomendables para mejorar la nitidez de los faros.</string>
+
+    <string name="VET_T6">Dispositivos antihielo y antivaho</string>
+    <string name="VET_T6D">En invierno se suelen formar capas de escarcha en la parte exterior de los cristales o se empañan con vaho en su parte interior lo que dificulta su visibilidad. Para eliminar la escarcha y el vaho el cristal de la ventanilla posterior trasera suele estar dotado de un positivo antihielo y antivahoindependiente.</string>
+
+    <string name="VET_T7">El quitasol</string>
+    <string name="VET_T7D">Paraevitar que los rayos de sol incidan directamente en los ojos, los vehículos suelen estar provistos de quitasol cuya instalación no es obligatoria pero sí recomendable. Acostumbra a ser una especie de visera abatible desplazable también hacía el lado izquierdo.</string>
+
+    <string name="VET_T8">Los espejos retrovisores</string>
+    <string name="VET_T8D">Tan importante es ver hacia delante como hacerlo hacia los lados y hacia atrás, es por ello que sin espejos retrovisores sería imposible conducir bien y con seguridad ya que nos faltaría información suficiente para ello.</string>
+
+    <string name="VET_T9">Clases de espejos retrovisores</string>
+    <string name="VET_T9D">Los retrovisores pueden ser interiores o exteriores:
+
+        \n <b>Interiores</b>
+        \n Están destinados a ser instalados en el interior del habitáculo y son de la clase I.
+        \n Permitirá ver al menos una parte de la carretera desde el horizonte hasta una distancia de 60 metros por detrás y en una anchura de 20 metros.
+        \n
+        \n <b>Exteriores</b>
+        \n Están destinados a ser montados sobre un elemento de la superficie exterior del habitáculo. Son los de las clases II y III, IV, V y L.
+
+        \n - Retrovisor exterior izquierdo: Permite ver al menos una parte de la carretera horizontal de 2,50 metros de anchura y se extenderá desde 10 metros más atrás de los puntos oculares del conductor hasta el horizonte.
+        \n - Retrovisor exterior derecho:
+        \n       - Para vehículos de categoría M1 y N1 de MMA de 2 toneladas, permite ver al menos una parte de la carretera de 4 metros de anchura desde 20 metros por atrás desde el conductor hasta el horizonte.
+        \n       - Para vehículos de distinta categoría a M1 y N1 y MMA igual o inferior a 2 toneladas permite al conductor ver al menos una parte de la carretera de3,50 metros de anchura desde 30 metros por detrás de los puntos ocular del conductor hasta el horizonte.
+        \n
+        \n Los vehículos de motor, deberán llevar, como mínimo los espejos retrovisores obligatorios y no más de los establecidos como máximo. (ver cuadro retrovisores)</string>
+
+    <string name="VET_T10">Regulación de los espejos retrovisores</string>
+    <string name="VET_T10D">La regulación de los espejos retrovisores debe realizarse con el vehículo inmovilizado antes de iniciar la marcha y en un terreno llano.
+
+        \n Para regular el espejo retrovisor interior, el conductor sentado en posición de conducción normal, lo cogerá por los bordes y lo orientará para obtener la mejor visión posible a través de la ventanilla trasera, reflejando al menos tres, sino cuatro lados de la misma.
+
+        \n Para regular el espejo retrovisor izquierdo el conductor en posición de conducción normal orientará con la mano izquierda el espejo hasta que vea la calzada y lo mínimo indispensable de la parte posterior del costado del vehículo.
+
+        \n Para regular el espejo retrovisor derecho de no ser posible realizarlo por el conductor, éste deberá solicitar la ayuda de un tercero que deberá seguir el proceso del retrovisor izquierdo.</string>
+
+    <string-array name="VET">
+        <item>La visibilidad</item>
+        <item>El parabrisas y la luneta</item>
+        <item>Limpiaparabrisas y lavaparabrisas</item>
+        <item>Limpialuneta y lavaluneta</item>
+        <item>Limpiafaros y lavafaros</item>
+        <item>Dispositivos antihielo y antivaho</item>
+        <item>El quitasol</item>
+        <item>Los espejos retrovisores</item>
+        <item>Clases de espejos retrovisores</item>
+        <item>Regulación de los espejos retrovisores</item>
+    </string-array>
+
+</resources>

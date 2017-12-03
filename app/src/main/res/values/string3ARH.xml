@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ARH_T1">Accesorios que deben llevar los vehículos</string>
+    <string name="ARH_T1D">Los vehículos de motor deben llevar un equipo de accesorios y herramientas para reparar las averías que pudieran surgir durante la marcha.
+
+    \n También es obligatorio llevar un chaleco reflectante que deben ponerse en caso de avería cuando salga del vehículo tanto de día como de noche, los conductores de turismos, autobuses, los destinados al transporte de mercancías y vehículos mixtos adaptables.</string>
+
+
+    <string name="ARH_T2">Inspecciones técnicas periódicas</string>
+    <string name="ARH_T2D">Algunos accidentes pueden evitarse con un correcto mantenimiento del vehículo, por lo que un buen estado del vehículo es fundamental para la seguridad vial. El conductor ha de verificar el estado del vehículo con frecuencia para reparar los posibles fallos que presente.
+
+    \n La Administración obliga a que los vehículos sean sometidos a Inspecciones técnicas periódicas para garantizar la seguridad vial. Estas inspecciones se realizan en estaciones ITV y en ellas los vehículos son inspeccionados para comprobar si reúnen las condiciones técnicas mínimas para su circulación.
+
+    \n La frecuencia o periodicidad de las inspecciones obligatorias depende del vehículo, de la antigüedad y del servicio al que el vehículo se dedique.
+
+    \n Para la renovación de la tarjeta de transporte, es necesario presentar la tarjeta I.T.V actualizada así como al realizar una transferencia del vehículo en que la Jefatura Provincial de Tráfico comprobará que está al corriente con las inspecciones.</string>
+
+
+    <string name="ARH_T3">Resultado de la inspección favorable</string>
+    <string name="ARH_T3D">Éste resultado favorable debe constar en la tarjeta I.T.V que deberá ser devuelta a su titular, y la estación entregará el distintivo conforme ha superado la inspección, que será colocado en un lugar visible del vehículo. El plazo de validez de la inspección comenzará a partir de la fecha en que ésta fue favorable.</string>
+
+
+    <string name="ARH_T4">Resultado de la inspección desfavorable</string>
+    <string name="ARH_T4D">Las consecuencias serán distintas dependiendo de si las deficiencias son subsanables o no.
+    \n Cuando la inspección encuentre defectos que afecten gravemente a las condiciones de seguridad del vehículo concederá un plazo inferior a dos meses al titular del vehículo para subsanarlos. La inspección retendrá también la tarjeta I.T.V y entregará al titular un resguardo para el plazoseñalado así como una relación de los defectos observados en la inspección.
+    \n
+    \n El titular deberá presentar ante la inspección el vehículo una vezsubsanados los defectos. Si ésta segunda presentación se hace fuera de plazo deberá realizarse de nuevo una inspección completa del vehículo.
+    \n
+    \n Cuando la inspección encontrará deficiencias tan graves que hicieran que la utilización del vehículo constituyese un peligro el traslado del vehículo desde la estación hasta su destino se realizará por otros medios que no sean el propio vehículo.</string>
+
+    <string name="ARH_T5">Incumplimiento de normas sobre inspecciones</string>
+    <string name="ARH_T5D">Para un control efectivo de las inspecciones y sus resultados éstos son anotados en el Registro de Vehículos de la Dirección General de Tráfico.
+
+    \n Los titulares de los vehículos son los responsables de mantener al día las tarjetas de I.T.V y de su presentación dentro de los plazos establecidos. El incumplimiento de ésta observancia será dará lugar a sanción.
+    \n
+    \n Los agentes de la autoridad ante el incumplimiento de no haber pasado la Inspección Periódica intervendrán el permiso de circulación del vehículo y en su lugar entregarán un certificado concediendo al conductor un plazo de diez días para someterse a la inspección técnica.
+    \n
+    \n El titular del vehículo deberá presentar el vehículo a Inspección Técnica dentro de dicho plazo y si no lo hace se procederá a su precintado. También deberá ser presentado a inspección antes de que vuelva a circular, cualquier vehículo que haya sufrido un daño importante que afecte a un elemento de seguridad del mismo.
+    \n
+    \n Cuando el interesado haya realizado las reparaciones oportunas deberá llevar el vehículo a la estación ITV en la cual si la inspección es favorable le será devuelto el permiso de conducción.</string>
+
+    <string-array name="ARH">
+        <item>Accesorios que deben llevar los vehículos</item>
+        <item>Inspecciones técnicas periódicas</item>
+        <item>Resultado de la inspección favorable</item>
+        <item>Resultado de la inspección desfavorable</item>
+        <item>Incumplimiento de normas sobre inspecciones</item>
+    </string-array>
+</resources>

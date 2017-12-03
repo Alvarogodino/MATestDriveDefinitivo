@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MRA_T1">Reglaje del asiento</string>
+    <string name="MRA_T1D">El conductor deberá acomodar bien el asiento antes de iniciar la conducción. Para ellos podrá acercar o separar el asiento hasta que se adapte a sus características físicas. También podrá inclinarse ya que no debe quedar ningún espacio entre el respaldo y la parte alta de la espalda.
+
+        \n El asiento y el respaldo estarán bien reglados cuando el conductor llegue con los pies a los , con las manos al volante y accione la palanca de cambios de manera cómoda. La altura del asiento debe ser suficiente para ver la vía por encima del volante.
+
+        \n Tras regular el asiento y respaldo deberemos rientar los espejos retrovisores y abrocharnos el cinturón de seguridad. En el caso de lasmotocicletas una vez inicien la marcha el conductor debe apoyar ambos pies en los estribos o apoyapiés.</string>
+
+    <string name="MRA_T2">Los mandos del pie</string>
+    <string name="MRA_T2D">Con el pie derecho se accionan el pedal acelerador y el de freno mientras que con el pie izquierdo se acciona el pedal de embrague.
+
+        \n <b>El pedal acelerador</b>
+        \n Este pedal es el que regula la entrada de carburante al motor por lo que cuanto más se aprieta el pedal más carburante entra y el vehículo circulará a mayor velocidad y potencia. Es un mando muy sensible y al iniciar la marcha no es aconsejable apretarlo hasta el fondo ya que el consumo de carburante aumentará en exceso.
+
+        \n <b>El pedal de freno</b>
+        \n El hecho de que tanto el pedal de freno como el aceleradorse accionen con el mismo pie se debe a que no se han de apretar los dos pedales a la vez al tener finalidades contrarias. Salvo en caso de emergencia el pedal de freno se debe apretar de manera suave.
+
+        \n <b>El pedal de embrague</b>
+        \n El embrague permite al conductor decidir si el movimiento del motor se transmite o no a la caja de cambio de velocidades. Cuando no está seleccionada ninguna relación de marchase dice que el vehículo se encuentra en punto muerto.
+        \n El punto en el cual los dos discos que forman el embrague comienzan a tener contacto recibe el nombre de “punto de fricción” que puede llegarse a percibir con la experiencia. No tener en cuenta las reglas básicas de uso del embrague puede ser causa del calado del motor.</string>
+
+    <string name="MRA_T3">El volante</string>
+    <string name="MRA_T3D">El volante transmite la dirección que el conductor desee las ruedas directrices del vehículo. El volante debe cogerse con suavidad y firmeza y debe cogerse siempre con ambas manos y una posición equivalente a la de las tres menos cuarto en las agujas del reloj. Nunca deberemos cruzar las manos sobre el volante al girarlo ni tan siquiera en curvas cerradas.
+
+        \n También se debe evitar siempre que el conductor apoye el brazo izquierdo en la ventanilla o fuera del vehículo para no confundir al resto de usuarios de la vía.
+
+        \n En el caso de querer sustituir el volante de dirección el nuevo deberá ser de las mismas características ya que un tamaño diferente podría incidir negativamente en la conducción.</string>
+
+    <string name="MRA_T4">El freno de estacionamiento</string>
+    <string name="MRA_T4D">El freno de estacionamiento mantiene el vehículo inmovilizado cuando el conductor no se encuentra en él. Se acciona mediante una palanca que actúa sobre los elementos frenantes que inmovilizan las ruedas del vehículo.</string>
+
+    <string name="MRA_T5">La palanca de cambio</string>
+    <string name="MRA_T5D">La palanca de cambio de velocidades se encuentra situada entre los dos asientos delanteros o en el salpicadero. Mediante el accionamiento de la palanca se activa la caja de velocidades que permite al conductor utilizar la potencia del motor de acuerdo a las circunstancias de cada momento.
+
+        \n La relación de marcha más corta es la primera, que es la que transmite más fuerza hacia delante pero mueve el vehículo a menor velocidad. Por el contrario la relación más alta es la que menos fuerza transmite y es con la que se consigue una velocidad más elevada.
+
+        \n La caja de velocidades también permite el desplazamiento del vehículo hacia detrás lo que se consigue con la marcha atrás. El ruido del motor o el cuentarrevoluciones ayudarán a decidir al conductor cuando debe cambiar de relación de marcha.</string>
+
+    <string name="MRA_T6">Indicadores de dirección</string>
+    <string name="MRA_T6D">Los indicadores de dirección se utilizan para advertir al resto de usuarios sobre las maniobras que se van a realizar. Se percibe si están en funcionamiento por medio de una luz situada en el salpicadero.
+
+        \n La señal luminosaque emite e extingue de manera automática al girar el volante para enderezar la dirección. Aún así se debe comprobar que los indicadores han dejado de funcionar tras utilizarlos.
+
+        \n Todos los vehículos automóviles, con excepción de aquellos en que se pueda señalar con el brazo los cambios de dirección, deberán estar provistos de indicadores de dirección.</string>
+
+    <string name="MRA_T7">Luces</string>
+    <string name="MRA_T7D">El alumbrado delantero y trasero del vehículo se pone en funcionamiento accionando un interruptor. Para adaptar las luces en cada situación del tráfico el conductor se vale de una pequeña palanca.
+
+        \n Ésta palanca cuenta con tres posiciones que corresponden cada una de ellas a la posición de apagado, las luces de posición y las luces de cruce.</string>
+
+    <string name="MRA_T8">Limpiaparabrisas</string>
+    <string name="MRA_T8D">Todo vehículo provisto de parabrisas debe contar con al menos un limpiaparabrisas eficaz. Así mismo todo vehículo que cuente con un limpiaparabrisas debe estar provisto de un lavaparabrisas.
+
+        \n Ambos se accionan mediante un mando que debe estar al alcance del conductor, y su funcionamiento una vez accionado debe ser automático.</string>
+
+    <string name="MRA_T9">Tablero de instrumentos</string>
+    <string name="MRA_T9D">Dentro del tablero de instrumentos encontraremos pequeñas luces y agujas que indican al conductor el funcionamiento del automóvil. Entre otros estos indicadores informan de cuál es el nivel de gasolina, la velocidad, las revoluciones del motor o qué luces están encendidas.
+
+        \n El velocímetro o indicador de velocidad debe mirarse con frecuencia para no sobrepasar las velocidades máximas permitidas.</string>
+
+    <string name="MRA_T10">El habitáculo del automóvil</string>
+    <string name="MRA_T10D">El conductor debe encontrarse como dentro del automóvil. Para ello el habitáculo ha de tener el clima o ambiente adecuado de tal forma que esté bien ventilado y no haya dentro de él ni mucho calor ni mucho frío.
+
+        \n Hay que cuidar que el calor o el frío no sea excesivo ya que podría producir amodorramiento y somnolencia.</string>
+
+
+
+    <string-array name="MRA">
+        <item>Reglaje del asiento</item>
+        <item>Los mandos del pie</item>
+        <item>El volante</item>
+        <item>El freno de estacionamiento</item>
+        <item>La palanca de cambio</item>
+        <item>Indicadores de dirección</item>
+        <item>Luces</item>
+        <item>Limpiaparabrisas</item>
+        <item>Tablero de instrumentos</item>
+        <item>El habitáculo del automóvil</item>
+    </string-array>
+
+</resources>

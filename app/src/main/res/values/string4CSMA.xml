@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="CSMA_T1">Cambio de sentido</string>
+    <string name="CSMA_T1D">Cambiar el sentido de la marcha es dar media vuelta realizando un giro de 180 grados, para continuar circulando por la misma vía pero un sentido contrario al que se llevaba.
+
+    \n Para realizar esta maniobra deberemos seguir los siguientes pasos básicos:
+    \n
+    \n <b>- 1 Elegir un lugar adecuado donde efectuar la maniobra</b>
+
+    \n El lugar adecuado variará según las características de la vía debiendo realizar siempre la maniobra en un lugar donde no ponga en peligro ni obstaculice al resto de usuarios de la vía.
+    \n
+    \n <b>- 2. Comprobar si se puede llevar a cabo la maniobra</b>
+
+    \n Para cambiar de sentido se deberá observar el tráfico y asegurarse de que no se va a poner en peligro la seguridad de ningún otro usuario de la vía, teniendo en cuenta la distancia, velocidad y trayectoria del resto de vehículos. Si no se tiene la seguridad de poder realizar la maniobra con seguridad nos deberemos abstener de ejecutarla.
+
+    \n Cuando se espere para realizar la maniobra y se impida y obstaculice la marcha del resto de vehículos que nos siguen deberemos salir de la vía por su lado derecho hasta que sea posible ejecutar la maniobra.
+
+    \n Está prohibido cambiar el sentido de la marcha cuando los vehículos que circulen en sentido contrario y su velocidad no nos permitan realizarlo con seguridad. También estará prohibido excepto señal que lo permita, en autopistas y autovías, en pasos inferiores o túneles o en pasos para peatones señalizados. También estará prohibido cambiar de sentido en las curvas de reducida visibilidad y en las intersecciones salvo cuando se trate de una glorieta o plaza giratoria.
+
+    \n Existe señalización que prohíbe realizar un cambio de sentido en la vía. Una línea longitudinal continua o dos líneas continuas juntas prohíben la maniobra por no estar permitido rebasarlas. También la prohíbe una línea continua pegada a una discontinua cuando la continua esta en el lado más próximo al conductor.
+
+    \n Existen señales verticales que también prohíben el cambio de sentido como son la señal R-304 que prohíbe el cambio de sentido pero no el cambio de dirección o las señales R-303 y R-305.
+
+    \n Por su parte las señales que indican en qué lugar si se puede realizar la maniobra son la S-22 que indica la proximidad de un lugar donde se puede realizar un cambio de sentido al mismo nivel y la señal S-25 que indica lo mismo pero a distinto nivel.
+    \n
+    \n <b>- 3. Señalizar la maniobra, para advertir de ella a los demás usuarios de la vía</b>
+
+    \n Se deberá señalizar la maniobra con antelación, utilizando el indicador de dirección izquierdo o extendiendo el brazo en posición horizontal y con la palma de la mano hacia abajo.
+    \n
+    \n <b>- 4. Ejecutar la maniobra correctamente</b>
+
+    \n Para realizar el cambio de sentido, el conductor deberá situar su vehículo en el centro de la calzada sin rebasar su eje cuando sea posible dar el giro sin obstaculizar a los demás vehículos o dar marcha atrás. Si se realiza el giro en una zona que no permite lo anterior, deberá situar el vehículo en el borde derecho de la calzada para ejecutarla.
+
+    \n Si el cambio de sentido se hace en una rotonda o glorieta el giro se realizará dejando siempre a la izquierda en centro reduciendo en todos los casos la velocidad.</string>
+
+    <string name="CSMA_T2">Maniobra de marcha hacia atrás</string>
+    <string name="CSMA_T2D">Está prohibido circular marcha atrás pero existen ciertos casos en que está permitido: en los casos en que no sea posible marcha hacia delante o cambiar de dirección o como maniobra complementaria de otra que lo exija. En todo caso el recorrido debe ser el mínimo indispensable, no podrá ser superior a quince metros ni se podrá invadir un cruce de vías.
+
+    \n Antes de realizar esta maniobra el conductor deberá observar el tráfico para comprobar si la puede ejecutar mirando a ambos lados y utilizando los espejos retrovisores. También debe vigilar que no exista otro vehículo u obstáculo que se lo impida.
+
+    \n Debe señalizar la maniobra para advertir al resto de usuarios con la luz de marcha atrás si la tuviera, o sino con el brazo izquierdo extendido y la palma de la mano hacia atrás.
+
+    \n Cuando arranque para ejecutar la maniobra debe hacerlo de forma lenta y con precaución procurando que el espacio recorrido sea el mínimo posible.</string>
+
+    <string-array name="CSMA">
+        <item>Cambio de sentido</item>
+        <item>Maniobra de marcha hacia atrás</item>
+    </string-array>
+
+</resources>

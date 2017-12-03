@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="NGS_T1">Las señales como sistema de comunicación</string>
+    <string name="NGS_T1D">Las señales de circulación sustituyen el lenguaje hablado por el lenguaje de las formas, colores, símbolos y signos. Las señales que pueden ser utilizadas en las vías públicas deberán cumplir las normas establecidas en el Reglamento General de Circulación</string>
+
+
+
+    <string name="NGS_T2">Las señales de circulación</string>
+    <string name="NGS_T2D">Además de por las señales realizadas con las luces del vehículo y con el brazo el lenguaje de la carretera también está formado por las siguientes señales:
+    \n
+    \n   - Marcas viales, que son las marcas pintadas sobre el pavimento.
+    \n   - Señales verticales
+    \n   - Los semáforos
+    \n   - Las señales de balizamiento
+    \n   - Los paneles de mensaje variable
+    \n   - Las señales de los agentes de circulación
+    \n La señalización es el conjunto de señales incluidas todas las anteriores, que modifican el régimen normal de utilización de la vía y que informan y advierten a los usuarios de la misma. También ordenan y reglamentan su comportamiento ante circunstancias de la circulación.</string>
+
+
+    <string name="NGS_T3">Funciones que cumplen las señales</string>
+    <string name="NGS_T3D">
+    \n <b>  -</b> Advertir de los peligros de la vía
+    \n <b>  -</b> Ordenar la circulación según las circunstancias del momento y lugar
+    \n <b>  -</b> Guiar a los usuarios y proporcionarles la información necesaria
+    \n <b>  -</b> Aumentar la seguridad, fluidez y eficacia de la circulación
+    \n Para que estas funciones se cumplan la señalización debe ser clara y sencilla. Existe un orden de prioridad entre los distintos tipos de señales de circulación:
+
+    \n <b>  1.</b> Señales y órdenes de los agentes de circulación
+    \n <b>  2.</b> Señalización circunstancial que modifique la utilización de la vía y señales de balizamiento fijo.
+    \n <b>  3.</b> Semáforos
+    \n <b>  4.</b> Señales verticales de circulación
+    \n <b>  5.</b> Marcas viales
+    \n Ante dos señales en contradicción prevalecerá la prioritaria según el orden de prioridad o la más restrictiva si son señales del mismo tipo.</string>
+
+
+    <string name="NGS_T4">Obediencia de las señales</string>
+    <string name="NGS_T4D">Todos los usuarios de las vías están obligados a obedecer las señales que establezcan una obligación o prohibición y adaptar su comportamiento al de las reglas que se encuentren en las vías por las que circulen. No se podrá seguir circulando hasta haber cumplido la finalidad que la señal establece.
+
+También deben atender a las prescripciones de las señales aunque pueda parecer que estén en contradicción con las normas de comportamiento en la circulación.
+Todos los usuarios de las vías están obligados a obedecer las indicaciones de los semáforos y de las señales de circulación situados inmediatamente a su derecha, encima de la calzada o encima de su carril. Si se pretende girar a la izquierda o seguir de frente también obedecerán a aquellos situados inmediatamente a su izquierda.
+
+Si existen semáforos o señales con indicaciones distintas a derecha e izquierda los que pretendan girar a la izquierda o seguir de frente deben obedecer a los situados a su izquierda mientras que los que pretendan girar a la derecha deben respetar los situados a su derecha.
+
+Toda señal se aplica a toda la anchura de la calzada autorizada a utilizar por parte de los conductores a los que se dirija la señal.</string>
+
+
+    <string name="NGS_T5">Visibilidad e inscripciones</string>
+    <string name="NGS_T5D">Las señales, especialmente las de advertencia de peligro y reglamentación deben estar iluminadas para ser visibles por la noche.
+
+Para facilitar la interpretación de éstas señales podrán llevar un panel complementario debajo o en el interior de la misma. Así pues cuando las autoridades crean conveniente concretar el significado de una señal o símbolo se colocará una inscripción debajo de la señal en un panel complementario rectangular.</string>
+
+
+    <string name="NGS_T6">Idioma y alteración de las señales</string>
+    <string name="NGS_T6D">Las indicaciones que se incluyan en los paneles de señalización de las vías estarán escritas en castellano y en la lengua oficial de la comunidad autónomas.
+
+Está prohibido instalar, retirar o modificar la señalización de una vía sin permiso del titular de la misma. Así mismo tampoco se puede modificar el contenido de las mismas o colocar sobre las señales o en sus inmediaciones objetos que puedan inducir a confusión, reducir su visibilidad o deslumbrar a los usuarios de la vía.</string>
+
+
+
+    <string-array name="NGS">
+        <item>Las señales como sistema de comunicación</item>
+        <item>Las señales de circulación</item>
+        <item>Funciones que cumplen las señales</item>
+        <item>Obediencia de las señales</item>
+        <item>Visibilidad e inscripciones</item>
+        <item>Idioma y alteración de las señales</item>
+    </string-array>
+</resources>

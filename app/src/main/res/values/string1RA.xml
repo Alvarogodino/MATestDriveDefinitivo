@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ra_t1">Permiso de conducción como requisito</string>
+    <string name="ra_t1d">Para poder circular libremente por las vías públicas, el conductor de un vehículo debe poseer el permiso o licencia de conducción exigida por el Estado, que acredite sus aptitudes al volante.
+
+    \n El permiso y la licencia de conducción acreditan a su titular como apto para la conducción por sus conocimientos y habilidades demostrados ante la Autoridad Competente. Estos permisos autorizan la circulación de vehículos en las vías afectadas por la Ley de Tráfico.
+
+    \n Además de la tenencia del permiso es necesario que éste se encuentre en vigor y sea el adecuado para conducir cada tipo de vehículo.</string>
+
+    <string name="ra_t2">Clases de permisos de conducción</string>
+    <string name="ra_t2d"><b>Permiso A1</b>
+    \n El permiso de conducción A1 autoriza a conducir ciclomotores de dos y tres ruedas, cuadriciclos ligeros, vehículos de para personas de movilidad reducida y motocicletas de menos de 125 cm cúbicos con o sin sidecar.
+
+    \n <b>Permiso A</b>
+    \n El permiso de conducción A autoriza a conducir motocicletas con o sin sidecar sea cual sea su cilindrada y triciclos y cuadriciclos de motor con posibilidad de circular a más de 45 km/hora.
+
+
+    \n <b>Permiso B</b>
+    \n El permiso de conducción B autoriza a conducir vehículos automóviles de menos de 3500 kg y con menos de 9 plazas incluyendo la del conductor. También habilita a conducir triciclos y cuadriciclos de motor.
+
+    \n Habilitarán a conducir motocicletas ligeras de las que autoriza el permiso de la clase A1 cuando el permiso B tenga una antigüedad de más de tres años.
+
+    \n Permitirá conducir vehículos especiales agrícolas y no agrícolas siempre que no superen los 3500 kg y las 9 plazas incluido el conductor.
+
+    \n Podrán estos vehículos llevar enganchado un remolque de MMA inferior a 750 kg, siempre que la MMA del conjunto sea inferior a 3500 kg.
+
+    \n <b>Permiso B+E</b>
+    \n El permiso B+E permite conducir conjuntos de vehículos compuestos por un vehículo autorizado para conducir por el permiso B y un remolque de MMA superior a 750 kilogramos.
+
+    \n <b>Permiso C1</b>
+    \n El permiso de conducción C1 habilita a conducir automóviles destinados al transporte de mercancías con MMA superior a 3500 kg que no excedan de 7500 kg, siempre que sus plazas no excedan de 9. Estos vehículos podrán llevar acoplados un remolque de MMA menor de 750 kg.
+
+    \n <b>Permiso C1+E</b>
+    \n El permiso de conducción C1+E habilita a conducir conjuntos de vehículos formados por un automóvil de los autorizados por el permiso C1 y unremolque de MMA superior a 750 kg siempre que la MMA del conjunto no supere los 12.000 kg.
+
+    \n <b>Permiso C</b>
+    \n El permiso de conducción C habilita a conducir automóviles destinados al transporte de mercancías con MMA no exceda de 3500 kg y con 9 plazas como máximo incluida la del conductor. Pueden llevar enganchado un remolque de MMA menor de 750 kg.
+
+    \n <b>Permiso C+E</b>
+    \n Elpermiso de conducción C+E habilita a conducir conjuntos de vehículos acoplados compuestos por un vehículo de los que autoriza a conducir el permiso de la clase C y un remolque o semiremolque ya sea ligero (igual o menor de 750kg.) o pesado (mayor de 750kg.).
+
+
+    \n <b>Permiso D1</b>
+    \n El permiso de conducción D1 habilita a conducir automóviles destinados al transporte de personas con un número de plazas mayor de 9 y menor de 17 incluido el conductor. Podrán llevar un remolque de MMA de 750 kg como máximo.
+
+    \n Habilita también a la conducción de vehículos especiales no agrícolas, vehículos especiales agrícolas autopropulsados, y vehículos destinados al transporte de mercancías o conjuntos de los mismos con un mínimo de 9 plazas y un máximo de 17 incluida la del conductor.
+
+    \n <b>Permiso D1+E</b>
+    \n El permiso de conducción D1+E habilita a la conducción de conjuntos de vehículos acoplados compuestos por un automóvil de los autorizados en el permiso D1 y un remolque de MMA superior a 750 kg siempre que la MMA del conjunto no supere los 12000 kg y el remolque no se utilice para el transporte de personas.
+
+    \n <b>Permiso D</b>
+    \n El permiso de conducción D habilita a la conducción de automóviles destinados al transporte de personas o mercancías, vehículos especiales no agrícolas, vehículos especiales agrícolas autopropulsados o conjuntos de los mismos con más de 9 plazas incluida la del conductor. Dichos automóviles pueden llevar enganchados un remolque de MMA que no exceda de 750 kg.
+
+    \n <b>Permiso D+E</b>
+    \n El permiso de conducción D+E habilita a la conducción de conjuntos de vehículos compuestos por un vehículo de los autorizados por el permiso de clase D y un remolque cuya masa máxima autorizada exceda de 750 kg.</string>
+
+    <string name="ra_t3">Consideraciones a tener en cuenta</string>
+    <string name="ra_t3d">Los conductores en posesión del permiso B desde hace más de tres años podrán conducir en territorio nacional motocicletas sin sidecar de las autorizadas por el permiso A1.
+    \n - Los ciclomotores y vehículos para personas con movilidad reducida podrán ser conducidos con la correspondiente licencia de conducción o con los permisos A1, A o B.
+    \n - Los vehículos especiales agrícolas autopropulsados cuya dimensión no exceda del límite establecido por reglamento podrán ser conducidos con el permiso B o la licencia correspondiente (LVA) siempre que no se transporten más de cinco personas incluido el conductor.
+    \n - Para conducir autobuses articulados será necesario poseer el permiso de las clases D o D1 según si las plazas del autobús exceden o no las 17 plazas.
+    \n - Es necesario tener un año de experiencia en la conducción de automóviles de los autorizados por el permiso D y superar las pruebas para la obtención del permiso D para conducir vehículos que realicen transporte escolar, transporte público o vehículos prioritarios.
+    \n - Estos vehículos no deben tener una MMA superior a 3500 kg y utilizar emisores de luces o señales acústicas especiales.
+    \n - Las Jefaturas provinciales de tráfico realizarán duplicados de permisos a petición del usuario en caso de sustracción, extravío, deterioro del original o variación de datos.</string>
+
+    <string name="ra_t4">La Licencia de Conducción</string>
+    <string name="ra_t4d">Será necesaria la correspondiente licencia de conducción para conducir ciclomotores o vehículos para personas con movilidad reducida.
+
+    \n - LCC para ciclomotores
+    \n - LCM para los vehículos para personas con movilidad reducida
+    Estos vehículos también podrán ser conducidos con un permiso de clase A1, A o B.
+
+    Los vehículos especiales agrícolas o conjuntos de los mismos deberán ser conducidos con la licencia de conducción LVA o con el permiso B siempre que transporte a menos de 5 personas incluido el conductor.</string>
+
+    <string name="ra_t5">Limitaciones para los conductores noveles</string>
+    <string name="ra_t5d">Es necesario que el conductor novel complete su formación y adquiera hábitos viales tras aprobar su examen, hecho que le hace más vulnerable al conducir. Para ello se han previsto unas normas especiales para éste colectivo de conductores.
+    \n Los conductores noveles deberán llevar la placa L de conductor novel en la parte posterior del vehículo.
+
+    \n Ésta placa debe ser rectangular con una letra L de color blanco sobre fondo verde además de reflectante y de acuerdo a las dimensiones reglamentarias. Se debe situar en la parte posterior izquierda del vehículo y en el caso de las motocicletas en un lugar visible de la parte posterior.</string>
+
+    <string name="ra_t6">Permiso por puntos</string>
+    <string name="ra_t6d">Al obtener el permiso o licencia de conducción se asigna al conductor un número de puntos inicial que variará según la condición del mismo:
+    \n - 12 puntos: Para aquellos conductores veteranos con más de tres años de experiencia.
+    \n - 8 puntos: Para aquellos conductores con una antigüedad menor de 3 años, o aquellos que obtienen el permiso de nuevo tras perder todos sus puntos.</string>
+
+    <string name="ra_t7">Pérdida de puntos</string>
+    <string name="ra_t7d">La pérdida de puntos puede ser parcial o total y se perderán cometiendo infracciones graves o muy graves. El número máximo de puntos que se pueden perder en un mismo día es de 8 puntos salvo en los siguientes casos en los que sí será posible:
+
+    \n - No aceptar la imposición de someterse a las pruebas de detección de alcohol y drogas
+    \n - Sobrepasar en un 50% la velocidad máxima permitida en esa vía
+    \n - Conducir de forma temeraria o circular en sentido contrario al establecido
+    \n - Ocupar el vehículo con un 50% más de las plazas permitidas
+    \n - Realizar competiciones o carreras no autorizadas entre vehículos
+    \n Únicamente se podrán recuperar los puntos inicialmente asignados en caso de pérdida parcial de los mismos.
+
+    \n Para recuperar los puntos inicialmente asignados existen dos métodos:
+
+    \n - Por el transcurso del tiempo sin ser sancionado de nuevo. En caso de infracción grave deberán transcurrir dos años, y en caso de infracción muy grave serán tres años los que deberán pasar.
+    \n - Superando un curso de sensibilización y reeducación vial. Con éste método se podrán recuperar hasta un máximo de 6 puntos y se podrá realizar una sola vez cada dos años. Existen dos tipos de cursos los de recuperación parcial de puntos de 12 horas y los derecuperación del permiso o licencia de 24 horas.</string>
+
+    <string name="ra_t8">Suspensión del permiso de conducción</string>
+    <string name="ra_t8d">La suspensión del permiso de conducción puede ser impuesta por la Autoridad Judicial con carácter de pena, o por la Autoridad gubernativa con carácter de sanción administrativa.
+
+    \n Es la Autoridad gubernativa la que tiene la facultad de imponer además de la correspondiente multa la suspensión del permiso o licencia en caso de infracción grave o muy grave. Esta suspensión será de un mínimo de un mes y de un máximo de tres y podrá ser fraccionable en períodos nunca inferiores a los 15 días.
+
+    \n También se puede dar una suspensión cautelar, medida preventiva acordada por las Autoridades de Tráfico en los casos en que el mantenimiento del permiso de conducción entrañe un peligro para la seguridad de Tráfico. Ésta suspensión prohíbe conducir al conductor durante el período que dure la misma y no será devuelto hasta que cesen las causas que la motivaron.
+
+    \n Para que el permiso o licencia sea devuelto a su titular éste deberá superar las pruebas psicofísicas y de aptitudes necesarias ante la Jefatura Provincial de Tráfico.
+    \n Si se conduce un vehículo sin ser el titular de la autorización administrativa correspondiente se impondrá una sanción que imposibilitará obtener el permiso o licencia durante dos años.</string>
+
+    <string name="ra_t9">Documentos necesarios para circular</string>
+    <string name="ra_t9d">Para conducir por las vías públicas los conductores deberán además de estar autorizados con el correspondiente permiso o licencia, disponer de los siguientes documentos:
+
+    \n - La Tarjeta de Inspección Técnica o certificado de características técnicas en el caso de los ciclomotores.
+    \n - El certificado de seguro obligatorio.
+    \n - El permiso de circulación o licencia de circulación en el caso de los ciclomotores.</string>
+
+    <string name="ra_t10">Tarjeta I.T.V</string>
+    <string name="ra_t10d">La Tarjeta de Inspección Técnica (I.T.V) acredita que el vehículo cuenta con las características técnicas esenciales para circular por las vías públicas. Han de poseerlo todos los vehículos de motor y remolques y semirremolques.
+    Para realizar cualquier reforma importante en el vehículo será necesario pedir una autorización a los servicios de Industria competentes.</string>
+
+    <string name="ra_t11">Seguro de responsabilidad civil obligatorio</string>
+    <string name="ra_t11d">El conductor y propietario del vehículo de motor es responsable de los daños causados a las personas o bienes debido a la circulación del mismo. Es por éste motivo que todo conductor propietario de un vehículo a motor con estacionamiento habitual en España está obligado a contratar un seguro de responsabilidad civil obligatorio. Este seguro cubre dentro de ciertos límites la responsabilidad civil que se deriva de la conducción del vehículo.
+
+    \n Deberán estar asegurados todos los vehículos a motor incluidos ciclomotores, remolques y semirremolques y vehículos especiales.
+
+    \n Este seguro comprende la cobertura de los daños a las personas y bienes causados por la circulación del contratante del mismo. En el caso de la indemnización por daños en los bienes el seguro obligatorio deberá reparar el daño causado cuando el contratante del mismo resulte civilmente responsable. Así mismo cuenta con un importe máximo por víctima y lo mismo ocurre en el caso de los bienes.
+
+    \n El seguro obligatorio no cubre los daños y perjuicios ocasionados en la persona del conductor causante del accidente ni los daños sufridos por el vehículo y bienes del mismo.
+
+    \n El seguro obligatorio tiene un plazo de validez limitado que acostumbra a ser de un año. Pasado el primer año el seguro sólo será válido si lo acompaña el recibo conforme está al corriente de pago que siempre debe llevarse en el vehículo.
+
+    \n La no tenencia del seguro obligatorio llevará consigo la prohibición de circular, la retirada y depósito del vehículo y una sanción económica.</string>
+
+    <string name="ra_t12">El permiso de circulación</string>
+    <string name="ra_t12d">El permiso de circulación es el documento que acredita a la circulación de los vehículos por las vías públicas. Una vez efectuada la matriculación se expide el permiso o licencia de circulación en la Jefatura de Tráfico correspondiente.
+
+    \n Deberán contar con él los vehículos a motor, ciclomotores, vehículos para personas de movilidad reducida y remolques y semirremolques con MMA superior a 750 kg.
+
+    \n Cuando se transfiera el vehículo a otra persona el transmitente está obligado a comunicarlo a la Jefatura de Tráfico en 10 días, así como el adquirente deberá solicitar la renovación del permiso o licencia de conducción.
+
+    \n También deberá informarse a la Jefatura de Tráfico en caso de variación de datos, deterioro o extravío del permiso, reforma esencial en el vehículo o retirada de la circulación del vehículo.</string>
+
+
+    <string-array name="RA">
+        <item>Permiso de conducción como requisito</item>
+        <item>Clases de permisos de conducción</item>
+        <item>Consideraciones a tener en cuenta</item>
+        <item>La Licencia de Conducción</item>
+        <item>Limitaciones para los conductores noveles</item>
+        <item>Permiso por puntos</item>
+        <item>Pérdida de puntos</item>
+        <item>Suspensión del permiso de conducción</item>
+        <item>Documentos necesarios para circular</item>
+        <item>Tarjeta I.T.V</item>
+    </string-array>
+
+
+</resources>

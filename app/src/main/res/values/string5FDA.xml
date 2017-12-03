@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="FDA_T1">El conductor</string>
+    <string name="FDA_T1D">Todos los vehículos que circulen por las vías públicas deben ser conducidos por un conductor con las aptitudes necesarias para circular con seguridad. Es necesario que el conductor esté bien informado sobre las leyes y normas que rigen la circulación al recibir y procesar la información que recibe del entorno al conducir.
+
+    \n Es por ello que el conductor debe reunir unos requisitos físicos y psicológicos y demostrar en el momento del examen unos conocimientos teóricos y prácticos para superarlo. Las aptitudes psicofísicas mínimas necesarias no serán las mismas si se opta a obtener el permiso A o B como si se opta al permiso C o D por ejemplo.
+    \n
+    \n Por ello existen los permisos y licencias de conducción ordinarios, pertenecientes a personas que no están afectadas por enfermedades o deficiencias, y los permisos y licencias extraordinarios pertenecientes a personas que no reúnen todas las aptitudes necesarias y deben conducir con restricciones.
+    \n
+    \n Para reconocer éstas aptitudes se deberá superar la prueba correspondiente en un Centro de Reconocimiento de Conductores.</string>
+
+
+    <string name="FDA_T2">La fatiga</string>
+    <string name="FDA_T2D">La fatiga supone un descenso de la capacidad de rendimiento del conductor lo que significa conducir por debajo de los niveles normales de seguridad. Existe la fatiga corporal y la fatiga psíquica y ambas son uno de los principales factores de riesgo en la conducción.
+
+    \n Propician la fatiga las carreteras monótonas y en mal estado, o las retenciones de tráfico. También existen factores relacionados con el vehículo o el conductor que la pueden propiciar como el exceso de calefacción o las malas posturas al volante.
+
+    \n La fatiga produce entre otros agarrotamiento muscular, agotamiento físico y aumento del tiempo de reacción así como sus síntomas pueden ser presión en la cabeza, sensación de brazos dormidos o disminución injustificada de la velocidad.
+    \n
+    \n Para combatir la fatiga debemos descansar correctamente antes de iniciar el viaje. Si aparece durante la conducción debemos estacionar el vehículo y dar un pequeño paseo para tomar aire.
+    \n No se debe en ningún caso ingerir bebidas alcohólicas para estimular al conductor.</string>
+
+
+    <string name="FDA_T3">Disminución de la vigilancia o atención</string>
+    <string name="FDA_T3D">Es necesario que el conductor perciba todos los estímulos que se le presentan durante la conducción a través de los diferentes sentidos. Las causas que pueden disminuir la vigilancia o atención son la fatiga o cansancio, la somnolencia provocada por comidas copiosas, exceso de calor o algunos medicamentos entre otros motivos, y la monotonía de la carretera.
+
+    \n Deberemos descansar cada 2 ó 3 horas o entre cada 200 y 300 km, mantener el habitáculo ventilado y evitar las comidas copiosas y bebidas alcohólicas para evitar ésta disminución.</string>
+
+
+    <string name="FDA_T4">El sueño o somnolencia</string>
+    <string name="FDA_T4D">Entre los efectos negativos que produce el sueño en la conducción están los siguientes:
+    \n
+    \n - Disminución de la capacidad de reacción y incremento del tiempo de reacción
+    \n - Alteración de las respuestas motrices
+    \n - Aumento de las distracciones y disminución de la capacidad de concentración
+    \n - Afectación de los órganos de los sentidos y disminución de la capacidad de reacción de los mismos
+    \n - Dificultad en la rectificación de la trayectoria del vehículo y en apreciación de distancias
+
+    \n Se debe procurar no cambiar la duración del descanso, realizar descansos frecuentes y evitar la conducción nocturna en trayectos largos para evitar la somnolencia.</string>
+
+
+    <string name="FDA_T5">El sentido de la vista</string>
+    <string name="FDA_T5D">El campo visual es todo aquello que abarca la vistaal mirar de frente a un punto fijo, así pues el ángulo visual será menor cuando el objeto esté más alejado.
+
+    \n Para ver al frente cuando conducimos únicamente será necesario permanecer atento, pero para ver por los laterales y por detrás el conductor deberá ayudarse de los espejos retrovisores exteriores e interior.
+    \n
+    \n La conducción nocturna será más peligrosa que la diurna por lo que a la visión se refiere ya que la percepción de los objetos es más difícil y la luz que proporciona los faros es limitada.
+    \n
+    \n Así pues lalongitud y anchura de la zona iluminada con las luces s siempre reducida y por ello es importante estar atento ya que algunas cosas pueden quedar fuera del alcance de la vista.
+    \n
+    \n El conductor puede sufrir también deslumbramiento: de día por la luz del sol y de noche por las luces de otros vehículos. Para evitar el deslumbramiento deberemos sustituir el alumbrado de carretera por el de cruce cuando preveamos que podemos deslumbrar a otros vehículos y tener las luces bien regladas. En el caso de ser de día deberemos protegernos con parasoles y gafas oscuras.</string>
+
+
+    <string name="FDA_T6">El sentido del oído</string>
+    <string name="FDA_T6D">El oído es un sentido muy importante para poder desarrollar una buena conducción. Las personas con deficiencias en el oído podrán obtener un permiso de conducción extraordinario con adaptación de los espejos retrovisores.</string>
+
+
+    <string name="FDA_T7">El tiempo de reacción</string>
+    <string name="FDA_T7D">El tiempo de reacción es el tiempo que transcurre desde que el conductor percibe un estímulo hasta que responde al mismo. Estos estímulos pueden proceder de la vía, de las señales de tráfico, de los demás vehículos etc…
+
+    \n El tiempo de reacción es variable y en situaciones normales se mantiene entre medio segundo y un segundo. Éste tiempo puede incrementarse por la presencia de algunos factores como por ejemplo, la edad avanzada,las drogas y algunos medicamentos, la fatiga o el alcohol. También enfermedades como el catarro o el reuma pueden afectar a la conducción.</string>
+
+
+    <string name="FDA_T8">Las drogas, cafeína y medicamentos</string>
+    <string name="FDA_T8D">Está prohibido que circulen por las vías aquellos conductores que hayan ingerido o se encuentren bajo los efectos de drogas tóxicas o medicamentos que alteren el estado físico o mental del que los tome.
+
+    \n Existen tres tipos de drogas: depresoras, estimulantes y alucinógenas que producen diferentes efectos pero siempre modifican el comportamiento normal del conductor.
+    \n
+    \n La mayoría de drogas producen dependencia física y psicológica y síndrome de abstinencia, y si estos ocurren durante la conducción las consecuencias pueden ser fatales. Se estima que alrededor del 5% de los accidentes de mayor gravedad son causados por el consumo de drogas.
+    \n
+    \n La cafeína es un estimulante psíquico que actúa sobre el sistema nervioso y afecta al ritmo y frecuencia cardíaca.
+    \n
+    \n Entre los medicamentos más importantes que afectan a la conducción encontramos a los analgésicos, los barbitúricos, los estimulantes y los tranquilizantes. Éstos medicamentos pueden producir efectos como falta de concentración, mareos, visión borrosa, fatiga, sueño etc… y mezclados con alcohol sus efectos pueden ser imprevisibles.</string>
+
+
+    <string name="FDA_T9">La intoxicación alcohólica</string>
+    <string name="FDA_T9D">El alcohol, incluso en pequeñas dosis, tiene una influencia negativa en la conducción y causa numerosos accidentes.
+
+    \n Con una tasa de 0,9 gramos de alcohol por litro de sangre hay seis veces más posibilidades de sufrir un accidente mortal. Con una tasa de 1,5 gramos el riesgo se multiplica por veinte.
+    \n
+    \n El alcohol produce en el conductor un falso estado de euforia, aumento del tiempo de reacción y reducción del campo visual. También aumentar la distancia recorrida desde que el conductor percibe el peligro hasta que actúa sobre el vehículo.
+    \n
+    \n También hace que el conductor perciba incorrectamente las distancias y velocidades aumentando así el riesgo de que se produzcan accidentes.
+    \n
+    \n La tasa de alcoholemiaes el número de gramos o miligramos en un litro de sangre o de aire. Como norma general los conductores tienen prohibido conducir con una tasa de alcohol por litro superior a 0,25 mg/l en aire espirado. Ésta cantidad se reduce a 0,15 mg/l en el caso de los conductores de transporte escolar, de transporte de mercancías, de servicios de urgencia y los conductores cuyo primer permiso se haya obtenido hace menos de dos años.
+    \n
+    \n Todos los conductores están obligados a someterse a las pruebas de alcoholemia y también los usuarios de la vía implicados en accidentes si presentan síntomas evidentes de encontrarse bajo los efectos del alcohol. Ésta prueba se realizará con un etilómetro.
+    \n
+    \n La inmediata inmovilización del vehículo podrá ser ordenada por el Agente de la autoridad cuando el resultado de las pruebas fuera positivo. También puede ordenarla si el afectado se niega a realizar la prueba de alcoholemia.</string>
+
+
+    <string name="FDA_T10">El vestuario del conductor</string>
+    <string name="FDA_T10D">La vestimenta que el conductor debe utilizar debe ser cómoda y relajada y no son aconsejables las ropas ajustadas en viajes largos. Por lo que se refiere al calzado éste debe ser flexible y ligero y nunca de suela muy gruesa o con tacones muy altos para así poder actuar correctamente sobre los pedales.
+
+    \n Los conductores de motocicletas deben llevar un traje de piel, prenda impermeable y guantes y botas para mejorar así su experiencia al volante.</string>
+
+</resources>

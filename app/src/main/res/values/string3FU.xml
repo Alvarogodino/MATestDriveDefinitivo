@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="FU_T1">Los frenos y su utilización</string>
+    <string name="FU_T1D">Para su circulación por las vías públicas los vehículos automóviles deben disponer de dispositivos de frenado. El freno permite que el vehículo disminuya su velocidad, se detenga estando en movimiento y permanezca inmovilizado si se encuentra detenido.
+
+    \n Existen dos tipos de dispositivos de frenado:
+    \n <b>- Freno de servicio o de pie:</b> Disminuye la velocidad del vehículo y lo detiene de forma segura. Debe actuar sobre todas las ruedas del vehículo.
+    \n <b>- Freno de estacionamiento o de mano:</b> Mantiene inmovilizado el vehículo.
+
+    \n El dispositivo de freno consta de cuatro partes:
+    \n
+    \n <b>- Elemento frenante:</b> Parte fija que al accionar el freno entra en contacto con la parte móvil (tambor o disco) deteniendo el primero el movimiento del segundo.
+    \n <b>- Mando:</b> Parte del dispositivo que el conductor acciona con el pie o con la mano. En el freno de servicio es el pedal y en el de estacionamiento la palanca.
+    \n <b>- Elementos para transmitir la fuerza de frenada:</b> Conjunto de elementos entre el mando y el freno, que transmite el esfuerzo que el conductor hace sobre el mando.
+    \n <b>- El freno:</b> Es el órgano dónde se desarrollan las fuerzas que se oponen al movimiento de las ruedas.</string>
+
+    <string name="FU_T2">Clases de Frenos</string>
+    <string name="FU_T2D">Los frenos de un vehículo pueden ser de disco o de tambor:
+
+    \n <b>- Frenos de disco:</b> Consiste en un par de pastillas (elementos fijos) que se cierran y oprimen un disco (elemento móvil) cuyo rozamiento disminuye el giro de la rueda.
+    \n Son utilizados en el eje delantero de los turismos por su frenada progresiva y tienen menor superficie de fricción para un mejor control del vehículo.
+    \n <b>-Frenos de tambor:</b> Consiste en un par de zapatas (elementos fijos) que se expanden en un tambor (elemento móvil), provocando el rozamiento que disminuye el giro de la rueda. Tienen una gran capacidad de frenada aunque menos progresiva que en el de disco, y también refrigeran peor al tener poca ventilación.</string>
+
+    <string name="FU_T3">El frenado</string>
+    <string name="FU_T3D">Para liberar la energía cinética del vehículo es necesario aplicar una fuerza frenante. Así pues, el frenado consiste en la aplicación de una superficie fija contra otra que gira y no solo se realiza con los frenos sino que también se puede hacer con el motor.
+
+    \n El uso del motor como freno en circulación normal es continuo, ya que en ocasiones con levantar el pie del pedal acelerador se consigue disminuir la velocidad sin usar el freno de servicio. No es conveniente usar solo el freno motor para frenar en curvas peligrosas, y es siempre conveniente combinar el freno motor con el del servicio.</string>
+
+    <string name="FU_T4">Eficacia del frenado</string>
+    <string name="FU_T4D">La eficacia del frenado depende de la presión que ejerzan las zapatas sobre los tambores o pastillas, de manera que cuanto mayor sea la fuerza con la que se pise el pedal de freno mayor será la presión. También depende de los neumáticos, la calzada, la velocidad, la masa del vehículo y su carga y del buen estado de los frenos.
+
+    \n No se debe ejercer excesiva fuerza ya que los tambores o discos podrían quedar bloqueados, las ruedas podrían bloquearse produciéndose un derrape y el conductor podría perder la dirección del vehículo.
+
+    \n Existen sistemas que evitan el bloqueo de las ruedas como el ABS que tiene como principales ventajas que acorta la distancia de frenado, durante la frenada no se produce el desgaste irregular de los neumáticos y el vehículo es más estable en la frenada.
+
+    \n Para facilitar la conducción con baja adherencia y en maniobras bruscas se están incorporando nuevos sistemas electrónicos como el ASR y el ESP. Éstos consiguen adaptar la fuerza del motor a la adherencia entre las ruedas y el pavimento y corrigen los movimientos bruscos del vehículo.
+
+    \n Para que la frenada sea eficaz deberemos sustituir el líquido de freno cuando lo indique el fabricante y realizar revisiones periódicas y puesta a punto de los frenos en un taller especializado.</string>
+
+    <string name="FU_T5">Utilización de los frenos</string>
+    <string name="FU_T5D">Para que la frenada sea segura y controlada el conductor debe tener en cuenta lo siguiente:
+
+    \n - Debe frenar de manera suave y progresiva ya que el frenazo brusco bloquea las ruedas.
+    \n - Se ha de frenar con suficiente anticipación y no repentinamente.
+    \n - No se debe abusar del los frenos y no se debe mantener pisado el pedal de freno fuertemente hasta que se detenga el vehículo.</string>
+
+    <string name="FU_T6">frenos en condiciones normales</string>
+    <string name="FU_T6D">En condiciones normales de circulación, en el lugar donde sea necesario disminuir la velocidad o detener el vehículo debemos levantar el pie del pedal acelerador con antelación, ya que es una forma de conducir económica y segura. No debemos en ningún caso seguir acelerando para luego frenar bruscamente ya que resulta poco económico.</string>
+
+    <string name="FU_T7">frenos en detención de emergencia</string>
+    <string name="FU_T7D">Cuando surge un peligro imprevisto que obliga a detener el vehículo rápidamente instintivamente el conductor pisa a fondo los pedales de embrague y freno. Esto es incorrecto y peligroso ya que debemos realizar una frenada fuerte pero sin llegar a bloquear las ruedas.
+
+    \n Si el vehículo está dotado de un sistema ABS ante una frenada de emergencia si se deben pisar los pedales de embrague y freno a la vez para que actúe éste sistema y no bloquee las ruedas.</string>
+
+    <string name="FU_T8">Fallo de los frenos</string>
+    <string name="FU_T8D">La posibilidad de que los frenos fallen es mínima pero existe, por ello el conductor debe conocer las posibles causas de fallo, y el comportamiento para evitarlo y contrarrestarlo si fuera necesario. Las causas más comunes de fallo son la pérdida de líquido, el desgaste de zapatas o pastillas, el calentamiento excesivo y el aire en el circuito de frenado.</string>
+
+    <string name="FU_T9">Pérdida de líquido</string>
+    <string name="FU_T9D">El depósito del líquido de freno es translúcido para comprobar el nivel y tiene marcas de máximo y mínimo para vigilar su cantidad. Las fugas de líquido se pueden notar por el recorrido excesivo que realiza el pedal de freno. Deberemos llevar el vehículo al taller mecánico para localizar la causa de pérdida y revisar todo el circuito.</string>
+
+    <string name="FU_T10">El derrape</string>
+    <string name="FU_T10D">El derrape se produce cuando las ruedas pierden adherencia sobre el pavimento y el vehículo se desplaza lateralmente. Se pueden evitar atendiendo a los indicios (curvas, manchas de grasa o grava) para que el conductor adopte las medidas necesarias.
+
+    \n Así pues el conductor deberá ante estas circunstancias moderar la velocidad, aumentar la distancia de seguridad y frenar suavemente.
+
+    \n Existen varias causas por las que se produce un derrape:
+    \n
+    \n - Uso brusco e inadecuado de los frenos y el pedal acelerador.
+    \n - Manejo incorrecto del volante cuando la velocidad del vehículo no es la adecuada.
+    \n - Mal uso del conjunto de freno y dirección.
+    \n - Velocidad excesiva o inadecuada cuando los neumáticos estén desgastados o poco inflados y la calzada se encuentre en mal estado.
+    \n - Accionado incorrecto del mando de aceleración, freno o dirección.
+    \n
+    \n Si el derrape se produce por exceso de frenada deberemos dejar de frenar ya que al más leve indicio de derrape se debe levantar el pie del pedal. Por el contrario si se trata de un leve coleo del vehículo deberemos levantar ligeramente el pie del pedal acelerador.</string>
+
+
+    <string-array name="FU">
+        <item>Los frenos y su utilización</item>
+        <item>Clases de Frenos</item>
+        <item>El frenado</item>
+        <item>Eficacia del frenado</item>
+        <item>Utilización de los frenos</item>
+        <item>frenos en condiciones normales</item>
+        <item>frenos en detención de emergencia</item>
+        <item>Fallo de los frenos</item>
+        <item>Pérdida de líquido</item>
+        <item>El derrape</item>
+    </string-array>
+</resources>

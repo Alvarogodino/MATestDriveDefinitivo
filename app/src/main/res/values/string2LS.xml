@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="LS_T1">Los semáforos</string>
+    <string name="LS_T1D">La señalización con semáforos se utiliza cuando las corrientes circulatorias son intensas y las señales verticales o horizontales no resultan suficiente.
+
+Los semáforos pueden ser de dos tipos: para peatones y para vehículos. Dentro del grupo de los destinados a vehículos existen los semáforos circulares, los cuadrados o de carril y los reservados a determinados vehículos.
+
+</string>
+
+
+    <string name="LS_T2">Semáforos reservados para peatones</string>
+    <string name="LS_T2D">
+    \n <b>Luz roja no intermitente en forma de peatón inmóvil</b>
+    \n Indica a los peatones que no deben comenzar a cruzar la calzada mientras dure ésta luz.
+    \n <b>Luz verde no intermitente en forma de peatón en marcha</b>
+    \n Indica a los peatones que pueden comenzar a atravesar la calzada. Cuando la luz pasa a ser intermitente avisa de que está a punto de encenderse la luz roja.</string>
+
+
+    <string name="LS_T3">Semáforos circulares para vehículos</string>
+    <string name="LS_T3D">
+    \n <b>Luz roja no intermitente</b>
+    \n Una luz roja no intermitente prohíbe el paso y los vehículos no deben rebasar el semáforo o línea de detención mientras permanezca encendida.
+    \n
+    \n <b>Luz roja intermitente</b>
+    \n Una o dos luces rojas alternativamente intermitentes prohíben temporalmente el paso ante un paso de nivel o entrada a puente móvil o en las proximidades de una salida de vehículos
+    \n
+    \n <b>Luz amarilla no intermitente</b>
+    \n Indica que los vehículos deben detenerse igual que si fuera una luz roja fija a no ser que el vehículo se encuentre tan cerca del semáforo que no pueda frenar con seguridad.
+    \n
+    \n <b>Luz amarilla intermitente</b>
+    \n Una o dos luces amarillas alternativamente intermitentes obliga a los conductores a extremar la precaución y a ceder el paso a los vehículos que se aproximen por la vía transversal.
+    \n
+    \n <b>Luz verde no intermitente</b>
+    \n Una luz verde no intermitente indica que está permitido el paso con prioridad. Sin embargo no se deberá entrar en la intersección si se cree que se va a quedar atrapado en medio de la misma.
+    \n
+    \n <b>Flecha negra</b>
+    \n Una flecha negra sobre luz roja o amarilla no intermitente no cambia el significado de las luces pero lo limita al movimiento que indique la flecha.
+    \n
+    \n <b>Flecha verde</b>
+    \n Una flecha verde iluminada sobre fondo negro indica que los vehículos pueden tomar la dirección indicada por la flecha sea cual sea la luz encendida en el semáforo contiguo.</string>
+
+
+    <string name="LS_T4">Semáforos cuadrados de carril</string>
+    <string name="LS_T4D">Éste tipo de semáforos afectan únicamente a los vehículos que circulen por el carril donde se encuentre dicho semáforo. Las luces de los semáforos cuadrados pueden tener forma de aspa o de flecha.
+    \n
+    \n <b>Luz roja en forma de aspa</b>
+    \n Ésta luz determina la prohibición de ocupar el carril indicado y los conductores que se encuentren en él deberán abandonarlo lo antes posible.
+    \n
+    \n <b>Luz verde en forma de flecha</b>
+    \n Una luz verde en forma de flecha indica que se permite circular por el carril en el que se encuentra encendida.
+    \n
+    \n <b>Luz blanca o amarilla en forma de flecha</b>
+    \n Una luz blanca o amarilla en forma de flecha oblicua apuntando hacia abajo indica a los vehículos de dicho carril a incorporarse a aquel otro al que apunte la flecha porque el primero va a ser cerrado.</string>
+
+
+    <string name="LS_T5">Semáforos reservados a determinados vehículos</string>
+    <string name="LS_T5D">
+    \n <b>Semáforos para ciclos y ciclomotores</b>
+    \n La silueta iluminada de un ciclo en un semáforo determina que sus indicaciones se dirigen únicamente a ciclos y ciclomotores.
+    \n
+    \n <b>Semáforos reservados para tranvías y autobuses</b>
+    \n Si el semáforo consiste en una franja blanca sobre fondo circular negro las indicaciones se dirigen únicamente a tranvías y autobuses de línea, a no ser que exista un carril reservado para autobuses o taxis en cuyo caso sólo se refiere a los que circulen por él.
+    \n
+    \n - Una franja blanca horizontal prohíbe el paso como una luz roja no intermitente.
+    \n - Una franja blanca vertical permite el paso de frente
+    \n - Una franja blanca oblicua hacia izquierda o derecha permite el paso a uno u otro lado.
+    \n - Una franja blanca vertical u oblicua intermitente indica que los vehículos deben detenerse como si se tratara de una luz amarilla fija.</string>
+
+
+    <string-array name="LS">
+        <item>Los semáforos</item>
+        <item>Semáforos reservados para peatones</item>
+        <item>Semáforos circulares para vehículos</item>
+        <item>Semáforos cuadrados de carril</item>
+        <item>Semáforos reservados a determinados vehículos</item>
+    </string-array>
+
+
+</resources>

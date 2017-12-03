@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="MI_T1">Maniobras básicas de la circulación</string>
+    <string name="MI_T1D">La maniobra es el movimiento que varía sensiblemente la situación de un vehículo en la calzada, respecto de la progresión “normal” que debería seguir. Las normas de tráfico que las regulan están enfocadas principalmente a evitar la peligrosidad que los vehículos generan al desarrollarlas.
+    \n
+    \n Las maniobras básicas de circulación son:
+    \n
+    \n - Incorporación a la circulación
+    \n Desplazamientos laterales
+    \n Cambios de dirección
+    \n Cambio de sentido de marcha
+    \n Adelantamientos
+    \n Paradas y estacionamientos
+    \n
+    \n Así pues no se consideran maniobras la reanudación de la marcha tras una detención y la trayectoria curvada que se realiza al tomar una curva. La marcha atrás si se considera una maniobra y además está incluida en las maniobras básicas para la circulación.</string>
+
+    <string name="MI_T2">Normas generales para las maniobras</string>
+    <string name="MI_T2D">Las maniobras suponen una alteración de las circunstancias normales de la vía por lo que debemos tomar precauciones como observar el tráfico, advertir la maniobra, y ejecutarla correctamente, siguiendo siempre este orden impuesto por las normas de tráfico.
+    \n
+    \n   1. Observar el tráfico y comprobar que se puede realizar la maniobra: Antes de iniciar una maniobra debemos asegurarnos de que puede realizarse sin peligro observando directamente o a través de los retrovisores.
+
+    \n   2. Advertir de la intención de realizar la maniobra al resto de usuarios de la vía: El conductor debe advertir sus intenciones de forma clara, con antelación suficiente y utilizando la señalización luminosa como norma general o eventualmente con el brazo.
+    \n
+    \n      Excepcionalmente se podrán utilizar señales acústicas y señales con el brazo para advertir la maniobra, siempre y cuando sean perceptibles por el resto de usuarios. Éstas últimas prevalecen sobre las luminosas y anulan cualquier otra señal óptica contraria.
+    \n
+    \n      En ocasiones se podrán utilizar las señales luminosas sustituyendo a las acústicas incluso en poblado, alternando el alumbrado de corto y largo alcance.
+    \n
+    \n   3. Ejecutar la maniobra de forma correcta :Es el último pasoal realizar una maniobra, siguiendo así la regla de seguridad de comprobar, advertir y ejecutar que todo conductor deberá obedecer.</string>
+
+    <string name="MI_T3">Incorporación a la circulación</string>
+    <string name="MI_T3D">La incorporación al tráfico de un vehículo se puede hacer desde diversas situaciones: estando el vehículo parado en una vía, desde sus vías de acceso, o desde un camino privado entre otros.
+    \n
+    \n La maniobra deberá realizarse siguiendo la regla de seguridad de observar, señalizar y ejecutar. Primero, el conductor deberá observar el tráfico para comprobar que puede incorporarse a la vía sin peligro para los demás conductores. También deberá comprobar que la calzada está libre y que la distancia y velocidad permiten la maniobra.
+    \n
+    \n Una vez comprobado el tráfico deberá señalizar la maniobra claramente y con antelación, y con el indicador de dirección correspondiente o el brazo. Deberá mantener la señal luminosa en todo momento hasta que finalice la maniobra, es decir hasta que ocupe el carril correspondiente.
+    \n
+    \n Cabe recordar que si la incorporación al tráfico se efectúa desde la izquierda utilizaremos el indicador de dirección derecho o el brazo izquierdo doblado con la palma de la mano hacia arriba, mientras que si se efectúa desde la derecha utilizaremos el indicador izquierdo y el brazo extendido con la palma hacia abajo.
+    \n
+    \n Como norma general, ejecutaremos la maniobra sin ser obstáculo para los demás o producir una desviación brusca a los mismos, a la velocidad adecuada y sin ser un peligro para el resto.
+    \n
+    \n Cuando nos incorporemos a la circulación desde un camino privado la regla general es hacerlo a la velocidad que nos permita detenernos en caso de necesidad, y cediendo el paso a los vehículos que circulen por la vía a la que nos incorporamos.
+    \n
+    \n Cuando la incorporación se realiza desde un carril de aceleración, el conductor deberá asegurarse al principio de éste de que puede introducirse sin peligro, y deberá detenerse si fuera necesario para ceder el paso a los vehículos. Tras esto el conductor deberá acelerar hasta llegar al final del carril y incorporarse al ritmo adecuado.
+    \n
+    \n Cuando la incorporación se realice desde un inmueble o parking privado el conductor deberá extremar la precaución, teniendo especial cuidado con los peatones.
+    \n
+    \n En todos los casos los conductores que circulen por la vía a la que se pretende incorporar deben facilitar la maniobra en la medida de lo posible. Es por ello que en poblado para facilitar la circulación de vehículos de transporte colectivo, el resto de conductores deberán desplazarse lateralmente y reducir su velocidad a la salida de las paradas señalizadas para ellos.</string>
+
+    <string name="MI_T4">Desplazamientos laterales y cambios de carril</string>
+    <string name="MI_T4D">La maniobra de desplazamiento lateral no siempre implica un cambio de carril sino que también se identifica con todo cambio sensible de posición en la calzada a izquierda o derecha, o la invasión parcial o total de un carril. No se considerará desplazamiento lateral la corrección de trayectoria dentro de un carril.
+    \n
+    \n Las causas que pueden motivar un desplazamiento lateral son diversas: seleccionar un carril para un cambio de dirección, volver a la derecha después de adelantar, o desviarse para parar o estacionar.
+    \n
+    \n Antes de realizar cualquier desplazamiento lateral se deberá observar que se puede realizar con toda seguridad y en caso contrario el conductor no deberá realizarlo.
+    \n
+    \n Para señalizar la maniobra se utilizará el indicador de dirección izquierdo o el brazo extendido hacia abajo si el desplazamiento es a la izquierda, y el indicador de dirección derecho o el brazo extendido hacia arriba si es a la derecha.
+    \n
+    \n El desplazamiento se realizará siempre sin ser un obstáculo para los vehículos que se nos acerquen en sentido contrario, y respetando la prioridad del vehículo que circule por el carril al que queremos cambiar. En todo caso el desplazamiento se realizará a una distancia suficiente y de forma gradual y progresiva.</string>
+
+    <string-array name="MI">
+        <item>Maniobras básicas de la circulación</item>
+        <item>Normas generales para las maniobras</item>
+        <item>Incorporación a la circulación</item>
+        <item>Desplazamientos laterales y cambios de carril</item>
+    </string-array>
+
+</resources>

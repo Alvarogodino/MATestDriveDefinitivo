@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="EIA_T1">La vía y su entorno</string>
+    <string name="EIA_T1D">La vía es un lugar estático donde se desarrolla el tráfico pero a la vez es cambiante, ya que las situaciones que en ella se den pueden ser muy diversas. Para poder responder a todas las situaciones con las que nos podemos encontrar existe un nivel de exigencia para dar la respuesta adecuada en cada momento.
+
+    \n Por ejemplo podemos encontrarnos que no es lo mismo conducir por tramos rectos que con curvas, de día que de noche o cuando existe mucho tráfico a cuando no lo hay. También es más sencillo conducir cuando la vía está bien señalizada a cuando no lo está ya que la información de la que disponemos es más completa.</string>
+
+
+    <string name="EIA_T2">El conductor</string>
+    <string name="EIA_T2D">El conductor es el encargado de dar una respuesta adecuada a cada situación que se presente en la vía atendiendo a las condiciones atmosféricas, a su geometría y a las normas y señales de circulación que la regulan.
+
+    \n El conductor recibe información del entorno en el que pilota el vehículo a través de estímulos (sobretodo en la vista y el oído). Una vez los percibe, toma decisiones rápidas sobre qué acción ejecutar como puede ser pisar el freno o girar el volante.
+    \n
+    \n La capacidad de respuesta ante los estímulos del conductor puede verse alterada cuando su estado psicofísico no es el adecuado del que se espera (consumo de alcohol o drogas, exceso de cansancio etc…)
+    \n
+    \n Es por ello que elnivel de capacidad de cada conductor se determinará por la formación adquirida antes y después de obtener el permiso de conducir, y también de la experiencia al volante por haber vivido más situaciones y más diversos que los noveles.</string>
+
+
+    <string name="EIA_T3">El vehículo y su carga</string>
+    <string name="EIA_T3D">Además de la capacidad de respuesta del conductor la seguridad en la conducción también vendrá dada por el estado del vehículo y su carga al realizar las acciones que se desprenden de las decisiones del conductor.
+
+    \n El buen estado del conductor y el buen estado del vehículo crean la capacidad total al volante. Será necesario que el vehículo tenga una buena reacción en sus características mecánicas (frenado, aceleración, potencia etc…) y en su mantenimiento (correcto estado de frenos, luces neumáticos etc…)
+    \n
+    \n También es de vital importancia la manera de conducir el vehículo que se recomienda que sea suave y prudente y la carga del vehículo, cuya distribución y peso puede afectar también en los accidentes de circulación.</string>
+
+
+    <string name="EIA_T4">El accidente de circulación</string>
+    <string name="EIA_T4D">Las exigencias de la conducción y las capacidades del conductor y el vehículo deben estar equilibradas, por lo que cuando se rompe este equilibrio se produce el accidente de circulación.
+    \n
+    \n Es importante y necesario que se conozcan las causas que producen los accidentes de tráfico para así poder evitar que en torno a 5000 personas mueran cada año en la carretera. Entre las causas de los accidentes de tráfico siempre se encuentra uno de los tres elementos antes mencionados: estado de la vía, factor humano y el estado del vehículo.</string>
+
+
+    <string name="EIA_T5">Causas imputables al factor humano</string>
+    <string name="EIA_T5D">El ser humano participa en la conducción bien siendo pasajero, conductor o peatón. Entre las causas de accidente imputables al hombre podríamos encontrarnos con lo que son comportamientos incorrectos infringiendo las normas y señales de tráfico, y los que son consecuencia de un estado psicofísico determinado.</string>
+
+
+    <string name="EIA_T6">Comportamientos incorrectos de los peatones</string>
+    <string name="EIA_T6D">El peatón es siempre el elemento más vulnerable en los atropellos, que en numerosas ocasiones se producen por comportamientos incorrectos de los mismos.
+
+    \n Los comportamientos incorrectos más frecuentes en atropellos son el cruzar la vía fuera del paso de peatones, cruzar en diagonal, irrumpir en la vía sin prestar atención al tráfico o subir y bajar de un vehículo de forma antirreglamentaria.
+    \n
+    \n Los dos grupos de personas más vulnerables en los atropellos son los niños y los ancianos, es por ello que los conductores deben extremar las precauciones, estar atento para reaccionar a tiempo, y advertir su presencia con antelación.</string>
+
+
+    <string name="EIA_T7">La distancia de reacción</string>
+    <string name="EIA_T7D">Para evitar la extrema violencia en algunos choques es necesario saber cual es la distancia recorrida en un segundo, que es justo el tiempo que transcurre desde que el conductor avista un obstáculo o peligro hasta que toma la decisión.
+    \n
+    \n Durante ese segundo en que el conductor está decidiendo el vehículo recorre una distancia que será mayor cuanto más alta sea la velocidad, y que recibe el nombre de distancia de reacción junto con el tiempo de reacción que es el tiempo que tarda el conductor.
+    \n
+    \n La distancia de reacción varía según la persona y sus reflejos, y también según el estado físico y psíquico en que se encuentre en ese momento. Si bien es cierto existen ciertos hábitos que propician el alargan esta distancia: fatiga, falta de sueño, comidas copiosas etc…</string>
+
+
+    <string name="EIA_T8">La distancia de detención</string>
+    <string name="EIA_T8D">La distancia de detención o de parada técnica, es aquella que recorre el vehículo desde que el conductor percibe el obstáculo hasta que queda totalmente detenido. Podríamos decir que es la suma de la distancia de reacción y la distancia de frenado.
+    \n
+    \n Las distancias de frenado y detención dependen de varios factores como la calidad del pavimento, el estado de los renos y neumáticos o la velocidad a la que se circule.
+    \n
+    \n En ocasiones el obstáculo con el que el conductor se va a encontrar no es visible a primera vista; es por ello que se debe circular siempre a una velocidad suficiente como para poder detenerse en caso de encontrarnos una intersección con un obstáculo que pueda resultar no visible de primeras.
+    \n
+    \n La distancia visible y sin obstáculos ni tan siquiera previsibles constituye una zona de seguridad en la que el vehículo deberá ser capaz de detenerse en caso de peligro por causa de un obstáculo.</string>
+
+
+    <string name="EIA_T9">La distancia de seguridad</string>
+    <string name="EIA_T9D">Otro motivo que causa los accidentes de circulación es el no mantener la distancia de seguridad con los vehículos que nos preceden, ya que con ello se reducen las posibilidades de realizar maniobras para evitar un accidente sin perjudicar al otro vehículo.
+    \n
+    \n Es imprescindible que un vehículo ante un peligro inminente disponga del tiempo y el espacio necesarios para evitar una colisión. Mantener como distancia de seguridad solo la que correspondería según el tiempo de reacción también sería peligroso ya que pueden no coincidir y provocar un accidente. Es por ello que la distancia de seguridad debe ser de al menos el doble que la distancia de reacción.
+    \n
+    \n Se deberá aumentar la distancia de seguridad cuando nos encontremos ante un pavimento mojado, con frenos deficientes o neumáticos desgastados para evitar patinar.</string>
+
+
+    <string name="EIA_T10">El estado psicofísico del conductor</string>
+    <string name="EIA_T10D">Los principales factores que inciden en el estado psicofísico haciéndole más vulnerable a cometer un accidente de tráfico son la distracción de la carretera, el cansancio y la somnolencia y el alcohol y las drogas presentes en un 37% de los accidentes.
+    \n
+    \n Es por ello que el conductor debe permanecer siempre atento a la vía y adecuar la conducción a la situación de tráfico que se le presenta en cada momento.</string>
+
+
+
+    <string-array name="EIA">
+        <item>La vía y su entorno</item>
+        <item>El conductor</item>
+        <item>El vehículo y su carga</item>
+        <item>El accidente de circulación</item>
+        <item>Causas imputables al factor humano</item>
+        <item>Comportamientos incorrectos de los peatones</item>
+        <item>La distancia de reacción</item>
+        <item>La distancia de detención</item>
+        <item>La distancia de seguridad</item>
+        <item>El estado psicofísico del conductor</item>
+    </string-array>
+</resources>

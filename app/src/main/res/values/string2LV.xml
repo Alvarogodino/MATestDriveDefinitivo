@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="LV_T1">Términos generales</string>
+    <string name="LV_T1D">Todo conductor de un vehículo a motor está obligado a respetar los límites de velocidad establecidos por la Autoridad en cada vía, atendiendo a las características de la misma, las condiciones meteorológicas y el tráfico.
+    \n
+    \n Deberá en todo momento adecuar la velocidad de su vehículo a las circunstancias de la vía para que siempre pueda detenerlo de forma segura ante cualquier obstáculo dentro de su campo de visión. Si se circula de ésta manera diremos que se conduce a una velocidad adecuada.
+    \n
+    \n Cabe destacar que en las vías públicas puede existir una velocidad establecida de carácter general para aquellas vía que compartan características concretas y velocidad específica para un tramo o vía concretos.
+    \n
+    \n Es por ello que circular dentro de los límites genéricos o específicos máximos permitidos en una vía será circular a un velocidad limitada. Por su parte circular sin respetar esos mismos límites será un exceso de velocidad.
+    \n
+    \n Diferente del exceso de velocidad es la velocidad excesiva o inadecuada, que es aquella en que se conduce sin adaptarse a las circunstancias de la vía por la que se circula.
+    \n
+    \n Los vehículos especificados en el cuadro cuando realicen transporte escolar o de mercancías peligrosas reducirán su velocidad 10 kilómetros por hora respecto a la velocidad máxima de la vía.
+    \n
+    \n En aquellos autobuses en que los pasajeros viajen de pie, la velocidad máxima en vías fuera de poblado y autopistas y autovías dentro de poblado será de 80 kilómetros por hora.
+    \n
+    \n Los vehículos con licencia para ensayo o experimentación podrán rebasar en 30 kilómetros por hora la velocidad máxima de la vía pero únicamente en el itinerario que se le haya fijado de forma especial.
+    \n
+    \n En los vehículos en que su conductor circule a pie no sobrepasará la velocidad del paso humano, y en los arrastrados por animales la velocidad del trote de éstos.</string>
+
+
+    <string name="LV_T2">Límites de velocidad en vías urbanas y travesías</string>
+    <string name="LV_T2D">La velocidad máxima en vías urbanas y travesías será de 50 kilómetros por hora con carácter general. Los vehículos que circulen transportando mercancías peligrosas deberán hacerlo con una velocidad máxima de 40 kilómetros por hora.
+
+    \n Estos límites máximos podrán ser rebajados en las travesías peligrosas y vías urbanas dentro de poblado por decisión de la Autoridad.
+
+    \n También podrán ser ampliados excepcionalmente en las autopistas y autovías dentro de poblado siempre sin rebasar el límite máximo genérico de la vía. Si no existe otra señalización que lo indique la velocidad máxima en éstas carreteras será de 80 kilómetros por hora.
+
+    \n En las calles residenciales los vehículos que por ellas circulen deberán hacerlo a una velocidad máxima de 20 km/hora.</string>
+
+
+    <string name="LV_T3">Señales verticales de velocidad máxima</string>
+    <string name="LV_T3D">Éstas pueden ser señales verticales o estar pintadas como marcas viales. La señal de limitación de velocidad deberá ser obedecida desde el lugar en que se encuentra hasta la próxima señal de “fin de limitación de velocidad” o hasta la próxima señal de velocidad máxima.
+    \n
+    \n Cuando la señal de velocidad máxima se encuentre en un poste junto con otra que advierta de un peligro concreto en la vía, la limitación finalizará cuando acabe el peligro señalado. Si está situada en una intersección sin prioridad dejará de ser obligatoria al salir a una vía con prioridad.
+
+    \n Si la señal se encuentra pintada en el pavimento únicamente afectará a los vehículos que circulen por el carril en que se encuentre. La velocidad variable también puede ser indicada mediante paneles luminosos en los que la cifra que aparece es distinta según las condiciones meteorológicas o del tráfico.</string>
+
+
+    <string name="LV_T4">A determinados vehículos</string>
+    <string name="LV_T4D">Los transportes especiales que rebasen las dimensiones máximas autorizadas no podrán sobrepasar la velocidad máxima que se les marque, y los que necesiten de una autorización especial no podrán rebasar la que se encuentre en dicha autorización. Estos vehículos deberán llevar en la parte trasera del vehículo la señal de limitación de velocidad V-4 para advertir al resto de usuarios.
+
+    \n También existen señales que obligan a circular a una velocidad no inferior a la especificada; es el caso de la señal de velocidad mínima (R-411) que obliga a circular a la velocidad que indica como mínimo.
+
+    \n El conductor también debe tener en cuenta la advertencia de “velocidad máxima aconsejable” que especifica una velocidad máxima que no se debería rebasar aunque las condiciones de la vía sean favorables.</string>
+
+
+    <string name="LV_T5">Velocidad adecuada</string>
+    <string name="LV_T5D">Circular a una velocidad adecuada es hacerlo no sobrepasando la velocidad máxima genérica y específica de la vía. Hacerlo significa ser dueño del movimiento del vehículo ajustándolo a las características de la vía y a las circunstancias que se den en ella.
+
+    \n El conductor podrá reducir la velocidad de manera suave y no bruscamente y podrá detenerlo con seguridad ante cualquier obstáculo. Los conductores están obligados a circular a velocidad moderada y incluso a frenar en los siguientes casos:
+    \n
+    \n   - Cuando hayan peatones en la vía y se prevea que puedan acceder a ella y cruzarse en nuestro camino.
+    \n   - Cuando nos aproximemos a ciclos que se encuentran circulando en grupo especialmente en las intersecciones.
+    \n   - Al aproximarse a lugares con gran concurrencia de niños y ancianos o cuando haya animales en la vía.
+    \n   - Al aproximarse a glorietas, pasos a nivel y lugares de poca visibilidad o si circulamos bajo condiciones meteorológicas adversas.
+    \n
+    \n También deberán moderar la velocidad cuando exista peligro de deslumbramiento o cuando las luces del vehículo se averíen.</string>
+
+
+    <string name="LV_T6">Velocidades mínimas en poblado</string>
+    <string name="LV_T6D">Los conductores que circulen a una velocidad anormalmente reducida sin justificación pondrán el peligro al resto de usuarios a la vía ya que puede provocar frenazos, restar fluidez al tráfico y ocasionar largas colas.
+    \n
+    \n Circular a velocidad anormalmente reducida es como hacerlo a una velocidad inadecuada lo cual también es muy peligroso. Se considerará velocidad anormalmente reducida en autovías y autopistas conducir por debajo de los 60 km/por hora.
+
+    \n En el resto de vías se considerará velocidad anormalmente reducida a la que sea inferior a la mitad de la genérica. No obstante podrán circular por debajo de los límites mínimos los vehículos especiales, los vehículos de acompañamiento y cuando el tráfico así lo obligue.</string>
+
+
+    <string name="LV_T7">Otras consideraciones entorno a la velocidad</string>
+    <string name="LV_T7D">Las velocidades máximas fijadas para las carreteras convencionales sólo podrán ser sobrepasadas por turismos y motocicletas en 20 km/hora al adelantar a otro vehículo.
+
+    \n Si no existe señalización que indique lo contrario una vez entremos en núcleo urbano la velocidad máxima será de 50 km/hora que es la máxima genérica en poblado. Si al lado de la señal vertical de entrada a poblado nos encontramos con una especificación de velocidad está será aplicable a todo el poblado.</string>
+
+
+
+
+    <string-array name="LV">
+        <item>Términos generales</item>
+        <item>Límites de velocidad en vías urbanas</item>
+        <item>Señales verticales de velocidad máxima</item>
+        <item>A determinados vehículos</item>
+        <item>Velocidad adecuada</item>
+        <item>Velocidades mínimas en poblado</item>
+        <item>Otras consideraciones entorno a la velocidad</item>
+    </string-array>
+</resources>

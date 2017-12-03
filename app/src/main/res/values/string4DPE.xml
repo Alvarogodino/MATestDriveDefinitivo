@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="DPE_T1">La Detención</string>
+    <string name="DPE_T1D">La detención es la inmovilización momentánea de un vehículo por emergencia (avería), por necesidades de la circulación (atasco) o para cumplir un precepto reglamentario (ceder el paso).
+
+    \n No se puede confundir la detención con la parada ya que son maniobras distintas. Mientras que la detención no es una maniobra y su realización viene impuesta, la parada es una maniobra que se realiza de forma voluntaria.
+    \n
+    \n Por su parte la detención se efectúa tanto dentro como fuera de la corriente circulatoria, mientras que la parada se suele realizar abandonando la corriente circulatoria. Por último la duración de la detención depende de las circunstancias que la motivan, mientras que la parada no puede exceder de un tiempo determinado.
+    \n
+    \n La detención deberá realizarse de forma suave y progresiva evitando frenazos, y advirtiéndolo siempre que sea posible con las luces de frenado. Si la detención viene motivada por un atasco es recomendable parar el motor, pero si se da en el interior de un túnel o lugar cerrado por un tiempo superior a dos minutos, se deberá apagar el motor conservando encendidas las luces de posición.</string>
+
+    <string name="DPE_T2">Detención por emergencia</string>
+    <string name="DPE_T2D">La detención por emergencia puede ser causada por un accidente, avería o caída de la carga entre otros factores. El conductor y los ocupantes del vehículo detenido deberán señalizar el vehículo u obstáculo, encendiendo la señal de emergencia tanto de día como de noche y encendiendo las luces de posición durante la noche y en situaciones de poca visibilidad. También deberán colocar los triángulos de preseñalización, tanto de día como de noche.
+
+    \n Es importante que se despeje la vía y se aparte el vehículo de la calzada lo antes posible. Para ello el conductor y ocupantes colocarán el vehículo y su cargo en un lugar donde no sean un obstáculo a la circulación, y si fuera preciso remolcarlo ésta acción sólo sería llevada a cabo por un vehículo remolcador especializado. Excepcionalmente está permitido que el vehículo sea arrastrado por otro vehículo hasta el lugar seguro más cercano excepto en autovías y autopistas en que está prohibido.</string>
+
+    <string name="DPE_T3">Parada y estacionamiento</string>
+    <string name="DPE_T3D">La parada, es la inmovilización del vehículo que no se extenderá más allá de los dos minutos y sin que el conductor abandone el vehículo.El estacionamiento es la maniobra de inmovilización de un vehículo, que no se encuentra ni parado ni detenido.</string>
+
+    <string name="DPE_T4">maniobras de parada</string>
+    <string name="DPE_T4D">La parada y el estacionamiento como el resto de maniobras debe ser realizada siguiendo la regla de seguridad de observar, señalizar y ejecutar.
+
+    \n Antes de realizar la maniobra se observará el tráfico al frente y a los lados mediante los retrovisores, para comprobar que se puede realizar sin riesgo para el resto de usuarios de la vía.
+    \n
+    \n Una vez comprobada la viabilidad de la maniobra se debe señalizar para advertir al resto de usuarios bien con el indicador de dirección derecho si la parada o estacionamiento se hacen en el lado izquierdo, o bien con el indicador de dirección izquierdo si se efectuará en el lado izquierdo.
+    \n
+    \n Si para ejecutar la maniobra debieramos frenar de manera brusca y poco progresiva deberíamos avisar al resto de usuarios utilizando reiteradamente las luces de frenado o moviendo el brazo alternativamente arriba y abajo.
+    \n
+    \n El conductor deberá ejecutar la maniobra de forma que el vehículo no constituya un riesgo a la circulación, cuidando su circulación y no ejecutándola en un lugar expresamente prohibido para realizarla.
+    \n
+    \n En vías fuera de poblado la parada o estacionamiento deberán realizarse siempre fuera de la calzada, en su lado derecho y sin ocupar la parte transitable del arcén. En vías urbanas y travesías en cambio cuando debamos parar o estacionar en el arcén colocaremos el vehículo lo más cerca de su lado derecho si la vía es de dos sentidos o lo más cerca de su lado izquierdo o derecho indistintamente si la vía es de un único sentido.</string>
+
+    <string name="DPE_T5">Lugares prohibidos para parar</string>
+    <string name="DPE_T5D">Está prohibido parar en curvas y cambios de rasantes, túneles y pasos inferiores, intersecciones o carriles reservados para la circulación de determinados vehículos y en autopistas y autovías salvo en zonas especialmente habilitadas. Tampoco se podrá parar sobre los raíles de un tranvía o en los lugares donde se impida la visibilidad de la señalización al resto de usuarios.
+
+    \n También está expresamente prohibido parar en los carriles destinados a bicicletas o al uso del transporte público urbano, y en las zonas señalizadas para uso de personas con movilidad reducida.
+    \n
+    \n Por su parte el estacionamiento está prohibido en todos los lugares citados en qué está prohibida la parada y además en las zonas señalizadas para carga y descarga, en las zonas con limitación horaria sin el ticket correspondiente, sobre las aceras o pasos de peatones, delante de los vados señalizados y en doble fila.</string>
+
+    <string name="DPE_T6">Señales de parada y estacionamiento</string>
+    <string name="DPE_T6D">La parada y el estacionamiento están regulados por marcas viales y señales verticales. Las marcas viales utilizadas son por una parte una línea longitudinal amarilla junto a un bordillo que indica que en ese tramo de vía la parada y el estacionamiento están prohibidos.
+
+    \n Una línea longitudinal discontinua de color amarillo pintada junto al bordillo prohíbe el estacionamiento durante toda su longitud o esa zona está restringida para el estacionamiento durante un tiempo determinado. Esta marca vial sí permite la parada.
+    \n
+    \n Una línea en zig-zag de color amarillo indica que en ese tramo de vía el estacionamiento está prohibido por estar esa zona reservada para algún uso especial como carga y descarga o parada de autobuses. Ésta marca vial sí permite la parada.
+    \n
+    \n Por lo que se refiere a señales verticales la señal R-307 prohíbe la parada y el estacionamiento en el lado en el que está situada y termina por norma general en la siguiente intersección.
+    \n
+    \n La señal R-308 prohíbe estacionar en el lado que está situada pero sí permite la parada. Por su parte la señal R-308a prohíbe estacionar los días impares en el lado de la calzada en que esté dispuesta mientras que la señal R-308b prohíbe el estacionamiento los días impares permitiendo también la parada.
+    \n
+    \n La señal R-308c prohíbe estacionar en el lado de la calzada en qué esté dispuesta desde las 9h del día 1 de cada mes hasta las 9h del día 16 y no prohíbe la parada. La señal R-308d por su parte prohíbe estacionar desde las 9h del día 16 hasta las 9h del día 1 con las mismas características que la señal R-308c.
+    \n
+    \n La señal R-308e prohíbe el estacionamiento delante de un vado y la señal R-309 indica una zona de estacionamiento de duración limitada en la que el conductor tendrá la obligación de indicar la hora en que comienza su estacionamiento.</string>
+
+    <string name="DPE_T7">Zonas con horario limitado</string>
+    <string name="DPE_T7D">Las autoridades municipales en ocasiones se ven obligadas a regular el estacionamiento en las grandes ciudades por un tiempo limitado debido a la escasez de lugares para estacionar. Estas zonas se señalizan mediante señales verticales que indican la zona de estacionamiento limitado, y marcas viales de color azul. Éstas marcas viales indican que la duración del estacionamiento es limitada durante un tiempo.
+
+    \n En estas zonas es obligatorio colocar en un sitio visible del interior del vehículo un ticket previo pago que indique la hora en que ha comenzado el estacionamiento y la hora a la que debe acabar.</string>
+
+    <string name="DPE_T8">Lugares de estacionamiento</string>
+    <string name="DPE_T8D">La señal S-17 indica un lugar donde está autorizado el estacionamiento de vehículo. Ésta señal puede llevar un símbolo que indique el tipo de vehículos para los cuales está permitido el estacionamiento o una indicación de tiempo que limita el estacionamiento.
+
+    \n La señal S-18 indica el lugar reservado para la parada y estacionamiento de taxis mientras que la señal S-19 indica el lugar reservado para parada de autobuses. La señal S-20 indica el lugar reservado para la parada de tranvías y la S-124 un lugar de estacionamiento conectado con una estación de ferrocarril. Por último la señal S-126 indica que se trata de una zona de estacionamiento conectada con una terminal de autobuses.
+    \n
+    \n Se considera una parada o estacionamiento en lugar peligroso cuando obstaculice la circulación y cuando no permita el paso de otros vehículos o obstaculice la salida o acceso a un inmueble. También será peligroso el estacionamiento en medianas o isletas, o cuando la distancia entre el vehículo y el borde opuesto de la calzada sea menor de tres metros.
+
+    \n También se considera estacionamiento en lugar peligroso cuando se realiza en una zona de carga y descarga durante las horas reservadas, en un espacio reservado a servicios de urgencia o cuando se efectúe en doble fila y sin conductor. También será estacionamiento en lugar peligroso el realizado en medio de la calzada o en espacios prohibidos en la vía pública.
+    \n El estacionamiento se realizará paralelamente al borde de la calzada, de forma que permita dejar un espacio disponible para el resto de vehículos.</string>
+
+    <string name="DPE_T9">Formas de estacionar</string>
+    <string name="DPE_T9D">Las zonas de estacionamiento suelen indicarse con marcas de estacionamiento de color blanco de manera que cuando éstas son paralelas al bordillo el estacionamiento debe hacerse en línea (un vehículo detrás de otro).
+    \n
+    \n Cuando las marcas longitudinales son diagonales al bordillo el estacionamiento debe hacerse de manera oblicua.
+    \n
+    \n Cuando las marcas blancas son perpendiculares al bordillo el estacionamiento deberá realizarse en batería con las dos ruedas delanteras o traseras igual de próximas al bordillo.</string>
+
+    <string name="DPE_T10">Apertura de puertas del vehiculo</string>
+    <string name="DPE_T10D">Está prohibido llevar las puertas abiertas durante la marcha o abrirlas antes de que el vehículo quede inmovilizado. Antes de bajar del vehículo deberemos asegurarnos de que la apertura de las puertas no supone un riesgo para el resto de usuarios especialmente ciclistas, y conductores de motocicletas y ciclomotores.
+    \n
+    \n Una vez que el vehículo esté inmovilizado los usuarios deberán entrar y salir como norma general por el lado más cercano a la acera. En las vías urbanas de único sentido la salida y entrada se realizará por el lado izquierdo o derecho según el lado por el que se efectúe la inmovilización.
+    \n
+    \n Cuando la inmovilización del vehículo se realice en el lado derecho, el conductor podrá salir por el lado izquierdo pero siempre con precaución.</string>
+
+    <string-array name="DPE">
+        <item>La Detención</item>
+        <item>Detención por emergencia</item>
+        <item>Parada y estacionamiento</item>
+        <item>Maniobras de parada</item>
+        <item>Lugares prohibidos para parar</item>
+        <item>Señales de parada y estacionamiento</item>
+        <item>Zonas con horario limitado</item>
+        <item>Lugares de estacionamiento</item>
+        <item>Formas de estacionar</item>
+        <item>Apertura de puertas del vehiculo</item>
+    </string-array>
+
+</resources>

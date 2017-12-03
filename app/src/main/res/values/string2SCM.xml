@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SCM_T1">Paneles de mensaje variable</string>
+    <string name="SCM_T1D">Los paneles de mensaje variable tienen como función regular la circulación, adaptandola a las circunstancias cambiantes del tráfico.
+
+    \n Se utilizan para dar información a los usuarios de la vía, advertir de los posibles peligros y dar recomendaciones de obligado cumplimiento. Las modificaciones que incorporan sobre la señalización habitual de la vía finalizan, cuando lo establezca el panel o las causas que motivaron su interposición.
+    \n
+    \n Los mensajes son aprobados por la Jefatura Central de Tráfico y pueden ser mensajes preceptivos, de advertencia e informativos.</string>
+
+
+    <string name="SCM_T2">Dispositivos de barrera</string>
+    <string name="SCM_T2D">
+    \n Forman parte de la señalización circunstancial que modifica el régimen normal de la vía y prohiben el paso a la parte de la vía que delimitan. Existen 6 tipos de dispositivo de barrera.
+    \n
+    \n <b>Barrera fija:</b> Prohíbe el paso a la vía o parte de la misma que delimita.
+    \n <b>Barrera o semibarrera móvil:</b> Prohíbe temporalmente el paso mientras se encuentra en posición transversal a la calzada.
+    \n <b>Panel direccional provisional:</b> Prohíbe el paso e informa sobre el sentido de la circulación.
+    \n <b>Banderitas o conos:</b> Prohíben el paso a través de la línea real o imaginaria que los une.
+    \n <b>Luz roja fija:</b> Indica que la calzada está cerrada al tránsito.
+    \n <b>Luces amarillas fijas o intermitentes:</b> Prohíben el paso a través de la línea que los une.</string>
+
+
+    <string name="SCM_T3">Dispositivos de guía</string>
+    <string name="SCM_T3D">
+    \n Son señales de balizamiento fijo y su función es indicar el borde de la calzada, la presencia de una curva u otros obstáculos. Existen 8 tipos de dispositivos de guía.
+    \n
+    \n <b>Hito de vértice:</b> Elemento de forma semicilíndrica con dos triángulos opuestos que indica el punto en el que se separan dos corrientes de tráfico.
+    \n <b>Hito de arista:</b> Su finalidad es balizar los bordes de las carreteras en horas nocturnas.
+    \n <b>Paneles direccionales permanentes:</b> Informa sobre el sentido de circulación y señala un peligro puntual.
+    \n <b>Captafaros horizontales:</b> Se utilizan para resaltar los límites de los carriles y guiar la circulación.
+    \n <b>Captafaros de barrera:</b> Existen captafaros de barrera de dos tipos: balizas planas y balizas cilíndricas.
+    \n Las primeras indican el borde de la calzada y los límites de obras. Por su parte las cilíndricas refuerzan una medida de seguridad y no puede ser franqueada la línea que las une.
+    \n <b>Barreras laterales (rígidas, semirrígidas y desplazables):</b> Indican el borde de la plataforma y protegen frente a salidas de la vía.</string>
+
+
+    <string name="SCM_T4">Señalización y balizamiento de obras</string>
+    <string name="SCM_T4D">
+    \n La señalización de obras tiene por finalidad informar de la presencia de obras a los usuarios de la vía y ordenar la circulación en las zonas afectadas. Existen seis elementos o dispositivos de señalización de obras fijas son los siguientes:
+    \n
+    \n    - Señales de advertencia de peligro
+    \n    - Señales y dispositivos manuales
+    \n    - Señales de reglamentación y señales de indicación
+    \n    - Elementos de balizamiento reflectantes y elementos luminosos
+    \n
+    \n Las obras que dificulten la circulación vial deben estar señalizadas de día como de noche y balizadas luminosamente durante las horas nocturnas o en condiciones meteorológicas adversas.
+    \n Cuando se señalicen tramos de obras las marcas viales son de color amarillo y las señales verticales tendrán el fondo amarillo.</string>
+
+
+
+
+
+    <string-array name="SCM">
+        <item>Paneles de mensaje variable</item>
+        <item>Dispositivos de barrera</item>
+        <item>Dispositivos de guía</item>
+        <item>Señalización y balizamiento de obras</item>
+    </string-array>
+</resources>

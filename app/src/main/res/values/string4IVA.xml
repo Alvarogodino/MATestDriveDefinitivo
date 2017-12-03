@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="IVA_T1">Inmovilización del vehículo por agentes</string>
+    <string name="IVA_T1D">Una inmovilización puede darse por causas atribuidas al conductor, al vehículo o a la carga que transporta. Los Agentes de la autoridad encargados de la vigilancia del tráfico podrán ordenar la inmovilización de un vehículo si se infringe alguno de los preceptos de la ley de circulación, o si de su comportamiento puede derivar un peligro grave para el resto de usuarios de la vía.
+    \n Las inmovilizaciones ordenadas por los Agentes de la Circulación a un vehículo deben ser interpuestas únicamente por infringir un precepto de la ley viaria o porque de su circulación se deriva un posible riesgo grave para el resto de usuarios. Una vez desaparezcan las causas que la motivaron, la inmovilización será levantada.</string>
+
+    <string name="IVA_T2">Inmovilización por causas imputables al conductor</string>
+    <string name="IVA_T2D">Se inmovilizará el vehículo cuando el conductor se niegue a someterse a pruebas de alcoholemia o detección de estupefacientes u otras sustancias similares. Cuando los resultados de estas pruebas sean superiores a las tasas legalmente permitidas, se inmovilizará el vehículo hasta que el conductor esté en condición de conducirlo o hasta que otro individuo requerido por el conductor, pueda hacerse cargo de la conducción del vehículo.
+
+    \n También se inmovilizará un ciclomotor o motocicleta si el conductor no lleva casco o si no dispone de ticket que le autorice a aparcar en zonas de estacionamiento limitado. La inmovilización será levantada cuando se coloque el casco o se le identifique respectivamente.
+    \n
+    \n También se considerará causa de inmovilización imputable al conductor que no acredite su residencia habitual en España y no deposite el importe de la multa correspondiente o que lleve excesivo tiempo conduciendo y no haya realizado los descansos correspondientes.</string>
+
+    <string name="IVA_T3">Inmovilización por causas imputables al vehículo</string>
+    <string name="IVA_T3D">Un vehículo podrá ser inmovilizado cuando no tenga el seguro obligatorio correspondiente y en vigor, o cuando circule sin el permiso o la licencia de conducción en vigencia.
+
+    \n También podrá ser inmovilizado cuando circule superando los niveles de humos permitidos, o cuando haya realizado reformas en el vehículo sin autorización y manipulado los instrumentos de control.
+    \n
+    \n Cuando por sus deficiencias pueda resultar un peligro para la circulación o no se halle provisto de cadenas o neumáticos en zonas que sean necesarios, el vehículo será inmovilizado por los Agentes de Circulación. También ocurrirá si el vehículo no se ha presentado a la inspección técnica obligatoria de nuevo tras haber obtenido un resultado negativo de la misma.
+    \n
+    \n En el caso de que un vehículo no haya realizado las inspecciones técnicas obligatorias necesarias losAgentes de la autoridad podrán intervenir el permiso de circulación del vehículo, entregando al conductor un resguardo válido para 10 días en los que el conductor deberá pasar la citada inspección. Si no la realiza los Agentes podrán precintar el vehículo.</string>
+
+    <string-array name="IVA">
+        <item>Inmovilización del vehículo por agentes</item>
+        <item>Inmovilización por causas imputables al conductor</item>
+        <item>Inmovilización por causas imputables al vehículo</item>
+    </string-array>
+
+
+</resources>

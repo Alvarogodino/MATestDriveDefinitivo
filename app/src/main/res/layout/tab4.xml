@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/azulito"
+    tools:context="ej6.adsw.dit.upm.es.matestdrivedefinitivo.Tab4">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="23dp"
+        android:id="@+id/Seccion4"
+        android:layout_centerHorizontal="true"
+        android:text="@string/seccion4"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA">
+            <ImageButton
+                android:id="@+id/image_buttonA"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a1"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerA"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonA"
+
+                android:layout_alignRight="@+id/image_buttonCSMA"
+                android:layout_alignEnd="@+id/image_buttonCSMA">
+            </Spinner>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonCSMA"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a2"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerCSMA"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonCSMA"
+
+                android:layout_alignRight="@+id/image_buttonDPE"
+                android:layout_alignEnd="@+id/image_buttonDPE">
+            </Spinner>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonDPE"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a3"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerDPE"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonDPE"
+
+                android:layout_alignRight="@+id/image_buttonIPN"
+                android:layout_alignEnd="@+id/image_buttonIPN">
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonIPN"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a4"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerIPN"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonIPN"
+
+                android:layout_alignRight="@+id/image_buttonIVA"
+                android:layout_alignEnd="@+id/image_buttonIVA">
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonIVA"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a5"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerIVA"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonIVA"
+
+                android:layout_alignRight="@+id/image_buttonMI"
+                android:layout_alignEnd="@+id/image_buttonMI">
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonMI"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a6"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerMI"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonMI"
+
+                android:layout_alignRight="@+id/image_buttonSOC"
+                android:layout_alignEnd="@+id/image_buttonSOC">
+            </Spinner>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FAFAFA"
+            android:layout_marginTop="5dp">
+            <ImageButton
+                android:id="@+id/image_buttonSOC"
+                android:layout_width="70dp"
+                android:layout_height="50dp"
+                android:src="@drawable/a7"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="center_horizontal"
+                android:nestedScrollingEnabled="true"
+                android:background="@color/colorPrimary"/>
+            <Spinner
+                android:id="@+id/spinnerSOC"
+                android:layout_width="wrap_content"
+                android:layout_height="50dp"
+                android:layout_alignTop="@+id/image_buttonSOC"
+
+                android:layout_alignRight="@+id/image_buttonSOC"
+                android:layout_alignEnd="@+id/image_buttonSOC">
+            </Spinner>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

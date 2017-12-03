@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="SOC_T1">Señales y órdenes de los agentes de circulación</string>
+    <string name="SOC_T1D">La misión de los Agentes de Circulación que forman parte de la Policía de Tráfico, es exigir a los usuarios de las vías públicas el cumplimiento de sus deberes y el respeto a los derechos de los demás.</string>
+
+    <string name="SOC_T2">Clases de señales y sus características</string>
+    <string name="SOC_T2D">Existen dos tipos de señales que los Agentes de la Circulación realizan para regularla: Señales ópticas y señales acústicas.
+
+    \n Estas órdenes deben ser inmediatamente obedecidas por los usuarios de la vida, además de prevalecer sobre cualquier otra señal o norma de circulación aunque la contradiga.
+    \n
+    \n En ausencia de los Agentes de la autoridad la policía militar podrá regular la circulación. También podrá el personal de obras regular el paso de vehículos, y detener su marcha en caso de patrullas escolares.</string>
+
+
+    <string name="SOC_T3">Señales hechas con el brazo</string>
+    <string name="SOC_T3D">
+    \n <b>- Brazo levantado verticalmente:</b> Esta señal obliga a detenerse a todos los usuarios de la vía que se acerquen al Agente ante la línea de detención más cercana o antes del Agente. En una intersección la detención deberá efectuarse antes de entrar en ella.
+    \n <b>- Brazos extendidos horizontalmente:</b> Esta señal obliga a detenerse a todos los usuarios de la vía que se acerquen al Agente desde la dirección que los brazos cortan.
+    \n <b>- Balanceo de una luz roja o amarilla:</b> Esta señal obliga a detenerse a los usuarios de la vía hacia los cuales el Agente dirija la luz.
+    \n <b>- Brazo extendido moviéndolo de arriba abajo:</b> Esta señal obliga a disminuir la velocidad a los vehículos que se acerquen por el lado del brazo que efectúe el movimiento.</string>
+
+
+    <string name="SOC_T4">Señales acústicas</string>
+    <string name="SOC_T4D">Señales hechas con el silbato: Una serie de toques cortos y frecuentes obligan a detener el vehículo. Por el contrario un toque largo indica que se debe reanudar la marcha.</string>
+
+
+    <string name="SOC_T5">Otras órdenes o indicaciones</string>
+    <string name="SOC_T5D">Los agentes podrán dar órdenes desde su vehículo prioritario a través de megafonía o cualquier otro medio.
+    \n
+    \n <b>- Bandera roja:</b> Indica que a partir del vehículo que la lleva la calzada queda cerrada al tráfico temporalmente excepto para aquellos que escoltan al vehículo prioritario.
+    \n <b>- Bandera verde:</b> Indica que tras una bandera roja la calzada queda abierta de nuevo al tráfico.
+    \n <b>- Bandera amarilla:</b> Indica a los usuarios de la vía la necesidad de extremar la atención ante un peligro.
+    \n <b>- Luz roja o amarilla intermitente hacia delante:</b> Esta señal indica al conductor del coche que le sigue que debe detener el vehículo en el lado derecho delante del vehículo policial y seguir sus instrucciones.
+    \n <b>- Brazo extendido hacia abajo inclinado y fijo:</b> El agente indica la obligación de detenerse en el lado derecho de la calzada.</string>
+
+
+    <string name="SOC_T6">Dispositivos o elementos retrorreflectantes</string>
+    <string name="SOC_T6D">Los agentes de la circulación deben regular la misma portando distintivos fácilmente reconocibles tanto de día como de noche. Así pues deben utilizar prendas de colores llamativas y retrorreflectantes para ser visto a una distancia mínima de 150 metros.
+
+    \n Deberán llevarlas los Agentes de la autoridad, personal de obras, patrullas escolares, y el personal de protección civil entre otros. Estas prendas pueden ser manguitos, chalecos, cinturones etc…</string>
+
+
+    <string-array name="SOC">
+        <item>Señales y órdenes de los agentes</item>
+        <item>Clases de señales y características</item>
+        <item>Señales hechas con el brazo</item>
+        <item>Señales acústicas</item>
+        <item>Otras órdenes o indicaciones</item>
+        <item>Dispositivos retrorreflectantes</item>
+    </string-array>
+
+</resources>

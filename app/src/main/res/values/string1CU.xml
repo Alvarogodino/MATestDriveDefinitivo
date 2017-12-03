@@ -1,0 +1,140 @@
+<resources>
+
+
+    <string name="CU_T1">Obligaciones del conductor</string>
+    <string name="CU_T1D">El conductor no está solo en la vía y debe compartirla
+    con todos aquellos usuarios que también tienen el derecho a usarla.
+    \n El conductor deberá adoptar las precauciones necesarias cuando se aproxime al resto de
+    usuarios especialmente cuando éstos sean niños, ancianos o impedidos.
+    \n Debe también mantener su libertad de movimientos, el campo de visión necesario y una
+    atención permanente a la conducción. Para ello debe mantener la posición adecuada en el
+    vehículo de pasajeros y objetos transportados.
+    \n Estará totalmente prohibido el uso con el vehículo en movimiento de auriculares
+    conectados a reproductores de sonido, dispositivos móviles o reproductores de vídeo o
+    DVD.
+    \n Sí que estará permitido el uso del dispositivo GPS y de monitores a la vista del conductor
+    necesarios para la conducción.</string>
+
+    <string name="CU_T2">Necesidad de colaboración entre los usuarios </string>
+    <string name="CU_D2T">Los usuarios deberán colaborar entre ellos mediante
+    las acciones de advertir, comprender, no molestar y no sorprender.
+
+    \n No se deben incumplir las normas de circulación o faltar a la educación vial para así no
+    molestar al resto de usuarios. No se debe conducir de modo negligente y está
+    totalmente prohibido arrojar en la vía objetos que la puedan deteriorar o que puedan
+    producir un incendio como una colilla de tabaco.
+
+    \n Para no sorprender, se debe avisar con suficiente antelación de las maniobras que
+    vamos a realizar para que el resto de vehículos puedan reaccionar a tiempo.
+
+    \n A la hora de advertir se deben utilizar señales ópticas (o en su defecto con el brazo),
+    acústicas (claxon o bocina) o mixtas para advertir a los demás usuarios de la vía. Se debe advertir correctamente, con antelación suficiente y asegurándose de que los
+    usuarios las perciben.
+    \n Se prohíbe la utilización de mecanismos o sistemas que eludan la vigilancia de los
+    agentes de tráfico como los detectores de radares.
+
+    \n En la circulación es imprescindible comprender las advertencias y disculpar los errores
+    del resto de usuarios de la vía.
+    Es obligación del conductor también prever los movimientos de los demás y poner en
+    marcha así lo que se llama conducción defensiva.</string>
+
+    <string name="CU_T3">La zona de incertidumbre</string>
+    <string name="CU_T3D">La zona de incertidumbre es el espacio que rodea a
+    peatones, vehículos y animales al que se pueden desplazar de un modo imprevisto. Ésta
+    zona puede resultar peligrosa al no conocer cuál va a ser la reacción de los demás
+    usuarios de la vía.
+    \n Los vehículos también tienen una zona de incertidumbre: en la parte delantera, ya que no
+    pueden detener el vehículo automáticamente, y en la parte trasera para que así el
+    conductor pueda frenar de forma segura. También tienen una zona de incertidumbre lateral
+    y cabe destacar que los ciclistas también tienen su zona de incertidumbre.</string>
+
+    <string name="CU_T4">Los peatones</string>
+    <string name="CU_T4D">Peatón es la persona que transita a pie por las vías o
+    terrenos sujetos a la Ley de Tráfico. También son peatones los que conducen a pie un
+    ciclo o ciclomotor, los impedidos que circulan en silla de ruedas o los que empujan un
+    carrito de bebé.
+    \n Los peatones exigen del conductor una atención especial y se debe extremar las
+    precauciones sobre todo cuando se observen niños, ancianos o trabajadores en la
+    calzada. Los conductores deberán moderar la velocidad y adoptar precauciones con
+    antelación cuando se acerque a ellos.
+
+    \n El conductor también deberá extremar la precaución cuando se aproxime a un vehículo del
+    que desciendan viajeros, al parar o estacionar y durante la noche en lugares poco
+    iluminados.
+    \n Como norma general los conductores tienen la prioridad de paso para sus vehículos sobre
+    los peatones en la calzada y el arcén. Sin embargo los conductores deben ceder el paso a
+    los peatones en los pasos para peatones señalizados, en las zonas peatonales y en las
+    paradas señalizadas de autobús.
+    \n Los conductores tienen prohibido circular por las aceras y zonas peatonales y adelantar a
+    otros vehículos en los pasos para peatones señalizados o en sus proximidades. Así pues
+    tampoco pueden parar o estacionar en los pasos para peatones o sobre las aceras y
+    demás zonas destinadas al paso de peatones.
+    \n Los vehículos que circulen por autopista o autovía deberán hacer caso omiso a las señales
+    de autostop y dejar una separación lateral no inferior a 1,50 metros cuando adelanten a
+    peatones en vías fuera de poblado.</string>
+
+
+    <string name="CU_T5">Los vehículos que dificultan la fluidez y
+    visibilidad</string>
+
+    <string name="CU_T5D">Hay vehículos que por su lentitud, masa o dimensiones
+    exigen adoptar precauciones especiales por parte de sus conductores. Estas precauciones
+    deben adoptarse debido a que ocupan más calzada, necesitan más tiempo y espacio para
+    maniobrar e invaden parte de la calzada al tomar las curvas. También dificultan y alargan
+    los adelantamientos y la fluidez de la circulación.
+    \n Los demás conductores de la vía deben prever y advertir con más antelación las
+    intenciones de éstos vehículos pesados, evitar acercarse demasiado a ellos y facilitar sus
+    maniobras. También deben disminuir la velocidad al cruzarse con ellos especialmente
+    cuando se da fuerte viento lateral o la calzada está mojada y tener especial cuidado al
+    adelantar.</string>
+
+   <string name="CU_T6">Los vehículos de dos ruedas</string>
+    <string name="CU_T6D">Los vehículos de dos ruedas son menos estables que
+    los de tres o cuatro ruedas, son más frágiles y menos visibles por el resto de usuarios. Sus
+    conductores deben mantener el equilibrio y tener especial cuidado para poder ser visibles
+    durante la noche.
+   \n  Los conductores de bicicletas y ciclomotores circularán por su derecha: por el arcén
+    cuando éste sea transitable y suficiente o si esto no fuera posible deberán circular por la
+    parte imprescindible de la calzada siempre en línea recta y con especial cuidado al
+    efectuar giros.
+
+    \n Para protegerse, los conductores de motocicletas y ciclomotores deberán utilizar cascos
+    de protección homologados en todo tipo de vías. Quedarán exentos de llevar casco los
+    conductores y pasajeros de vehículos de dos ruedas con estructura de autoprotección
+    propia siempre que lleven abrochado el cinturón de seguridad.
+    \n También los conductores y pasajeros de bicicleta están obligados a utilizar casco en vías
+    interurbanas salvo condiciones extremas de calor, por razones médicas o en rampas
+    ascendentes.
+
+    \n Está prohibido circular por autopistas y autovías con bicicletas y ciclomotores excepto los
+    conductores de bicicletas mayores de 14 años que podrán circular por los arcenes de las
+    autovías. Los ciclistas podrán circular en grupo, en columna de dos a dos, o colocándose
+    en hilera.
+   \n  Cuando el resto de vehículos pretenda adelantar a un ciclo o ciclomotor deberá realizarlo
+    ocupando parte o la totalidad del carril contrario de la calzada. Cuando los conductores de
+    bicicletas circulen en grupo tendrán prioridad de paso respecto a los vehículos de motor.</string>
+
+    <string name="CU_T7">Los animales</string>
+    <string name="CU_T7D">Pese a que no es frecuente podemos encontrar
+    animales cuando circulemos por las vías públicas. Ante su presencia deberemos reducir la
+    velocidad y estar dispuestos para reaccionar en caso de que se espanten.
+
+    \n Los vehículos tiene prioridad de paso respecto a los animales excepto en las cañadas
+    debidamente señalizadas, cuando vayan a girar con su vehículo para entrar en otra vía y
+    hayan animales y cuando el vehículo cruce un arcén por el que circulen animales.
+    \n En los adelantamientos que se realicen a animales en vías fuera de poblado se deberá
+    ocupar parte o la totalidad del carril contiguo y en todo caso la separación lateral no será
+    inferior a 1,50 metros.</string>
+
+    <string-array name="CU">
+        <item>El conductor</item>
+        <item>Necesidad entre usuarios</item>
+        <item>Zona de incertidumbre</item>
+        <item>Los peatones</item>
+        <item>Dificultades por vehículos</item>
+        <item>Vehículos de 2 ruedas</item>
+        <item>Animales</item>
+    </string-array>
+
+
+</resources>

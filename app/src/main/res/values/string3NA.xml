@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NA_T1">Las ruedas</string>
+    <string name="NA_T1D">Las ruedas son los elementos sobre los que se apoya el automóvil y las encargadas de dirigir, propulsar y detener el mismo. Todos los vehículos de motor, remolque y las máquinas remolcadas deberán tener ruedas provistas de neumáticos.
+
+        \n Estos neumáticos deben presentar dibujo en las ranuras principales de la banda de rodamiento, y en contacto con el suelo no deben presentar estrías que puedan perjudicar el pavimento.
+
+        \n La rueda es una pieza metálica de alta precisión. Está calculada y normalizada en función del vehículo para el que está creada y no se debe montar una rueda en un vehículo inadecuado.
+
+        \n Las ruedas van fijadas a una parte llamada buje en el centro de los discos o en los tambores de freno mediante tuercas o tornillos.
+
+        \n La potencia del motor se puede transmitir a las ruedas delanteras (de tracción), a las ruedas traseras (de propulsión o tracción trasera), y a las ruedas delanteras y traseras a la vez (de tracción total)</string>
+
+    <string name="NA_T2">Funciones de las ruedas</string>
+    <string name="NA_T2D">Las funciones principales de las ruedas son las siguientes:
+
+        \n - Transmitir los esfuerzos de tracción y frenado
+        \n - Participar en la suspensión y confort del vehículo
+        \n - Liberar el calor producido por el trabajo de los frenos y neumáticos
+        \n - Soportar la masa del vehículo, pasajeros y carga</string>
+
+    <string name="NA_T3">a llanta</string>
+    <string name="NA_T3D">Es el elemento rígido de la rueda, de material metálico, que recibe el movimiento de giro y sobre el que se monta el neumático.
+
+        \n Las llantas pueden ser de chapa o de aleación ligera. Deben ser ligeras para ofrecer poca resistencia y tener rigidez para soportar la masa y esfuerzos a los que se somete al vehículo.
+
+        \n La concordancia de dimensiones entre la llanta y el neumático debe ser exacta, ya que los neumáticos anchos exigen llantas especiales que garanticen que el neumático no se salga de la llanta en los esfuerzos laterales.
+
+        \n No deben tampoco presentar señales de óxido o corrosión, ni deformaciones en sus bordes para lo que intentaremos evitar los roces contra bordillos o esquinas, y los baches.</string>
+
+    <string name="NA_T4">El neumático</string>
+    <string name="NA_T4D">El neumático es una estructura que suele ser hinchado con aire y montado sobre la llanta, y que debe ser flexible para poderabsorber las irregularidades del terreno.
+
+        \n Es la parte elástica responsable del comportamiento dinámico del vehículo y es el punto de unión entre el vehículo y el suelo. Ésta superficie que constituyen los neumáticos cumple numerosas funciones como propulsar, amortiguar, estabilizar, frenar etc…</string>
+
+    <string name="NA_T5">Funciones de los neumáticos</string>
+    <string name="NA_T5D">Soportar la carga del vehículo y sujetarlo al suelo tanto parado como en marcha.
+        \n - Asegurar la transmisión de los esfuerzos motrices y desaceleradores para que el vehículo, avance por ejemplo cuando se acelera.
+        \n - Mantener la estabilidad de la trayectoria del vehículo.
+        \n - Participar en la seguridad proporcionando confort y también en la suspensión.
+        \n - Participar en el ya que la superficie del neumático se agarra al pavimento.</string>
+
+    <string name="NA_T6">Neumáticos radiales</string>
+    <string name="NA_T6D">Son los neumáticos más utilizados en la actualidad y su carcasa está compuesta por una o dos lonas de cables dispuestos en arcos radiales que pasan de un talón a otro.
+
+        \n En los neumáticos radiales la banda de rodamiento y los flancos trabajan de manera independiente lo que hace que las deformaciones de los mismos sean muy reducidas.
+
+        \n Éste tipo de neumáticos proporcionan un reducido calentamiento, notable estabilidad al aumentar la adherencia, alta elasticidad y confort y gran duración.</string>
+
+    <string name="NA_T7">Neumáticos con ó sin cámara</string>
+    <string name="NA_T7D">Sean de estructura radial o diagonal los neumáticos pueden ser con cámara y sin cámara.
+
+        \n En los neumáticos con cámara ésta se encuentraentre la cubierta y la llanta contiene el aire a presión, y ante un pinchazo se produce un reventón de la cubierta al salir el aire rápidamente.
+
+        \n En los neumáticos sin cámara el aire a presión se encuentra entre la llanta y la cubierta, la cual está forrada en su interior con una goma que tapa el orificio en caso de pinchazo.</string>
+
+    <string name="NA_T8">La adherencia</string>
+    <string name="NA_T8D">El neumático debe conseguir en todo momento la máxima adherencia, ya que ésta depende del neumático y del tipo de firme y el estado que tenga la calzada. Así pues la banda de rodamiento presentar una serie de ranuras que constituyen el dibujo del neumático.
+
+        \n La finalidad del dibujo de los neumáticos es hacer que éstos se agarren al pavimento para mejorar la adherencia ya que si el pavimento está húmedo la adherencia del neumático liso es nula.
+
+        \n El dibujo de los neumáticos consigue también realizar un drenaje eficaz del agua, evacuando el agua existente entre el neumático y la calzada. Los canales de evacuación recogen el agua y la lanzan fuera de la zona de contacto y son de dos tipos:
+        \n
+        \n     - Transversales: Evacuan el agua por los laterales
+        \n     - Circunferenciales: Lanzan el agua hacia atrás del neumático
+        \n
+        \n Los dibujos de la banda de rodamiento de los neumáticos varían según las condiciones de uso previstas. Cuando hay agua en el pavimento, las ranuras permiten que el agua se desplace hacia atrás y a los lados ayudándose de unos surcos transversales llamados “laminillas”.
+
+        \n Cuando en el pavimento existe nieve o hielo el neumático deberá llevar incorporados clavos de cantos redondeados que no sobresalgan más de 2 milímetrosde la superficie. Los neumáticos especiales para llevarán la inscripción M+S, MS o MS.
+
+        \n Para que los neumáticos proporcionen una buena adherencia no deberán presentar deformaciones ni cortes y deben tener dibujo suficiente en toda la banda de rodamiento. Es por ello que las ranuras principales de la banda de rodamiento de vehículos destinados al transporte de personas (con más de 8 plazas más el conductor), y los destinados al transporte de mercancías y remolques(de MMA inferior a 3500 kg) deben tener al menos una profundidad de 1,6 milímetros.</string>
+
+    <string name="NA_T9">Influencia del pavimento</string>
+    <string name="NA_T9D">Otro factor que influye en la adherencia del neumático es la calzada, ya que la adherencia será distinta según los materiales con los que esté construida, y si se encuentra bajo los efectos de condiciones meteorológicas adversas.
+
+        \n La adherencia es mejor con pavimentos flexibles, rígidos o rugosos que con pavimentos pulidos. También serán más adherentes los pavimentos en buen estado, secos y limpios que aquellos irregulares, helados o con gravilla por ejemplo.</string>
+
+    <string name="NA_T10">Presión de inflado</string>
+    <string name="NA_T10D">Las cualidades de un neumático dependen de la presión de inflado, ya que la mayor parte de las averías en neumáticos se deben a una presión incorrecta del mismo. La presión se determina en función de la masa, dimensiones y comportamiento del vehículo y por éste motivo la presión de inflado suele ser distinta en las ruedas delanteras que traseras.
+
+        \n La presión de inflado se mide con un manómetro, que puede ser de bolsillo o encontrarse en un taller o estación de servicio. Debemos comprobar la presión de los neumáticos con frecuencia, antes de iniciar un viaje largo y estando los neumáticos fríos.
+
+        \n Cuando la presión de inflado es inferior a la necesaria los neumáticos se deforman y se gastan más por los bordes de la banda de rodamiento. Así mismo el vehículo pierde estabilidad, con el pavimento mojado disminuye la adherencia y se incrementa el consumo de carburante.
+
+        \n Cuando la presión de inflado es superior a la necesaria, disminuye la adherencia, los neumáticos se desgastan más por el centro de la banda de rodamiento, y la suspensión se deteriora más fácilmente.
+
+        \n Por último cuando la presión de inflado está descompensada las reacciones del vehículo son imprevisibles, la frenada es irregular y se reduce la estabilidad.</string>
+
+    <string-array name="NA">
+        <item>Las ruedas</item>
+        <item>Funciones de las ruedas</item>
+        <item>La llanta</item>
+        <item>El neumático</item>
+        <item>Funciones de los neumáticos</item>
+        <item>Neumáticos radiales</item>
+        <item>Neumáticos con ó sin cámara</item>
+        <item>La adherencia</item>
+        <item>Influencia del pavimento</item>
+        <item>Presión de inflado</item>
+    </string-array>
+
+</resources>

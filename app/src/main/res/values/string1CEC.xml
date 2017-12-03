@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="cec_t1">Conducción, económica y medio ambiente</string>
+    <string name="cec_d1">El conductor de un vehículo puede ahorrar energía haciendo un uso eficiente del mismo y realizando un mantenimiento adecuado. El consumo de carburante depende de varios factores como el tipo de carburante, las condiciones de la vía o las condiciones meteorológicas.
+
+    \n Cuando adquirimos un vehículo se debe poner especial atención al consumo que éste realiza. Existen tres indicadores de consumo medido en litros por cada 100 kilómetros: consumo urbano, consumo en carretera, y consumo ponderado entre ambos.
+
+    \n La velocidad media de un vehículo se calcula dividiendo el espacio recorrido por el tiempo utilizado para recorrer dicho espacio. Por su parte la velocidad instantánea mide la velocidad de un momento concreto y la marca el indicador de velocidad del vehículo.</string>
+
+    <string name="cec_t2">Consumo de carburante</string>
+    <string name="cec_d2">A mayor velocidad aumenta el riesgo de accidente, la distancia de reacción y anticipación y la atención necesaria al volante. Así mismo contra mayor sea la velocidad instantánea también será mayor el consumo de carburante y el desgaste de los neumáticos.
+
+    \n La disminución de la velocidad punta en los trayectos y el correcto uso de las marchas del vehículo nos permite ahorrar combustible. Otros factores que influyen negativamente en el consumo de carburante son el circular por ciudad, el viento en contra o las subidas que aumentan la resistencia al avance del vehículo o dar acelerones y frenazos bruscos.
+
+    \n Circular por ciudad consume más carburante que en carretera porque aumenta el tiempo en que el motor funciona a ralentí y se aumenta el consumo sin desplazar el vehículo. También aumentan las arrancadas y frenazos así como la utilización de marchas cortas lo que propensa éste mayor gasto. Es por ello que en detenciones prolongadas es conveniente apagar el motor.</string>
+
+    <string name="cec_t3">La forma de conducir</string>
+    <string name="cec_d3">La forma de conducir de cada conductor influye en que el consumo de carburante aumente o disminuya. La conducción económica lleva a aprovechar mejor la inercia del vehículo, mientras que la conducción agresiva a gran velocidad y realizando recurrentes paradas es antieconómica.
+
+    \n Las técnicas para realizar una conducción económica y beneficiar al medio ambiente son las siguientes:
+
+    \n - Arrancar el motor sin pisar el acelerador
+    \n - Usar la primera marcha solo para el inicio del recorrido cambiando a segunda a los 2 segundos o 6 metros aproximadamente ya que utilizarla dispara el consumo.
+    \n - Realizar el cambio de marchas en los motores de gasolina entre las 2000 y las 25000 RPM y en los motores diesel entre las 1500 y las 2000 RPM. Es recomendable usar la 3ª marcha a partir de 30 km/hora aproximadamente, la cuarta marcha a partir de 40 km/hora y la quinta marcha a partir de 50 km/hora.
+    \n - Realización de aceleraciones en la progresión de marchas, acelerando inmediatamente tras cambiar de marcha.
+    \n - Utilización de marchas largas: Circular el máximo tiempo posible en las marchas largas y a bajas revoluciones.
+    \n - Velocidad de circulación, que debe ser lo más uniforme posible para evitar frenazos y aceleraciones.
+    \n - Deceleraciones: Es recomendable levantar el pie del pedal acelerador y dejar rodar el vehículo por inercia también en curvas previniéndolo con antelación.
+    \n - Detenciones: Se debe detener el vehículo utilizando el freno de servicio y siempre que sea posible sin reducir previamente la marcha.
+    \n - Inmovilizaciones: Si se prevé que una inmovilización va a superar los 60 segundos es recomendable apagar el motor.</string>
+
+    <string name="cec_t4">El mantenimiento del vehículo</string>
+    <string name="cec_d4">Todos podemos ganar en seguridad y combustible con un motor y un vehículo mantenidos correctamente. Las principales tareas de mantenimiento que influyen en propiciar un aumento de carburante son las siguientes:
+
+    \n - Puesta a punto para evitar que el motor mal ajustado pueda aumentar su consumo
+    \n - Presión de los neumáticos: Una baja presión en las ruedas propicia un gasto extra ya que aumenta la resistencia a la rodadura.
+    \n - Control de los niveles de aceite y líquido de refrigeración para la conservación del motor en buenas condiciones, ya que la pérdida de fluido refrigerante puede producir calentamiento del mismo.
+    \n - Lubricante: El cambio de aceite y de filtro de aceite deben realizarse siguiendo las indicaciones del fabricante.
+    \n - Encendido: Un sistema de encendido en mal estado puede incrementar el consumo de carburante en un 10% por lo que debemos vigilar que las bujías y el ralentí estén en buen estado. El ralentí deberá estar reglado en todo momento según el régimen establecido por el fabricante.</string>
+
+    <string name="cec_t5">La aerodinámica</string>
+    <string name="cec_d5">La aerodinámica de un vehículo está determinada por su forma exterior y cualquier cambio en ésta afectará al consumo de carburante. Bajar demasiado los cristales de las ventanillas aumenta por ejemplo la resistencia aumentando el consumo así como llevar carga en la baca o tenerla puesta sin carga por ejemplo, ya que se le exige un mayor esfuerzo al vehículo.
+
+    \n Es por ello que cargar excesivamente el vehículo aumenta el consumo de carburante del vehículo y por ello la carga deberá ir bien distribuida y repartida.</string>
+
+    <string name="cec_t6">Contaminación del medio ambiente</string>
+    <string name="cec_d6">El motor de los vehículos genera productos nocivos que se vierten en el entorno y el número de ellos sigue aumentando constantemente. El efecto que causas éstas emisiones es mas perceptible en los núcleos urbanos debido a la gran concentración de vehículos en poco espacio.
+
+    \n Las emisiones más frecuentes en los vehículos son el monóxido de carbono debido a una mala combustión, los hidrocarburos, el dióxido de carbono y los óxidos de nitrógeno entre otros.
+
+    \n Es por ello que debemos realizar un buen mantenimiento del catalizador para no superar las emisiones permitidas, vigilando el buen funcionamiento del motor, y evitando compuestos de aceite que dañen el catalizador.
+
+    \n Por lo que se refiere al ruido que los vehículos realizan, éste depende de dos factores: técnicos, relacionados con la ingeniería del vehículo y operativos, relacionados con la manera de conducirlo.
+
+    \n Para evitar los ruidos excesivos se debe evitar circular con el escape libre y cuidarlo junto con el catalizador para que siempre estén en buen estado. También está prohibido el uso excesivo e inmotivado del claxon.
+
+    \n Para evitar la contaminación debemos tener en cuenta ciertos principios que están prohibidos en la circulación:
+
+    \n - Arrojar objetos a la vía que puedan provocar un incendio o comprometer la seguridad del resto de usuarios.
+    \n - Emitir gases y ruidos por encima de los límites establecidos.
+    \n - No derramar aceite sobre la vía pública al cambiarlo por uno nuevo.
+    \n - No lavar el coche en la calle, ya que es un acto de infracción del reglamento.</string>
+
+
+    <string-array name="CEC">
+        <item>Conducción, económica y medio ambiente</item>
+        <item>Consumo de carburante</item>
+        <item>La forma de conducir</item>
+        <item>El mantenimiento del vehículo</item>
+        <item>La aerodinámica</item>
+        <item>Contaminación del medio ambiente</item>
+    </string-array>
+
+
+
+</resources>

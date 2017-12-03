@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="A_T1">Los Adelantamientos</string>
+    <string name="A_T1D">El adelantamiento consiste en sobrepasar a un vehículo que circula más lento y por delante del nuestro y es imprescindible que ambos vehículos se encuentren en movimiento para considerarlo como tal. Como norma general se realizará por el lado izquierdo del vehículo al que se pretende adelantar.
+
+    \n La peligrosidad de ésta maniobra vendrá dada por la vía en la que se realice y en si es necesario o no invadir la calzada reservada para el sentido contrario al llevar a cabo la maniobra.
+
+    \n En todos los casos el adelantamiento es una maniobra peligrosa y compleja ya que altera el orden normal de la circulación y se debe tener muy en cuenta tanto la señalización de la vía como las dimensiones del vehículo.</string>
+
+    <string name="A_T2">Realización del adelantamiento</string>
+    <string name="A_T2D">Antes de realizar el adelantamiento el conductor que pretenda adelantar deberá mantener la separación y distancia adecuadas que le permitan ejecutar la maniobra con seguridad. Es de vital importancia ya que si se inicia desde muy lejos el adelantamiento se extenderá durante mucho tiempo, y si se hace desde muy cerca se disminuye el campo de visión hacia delante.
+
+    \n También deberá tener en cuenta la velocidad tanto de su vehículo como del que pretende adelantar, asegurándose de que la potencia y velocidad de su vehículo permiten realizar la maniobra con seguridad y alcanzando la velocidad requerida.
+
+    \n Es necesario que el conductor elija la relación de marcha que le permita desarrollar el adelantamiento con rapidez y disminuir la velocidad si por algún motivo se le imposibilitará el adelantamiento.
+
+    \n Si la velocidad del vehículo que circula en sentido contrario no permite realizar el adelantamiento, el conductor que pretenda realizarlo deberá desistir de ello. Tampoco estará permitido adelantar a un vehículo que ya circule a la velocidad máxima permitida para esa vía.
+
+    \n También respecto a la velocidad el conductor que pretenda adelantar deberá observar si para realizar la maniobra es necesario rebasar la velocidad máxima permitida para esa vía. En autopistas y autovías, vías urbanas y travesías ningún vehículo podrá sobrepasar la velocidad máxima genérica. En las carreteras convencionales fuera de suelo urbano se podrá sobrepasar la máxima en 20 kilómetros hora.
+
+    \n Por su parte la velocidad máxima específica no podrá ser sobrepasada en ningún caso ni vía ni tan siquiera para adelantar. Tampoco podrán sobrepasarla determinados conductores por razones personales y determinados vehículos especiales por su carga.
+
+    \n El conductor que pretenda adelantar siempre deberá mirar hacia delante y comprobar que no existe una señal que prohiba adelantar, que el carril al que se quiere incorporar está libre que existe visibilidad suficiente para llevar a cabo la maniobra.
+
+    \n Si el conductor que nos precede ya ha indicado su intención de desplazarse al carril que se iba a ocupar en el adelantamiento para adelantar él a otro vehículo se deberá respetar su preferencia y no se deberá iniciar el adelantamiento.
+
+    \n Así mismo se deberá comprobar siempre que existe espacio suficiente para que si se diera alguna circunstancia fortuita que no nos permitiera realizar el adelantamiento pudiéramos volver a nuestra posición. En ningún caso podremos adelantar a varios vehículos a la vez si no se tiene la certeza de que se podrá volver al lado derecho con seguridad tras realizar la maniobra.
+
+    \n Siempre que llevemos a cabo la maniobra de adelantamiento deberemos mirar hacia atrás por el retrovisor interior y exterior izquierdo para comprobar que el vehículo que nos sigue no ha iniciado la maniobra de adelantamiento previamente y que el carril al que pretendemos desplazarnos no está ya ocupado por otro vehículo.</string>
+
+    <string name="A_T3">Prohibido adelantar</string>
+    <string name="A_T3D">La prohibición de adelantar puede estar impuesta por señales verticales, marcas viales, semáforos cuadrados, señales de balizamiento o paneles de mensaje variable. Las señales verticales que prohiben adelantar son las siguientes:
+
+    \n <b>- Señal R-305:</b> Ésta señal colocada en vías con dos sentidos de circulación prohíbe adelantar a todos los vehículos de motor salvo que sean motocicletas de dos ruedas y no se invada el sentido contrario. Cuando ésta señal se encuentra en una vía de sentido único prohíbe siempre adelantar.
+    \n <b>- Señal R-306:</b> Ésta señal prohíbe a los camiones con MMA superior a 3500 kg adelantar a vehículos de motor aunque no sea necesario invadir la parte izquierda de la calzada. Si que podrán adelantar a motocicletas de dos ruedas y finalizará la prohibición en la próxima señal de “fin de prohibición de adelantamiento” o de “Fin de prohibiciones”.
+    \n
+    \n La marca blanca que prohíbe adelantar es la línea longitudinal continua que delimita los sentidos de circulación e impide el adelantamiento cuando para llevarlo a cabo se deba atravesar. También prohibirá adelantar una línea longitudinal continua al lado de otra discontinua cuando la más próxima al conductor sea la continua.
+
+    \n Los semáforos cuadrados para vehículos prohíben adelantar cuando se deba ocupar el carril sobre el que aparece una luz roja en forma de aspa por encontrarse cerrado u obstruido. Por su parte los conos, banderitas u otros análogos, prohíben adelantar cuando sea necesario rebasar la línea que los une. Los paneles de mensaje variable también pueden indicar eventualmente la prohibición de adelantar.
+
+    \n En ocasiones la prohibición de adelantar se da por razones de visibilidad debido a que la misma es insuficiente en la parte delantera y no permite la maniobra. Ésta falta de visibilidad puede estar motivada por el trazado de la vía y la existencia de curvas, las condiciones meteorológicas o las condiciones de tráfico.</string>
+
+    <string name="A_T4">No adelantar por falta de visibilidad</string>
+    <string name="A_T4D">Está prohibido adelantar en las curvas y cambios de rasante de visibilidad reducida. Si que estará permitido adelantar cuando los dos sentidos de la circulación están bien delimitados y se pueda adelantar sin invadir la zona reservada para el sentido contrario.
+
+    \n Es habitual que éstas curvas y cambios de rasante estén señalizados verticalmente con prohibiciones para adelantar pero si no lo estuvieran, no se adelantará cuando la visibilidad sea insuficiente.
+
+    \n Cuando la falta de visibilidad está motivada por condiciones meteorológicas adversas, estará prohibido adelantar en aquellas zonas afectadas por niebla, lluvia intensa o humo que dificulten la visibilidad de la vía y de los vehículos que circulan en sentido contrario. También estará prohibido adelantar cuando el sol nos dé de frente y produzca deslumbramiento.
+
+    \n Por lo que se refiere a las condiciones de tráfico no se deberá adelantar detrás de un vehículo que también se encuentre adelantando cuando sus dimensiones impidan la visibilidad suficiente de la vía. Tampoco se podrá adelantar en los pasos para peatones señalizados y en los pasos a nivel y vías para ciclistas.
+
+    \n La prohibición de adelantar en éstos lugares no será aplicable cuando se realice a vehículos de dos ruedas que no impidan la visibilidad lateral, o cuando se realice en un paso de peatones a velocidad tan reducida como para frenar con seguridad si fuera necesario.
+
+    \n No se deberá adelantar en las intersecciones y en sus proximidades excepto en el supuesto de que se trate de una glorieta giratoria o la calzada en que se realice tenga prioridad de paso en la intersección. Estará totalmente prohibido adelantar también en los túneles y pasos inferiores en que sólo se disponga de un carril para el sentido de circulación del vehículo al que se pretende adelantar.
+
+    \n Está totalmente prohibido adelantar a vehículo poniendo en peligro a los ciclistas que circulen en el sentido contrario y no se deberá adelantar a varios vehículos si no se tiene la certeza de que se podrá desviar al lado derecho sin entorpecer el tráfico ni comprometer la seguridad del resto de usuarios de la vía.</string>
+
+    <string name="A_T5">Señalización de la maniobra</string>
+    <string name="A_T5D">La advertencia al resto de usuarios de la vía de la intención de adelantar se realizará fuera de poblado con las señales acústicas del vehículo en los casos en que se adelante en un paso a nivel a un vehículo de dos ruedas, para advertir a otro de la intención de adelantarlo y cuando el conductor que va delante tras indicar su propósito de cambiar al carril izquierdo no lo hace.
+
+    \n La manera más habitual de advertir el adelantamiento tanto dentro como fuera de poblado, será con las señales luminosas utilizando de forma intermitente la luz de corto y largo alcance a intervalos cortos.
+
+    \n Para advertir al vehículo que circula detrás de nuestro vehículo del desplazamiento lateral que se va a realizar utilizaremos la luz indicadora de dirección izquierda o el brazo extendido en horizontal con la palma de la mano hacia abajo.</string>
+
+    <string name="A_T6">Comportamiento durante el adelantamiento</string>
+    <string name="A_T6D">Una vez realizado el desplazamiento lateral el vehículo que adelanta deberá hacerlo por la izquierda y sin invadir el arcén o paso, y con decisión y seguridad en su ejecución. Es necesario circular a una velocidad ligeramente superior a la del vehículo al que se pretende adelantar pero siempre sin superar los límites máximos establecidos.
+
+    \n Se debe mantener en todo momento la separación lateral con el elemento al que se pretenda adelantar: si se desea adelantar fuera de poblado a un peatón, animal o vehículo de dos ruedas la maniobra se deberá realizar ocupando parte del carril contiguo y dejando una separación lateral superior a 1,50 metros.
+
+    \n Cuando sea el conductor de un vehículo de dos ruedas el que pretenda adelantar fuera de poblado a otro vehículo, lo realizará dejando una separación lateral entre su vehículo y la parte más saliente de aquel de cómo mínimo 1,50 metros.
+
+    \n La separación lateral siempre será proporcional a la velocidad y anchura de la vía siendo siempre necesario realizar el adelantamiento con rapidez para que el recorrido en paralelo dure lo mínimo posible.
+
+    \n El conductor que adelanta deberá tener en cuenta que si es de noche deberá realizar la maniobra con el alumbrado de cruce para evitar el deslumbramiento y siempre que pueda el alumbrado de carretera cuando desaparezca la posibilidad de deslumbrar.
+
+    \n En caso de que se haga difícil la finalización de un adelantamiento una vez iniciado, se deberá desistir reduciendo la velocidad y regresando de nuevo a su carril advirtiéndolo con la luz indicadora de dirección derecha.</string>
+
+    <string name="A_T7">Conductor del vehículo adelantado</string>
+    <string name="A_T7D">Antes de iniciar el adelantamiento el conductor del vehículo adelantado deberá facilitar el adelantamiento ciñéndose al borde derecho de la calzada sin invadir aceras o arcenes, tan pronto advierta del propósito del otro de adelantarle.
+
+    \n En aquellos casos en que el adelantamiento se realice por la derecha el conductor se ceñirá a la izquierda si la vía es de sentido único o se colocará en el centro de la calzada sin rebasar el eje sin la vía es de doble sentido.
+
+    \n Cuando se adelante a vehículos de grandes dimensiones el conductor de éstos deberá indicar al conductor que desea adelantar, que puede hacerlo si no le fuera posible ceñirse al borde derecho de la calzada. Deberá realizar ésta acción extendiendo el brazo y haciendo movimientos hacia atrás y hacia delante rápidamente o utilizando el intermitente derecho.
+
+    \n Los conductores de estos vehículos pesados deberán también reducir la velocidad y apartarse al arcén si fuera necesario, para facilitar el adelantamiento si la calzada fuera demasiado estrecha para hacerlo con seguridad.
+
+    \n Durante el adelantamiento el conductor del vehículo adelantado deberá facilitar el adelantamiento no aumentando la velocidad e incluso disminuyéndola cuando se produzca una situación de peligro para algún usuario de la vía.
+
+    \n Cuando el conductor del vehículo que desea adelantar diera muestras de desistir en la maniobra no será necesario que el vehículo adelantado disminuya la velocidad, aumentándola si fuera necesario para facilitar la vuelta del otro vehículo al carril derecho.
+
+    \n Durante la noche el conductor del vehículo adelantado deberá encender si fuera posible el alumbrado de carretera hasta que haya peligro de deslumbramiento a otro vehículo. Tan pronto finalice el adelantamiento deberá sustituir éste alumbrado por el de cruce.</string>
+
+    <string name="A_T8">Otros adelantamientos</string>
+    <string name="A_T8D">Los otros adelantamientos objeto de examen serán aquellos en los que como norma general no sea necesario invadir el sentido contrario de la calzada.</string>
+
+    <string name="A_T9">Adelantamiento en vías de tres carriles</string>
+    <string name="A_T9D">Es el tipo de adelantamiento que se da en vías con tres carriles: uno para cada sentido de circulación y el carril central para adelantar o girar a la izquierda. Se deben extremar las precauciones al realizar la maniobra cuando se invade la parte izquierda de la calzada comprobando si los vehículos que circulan en sentido contrario han ocupado el carril central para adelantar</string>
+
+    <string name="A_T10">Maniobras que no son adelantamientos</string>
+    <string name="A_T10D">No se considerará un adelantamiento el rebasar a un vehículo que se encuentra inmovilizado ya sea por estacionamiento, detención o parada. Tampoco cuando se rebase a un vehículo inmovilizado por causas ajenas al tráfico como pueden ser un accidente o avería.
+
+    \n Si ésta inmovilización obliga a invadir el sentido contrario se deberá tener en cuenta que si el vehículo inmovilizado se encuentra en una zona en la que está prohibido el adelantamiento se podrá rebasar extremando las precauciones para evitar el peligro.
+
+    \n No se considerará tampoco adelantamientos los que se realicen entre ciclistas que circulen en grupo.</string>
+
+    <string-array name="A">
+        <item>Los Adelantamientos</item>
+        <item>Realización del adelantamiento</item>
+        <item>Prohibido adelantar</item>
+        <item>No adelantar por falta de visibilidad</item>
+        <item>Señalización de la maniobra</item>
+        <item>Comportamiento durante el adelantamiento</item>
+        <item>Conductor del vehículo adelantado</item>
+        <item>Otros adelantamientos</item>
+        <item>Adelantamiento en vías de tres carriles</item>
+        <item>Maniobras que no son adelantamientos</item>
+    </string-array>
+
+</resources>

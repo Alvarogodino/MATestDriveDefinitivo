@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="CAA_T1">La conducción en autopistas y autovías</string>
+    <string name="CAA_T1D">La circulación por autopista y autovía es más cómoda y más segura que en las vías secundarias y el riesgo de accidente es mucho menor pese a que éstos son de más gravedad en éstas vías.
+
+    \n Solo podrán circular por autovías y autopistas los vehículos y sus remolques que puedan alcanzar al menos los 60 km/hora, incluidos los vehículos especiales que alcancen ésta velocidad y aquellos que excedan las dimensiones establecidas cuando estén autorizados.
+    \n
+    \n En ningún caso podrán circular por autopistas y autovías peatones, animales, bicicletas, ciclomotores o vehículos para personas de movilidad reducida. Los conductores de bicicleta mayores de 14 años podrán circular por el arcén de éstas vías siempre que no exista señalización en contra o existan razones que atenten contra la seguridad vial.</string>
+
+
+    <string name="CAA_T2">Entrada en autopistas y autovías</string>
+    <string name="CAA_T2D">La entrada a estas vías debe hacerse por los carriles de aceleración o los puestos de peaje, que son aquellos lugares habilitados especialmente para ello. La señal S-222 señala en las vías secundarias un desvío que va a conducir a una autopista o autovía.</string>
+
+
+    <string name="CAA_T3">Puestos de control o de peaje</string>
+    <string name="CAA_T3D">Cuando la autopista es de peaje existen señales que advierten de las características de la vía. En éste tipo de vías en ocasiones se paga una tarifa y en otras se recoge un ticket a abonar en la salida que se tome. Es obligatorio detenerse ante los puestos de control que nos encontremos en la vía cualquiera que sea el sitio donde esté situado.
+
+    \n Para acceder a los puestos de control existen diversos carriles, uno por cada cabina, y cuando sobre éstos encontremos un semáforo en rojo significará que no deberemos utilizarlo. También existen carriles reservados para vehículos de grandes dimensiones diferenciados con señales, que únicamente pueden ser utilizados por éste tipo de vehículo.
+
+    \n Existen diversas formas de pago en las vías de peaje tales como dinero en metálico, mediante tarjeta de crédito o por telepeaje. Las señales S-32 y R-418 advierten de que en ese carril la única forma de pago es mediante el peaje dinámico o telepeaje.</string>
+
+
+    <string name="CAA_T4">Utilización del carril de aceleración</string>
+    <string name="CAA_T4D">La misión del carril de aceleración es disponer de un tramo en la vía para poder acelerar y conseguir la velocidad adecuada para incorporarse a la vía en la que se accede. El conductor que pretenda utilizar ese carril deberá observar el tráfico de la vía principal para constatar que podrá incorporarse con seguridad al principio del mismo.
+
+    \n Una vez observado el tráfico deberá continuar la marcha si la incorporación a la vía pudiera hacerse sin peligro, o se deberá acelerar o reducir la velocidad según las condiciones de la vía en ese momento, llegando a detener el vehículo si fuera necesario. En todo caso el conductor debe señalizar la maniobra de incorporación.
+
+    \n Los vehículos que circulen por la vía principal deberán facilitar la incorporación en la medida de lo posible manteniendo la seguridad. Podrán facilitarla ésta maniobra frenando suavemente o desviándose al carril inmediato si estuviera libre.</string>
+
+
+    <string name="CAA_T5">Utilización de carriles en autopista o autovía</string>
+    <string name="CAA_T5D">Las normas para la utilización de carriles en autopistas y autovías son las mismas que para cualquier otro tipo de vía. En las calzadas con o dos o más carriles para el mismo sentido se deberá circular por el carril situado más a la derecha pudiendo utilizar el resto cuando las circunstancias de la vía lo aconsejen sin entorpecer el tráfico.
+
+    \n Por su parte, en las calzadas de tres o más carriles para cada sentido circularán habitualmente por el situado más a la derecha, excepto los conductores de camiones con MMA superior a 3500 kg y conjuntos de vehículos de más de siete metros, que podrán hacerlo por el inmediatamente situado a su izquierda.</string>
+
+
+    <string name="CAA_T6">Utilización del arcén</string>
+    <string name="CAA_T6D">Como norma general el arcén de las autopistas y autovías no puede ser utilizado para circular, parar o estacionar aunque la circulación en la vía sea densa. El arcén debe permanecer libre para que sea utilizado por los vehículos con MMA menor de 3500 kg que por una emergencia circulen a velocidad anormalmente reducida, por los vehículos prioritarios y por los vehículos de MMA inferior a 3500 kg y obligados a circular por él.
+
+    \n Se considera una emergencia para detenerse en el arcén una avería, un accidente de circulación al retirarlo de la calzada, y el malestar o enfermedad del conductor o pasajeros.
+    \n
+    \n Los conductores de bicicleta mayores de 14 años, como hemos dicho anteriormente, podrán circular por el arcén de autopistas y autovías siempre que no les esté prohibido mediante una señal, y siempre sin invadir la calzada.
+    \n
+    \n Por último los vehículos prioritarios de policía, extinción de incendios, protección civil y asistencia sanitaria podrán circular por el arcén siempre que lo hagan en servicio urgente señalando su presencia y sin comprometer la seguridad de ningún usuario.</string>
+
+
+    <string name="CAA_T7">Velocidad máxima: autovías y autopistas</string>
+    <string name="CAA_T7D">Los límites de velocidad en autopistas y autovías no deberán ser rebasados por ningún vehículo ni tan siquiera para adelantar. Éstas son las limitaciones que no se deberán sobrepasar:
+    \n
+    \n Los límites de velocidad en autopistas y autovías no deberán ser rebasados por ningún vehículo ni tan siquiera para adelantar. Éstas son las limitaciones que no se deberán sobrepasar:
+    \n
+    \n <b>- 120 km/hora:</b> Motocicletas y turismos.
+    \n <b>- 100 km/hora:</b> Autobuses, vehículos mixtos adaptables y vehículos derivados de turismo.
+    \n <b>- 90 km/hora:</b> Camiones, vehículos articulados, furgones y furgonetas, autocaravanas y vehículos con remolque de hasta 750 kg de MMA.
+    \n <b>- 80 km/hora:</b> El resto de vehículos con remolque.
+    \n
+    \n En el caso de los vehículos que realicen transporte escolar o transporte de mercancías peligrosas la velocidad máxima se reducirá en 10 km/hora respecto a la anteriormente fijada. La velocidad máximaen autopistas y autovías dentro de poblado podrá ser ampliada mediante señalización sin rebasar nunca el límite genérico. Es por ello que en estas vías dentro de poblado la velocidad máxima será de 80 km/hora.</string>
+
+
+    <string name="CAA_T8">Velocidad anormalmente reducida</string>
+    <string name="CAA_T8D">La velocidad que se considera normalmente reducida en autopistas y autovías es 60 km/hora, velocidad que ningún conductor debe adoptar para no entorpecer la marcha normal. Pese a ello podrán circular por debajo de éste límite los vehículos en régimen de transporte especial, los vehículos especiales y cualquier vehículo que por circunstancias del tráfico no pueda adoptar una velocidad mayor.
+
+    \n Cuando un vehículo no pueda alcanzar la velocidad mínima exigida en estas vías deberá utilizar las luces indicadoras de dirección como señal de emergencia y abandonar la autovía o autopista por la primera salida.</string>
+
+
+    <string name="CAA_T9">Disminución de velocidad</string>
+    <string name="CAA_T9D">La intención de frenar la marcha considerablemente o detener el vehículo en una autovía o autopista debe advertirse con antelación empleando las luces de frenado reiteradamente o con el brazo haciendo movimientos rápidos arriba y abajo.
+
+    \n Si se produce una detención total, se deberá señalizar el vehículo con la señal de emergencia.</string>
+
+
+    <string name="CAA_T10">El adelantamiento</string>
+    <string name="CAA_T10D">Las autopistas y autovías eliminan el peligro de colisión frontal en el adelantamiento al contar con distintas calzadas para cada sentido de circulación. Pese a ello al adelantar el conductor debe extremar la precaución, observando constantemente los espejos retrovisores y teniendo especial cuidado con el ángulo muerto de los mismos.
+    \n
+    \n El adelantamiento debe realizarse siempre por la derecha y nunca por la izquierda o el arcén. En las calzadas de al menos dos carriles para cada sentido el conductor que efectúe un nuevo adelantamiento podrá quedarse en el carril utilizado para el anterior siempre que no moleste a los vehículos que circulen más rápido tras de él.
+    \n
+    \n En las calzadas de más de dos carriles para cada sentido no deberán adelantar si para ello tienen que acceder al tercer carril los camiones y furgones con MMA superior a 3500 kg, y los conjuntos de vehículos de más de siete metros de longitud.</string>
+
+
+
+
+    <string-array name="CAA">
+        <item>La conducción en autopistas y autovías</item>
+        <item>Entrada en autopistas y autovías</item>
+        <item>Puestos de control o de peaje</item>
+        <item>Utilización del carril de aceleración</item>
+        <item>Utilización de carriles</item>
+        <item>Utilización del arcén</item>
+        <item>Velocidad máxima: autovías y autopistas</item>
+        <item>Velocidad anormalmente reducida</item>
+        <item>Disminución de velocidad</item>
+        <item>El adelantamiento</item>
+    </string-array>
+</resources>

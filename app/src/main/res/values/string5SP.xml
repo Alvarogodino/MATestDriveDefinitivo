@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="SP_T1">La seguridad pasiva</string>
+    <string name="SP_T1D">Los vehículos deben estar construidos conforme a las normas de homologación, no tener adornos ni objetos, tener los asientos anclado de forma segura para evitar el peligro en caso de accidente.
+    \n
+    \n Así mismo las cerraduras de las puertas deben impedir la apertura no deseada y los cristales del parabrisas deben ser de seguridad y por capas para que en caso de rotura el conductor vea suficientemente la vía.</string>
+
+
+    <string name="SP_T2">Dispositivos de protección trasera</string>
+    <string name="SP_T2D">Vehículos y remolques deben estar construidos para ofrecer una protección eficaz contra el empotramiento de vehículos que pudieran chocar con su parte trasera. Quedan exentos de llevar estos dispositivos los tractocamiones para semirremolques, y los tractores, remolques y resto de maquinaria agrícola.</string>
+
+
+    <string name="SP_T3">Guardabarros</string>
+    <string name="SP_T3D">La carrocería de los vehículos está diseñada para evitar las salpicaduras de las ruedas, excepto en el caso de los vehículos especiales en que no están obligados. La colocación de gomas o similar en las ruedas que eviten la proyección de salpicaduras es recomendable.</string>
+
+
+    <string name="SP_T4">Apoyacabezas</string>
+    <string name="SP_T4D">El apoyacabezas protege la cabeza contra los fuertes movimientos hacía atrás en caso de accidente por lo que debe estar colocado a la altura correcta. Antes de iniciar la conducción el conductor ha de adaptar el apoyacabezas a su constitución para no desnucarse.</string>
+
+
+    <string name="SP_T5">El airbag</string>
+    <string name="SP_T5D">El airbag es una bolsa de aire que se hincha automáticamente en caso de fuerte impacto. Puede estar situado en el volante, en el salpicadero, en los asientos, en el techo etc… Siempre actúa complementando al cinturón de seguridad y su finalidad es evitar el impacto del conductor o pasajeros contra los elementos del automóvil para reducir el riesgo de heridas.
+    \n
+    \n El airbag resulta fundamental en los últimos momentos del choque al sobrepasar la eficacia del cinturón de seguridad. En ningún caso debe utilizarse como único elemento de protección, y si el vehículo lleva incorporado airbags en los asientos delanteros no deberemos llevar a niños en ellos ya que pueden ocasionarles graves lesiones en la cabeza.</string>
+
+
+    <string name="SP_T6">Cinturón de seguridad</string>
+    <string name="SP_T6D">El cinturón de seguridad es una banda de tejido sólido compuesto de una banda lateral y un cinturón bajo, para retener sobre su asiento al conductor y ocupantes del vehículo. El tejido debe ser extensible para absorber parte del choque pero no elástico.
+    \n
+    \n Están obligados a utilizarlos el conductor y todos los pasajeros de los turismos, vehículos con MMA máxima de 3000 kg que transporten personas y mercancías, y motocicletas con o sin sidecar, ciclomotores, vehículos de tres ruedas y cuadriciclos cuando estén dotados de ello.
+
+    \n También es obligatorio para el conductor y los pasajeros de asientos delanteros de los vehículos destinados al transporte de mercancías con una MMA máxima de 3500 kg y los vehículos destinados al transporte de personas con más de 8 plazas de asiento más la del conductor.
+    \n
+    \n El propósito principal del cinturón de seguridad es prevenir el lanzamiento de los ocupantes al exterior del vehículo y contra el parabrisas, volante etc…en caso de colisión. La utilización del cinturón de seguridad disminuye en un 40% el número de heridos y muertos en caso de accidente a velocidad elevada.</string>
+
+
+    <string name="SP_T7">Eficacia del cinturón de seguridad</string>
+    <string name="SP_T7D">El uso del cinturón de seguridad reduce considerablemente el número y gravedad de las lesiones. En el caso de accidentes por choque frontal el cinturón es muy eficaz ya que reduce a una cuarta parte el riesgo de heridas.
+    \n
+    \n En caso de choque trasero el cinturón evita desplazamientos violentos de los ocupantes dentro del vehículo o su salida fuera del vehículo. En caso de vuelco el cinturón de seguridad también reduce el riesgo de muerte al sujetar a los ocupantes del asiento mientras el vehículo da vueltas de campana.
+    \n
+    \n Para que sea eficaz el cinturón de seguridad debe reunir unos requisitos: Corresponder a tipos homologados, estar bien anclado y revisar los anclajes periódicamente, y estar bien reglado y correctamente abrochado.
+    \n
+    \n El cinturón ha de abrocharse estando en vehículo detenido y nunca durante la marcha. Está prohibido el uso de pinzas y reguladores de presión ya que anulan los efectos del cinturón al no encontrarse correctamente abrochado.</string>
+
+
+
+    <string name="SP_T8">Obligaciones relativas al cinturón de seguridad</string>
+    <string name="SP_T8D">Es obligatorio el uso del cinturón de seguridad tanto en vías urbanas como interurbanas, ya que no solo es un elemento de seguridad sino también de comodidad.
+    \n
+    \n Existen limitaciones a ésta obligación ya que no están obligados a utilizar el cinturón de seguridad en todo tipo de vías los conductores que efectúen la maniobra de estacionamiento o marcha atrás, y las mujeres en cinta y disminuidos físicos con el consiguiente certificado médico.
+    \n
+    \n El certificado médico oficial que exime de la obligación de utilizar el cinturón de seguridad será expedido por un facultativo colegiado, deberá expresar su período de validez y ser presentado cuando cualquier Agente de la autoridad lo requiera.
+    \n
+    \n También estarán exentos de utilizar el cinturón de seguridad en vías urbanas y travesías los conductores de taxis y pasajeros de vehículos en servicio de urgencia, los distribuidores de mercancía en tareas de carga y descarga y el profesor que enseñe a un alumno a conducir.</string>
+
+
+    <string name="SP_T9">Sistemas de sujeción para niños</string>
+    <string name="SP_T9D">Está prohibido circular con menores de 12 años situados en los asientos delanteros del vehículo a no ser que utilicen asientos de seguridad para menores.
+    \n
+    \n Las personas de más de tres años con una altura inferior a 150 centímetros deberán utilizar un sistema de sujeción adaptado a su peso o talla o en su defecto el cinturón de seguridad. Así pues los asientos posteriores sin cinturón de seguridad no son aptos para transportar personas mayores de 3 años que no alcancen los 150 cm de estatura.
+    \n
+    \n Los niños menores de tres años que ocupen los asientos traseros deberán utilizar también un sistema de sujeción adaptado a su talla y peso. El mejor dispositivo son las sillas homologadas, que cuando el niño es menor de 4 años es preferible colocarlas a contramarcha, y si tiene entre 4 y 12 años en el mismo sentido que el resto de ocupantes.</string>
+
+
+    <string name="SP_T10">El casco</string>
+    <string name="SP_T10D">La parte del cuerpo más afectada en accidentes de motocicletas y ciclomotores es la cabeza y la cara. La misión del casco es proteger la cabeza del conductor y pasajeros en caso de accidente.
+    \n
+    \n El casco puede ser convencional, que solo tapa la cara, y integral que protege la cabeza y la cara y reduce las lesiones en la cabeza. En todo caso el casco debe ser de un tipo homologado.
+    \n
+    \n Están obligados a utilizar casco en vías urbanas e interurbanas los conductores y pasajeros de motocicletas con y sin sidecar, de ciclomotores y de vehículos de tres ruedas y cuadriciclos. No será obligatorio utilizarlo cuando el vehículo cuente con estructura de autoprotección y cinturón de seguridad.
+    \n
+    \n También están exentas de utilizar el casco las personas que tengan un certificado de exención por razones médicas.
+    \n
+    \n El casco de protección homologado será obligatorio para los conductores de bicicletas cuando circulen por vías interurbanas excepto en rampas ascendentes, por razones médicas, o en condiciones de extrema calor.</string>
+
+    <string-array name="SP">
+        <item>La seguridad pasiva</item>
+        <item>Dispositivos de protección trasera</item>
+        <item>Guardabarros</item>
+        <item>Apoyacabezas</item>
+        <item>El airbag</item>
+        <item>Cinturón de seguridad</item>
+        <item>Eficacia del cinturón de seguridad</item>
+        <item>Obligaciones relativas al cinturón</item>
+        <item>Sistemas de sujeción para niños</item>
+        <item>El casco</item>
+    </string-array>
+
+</resources>

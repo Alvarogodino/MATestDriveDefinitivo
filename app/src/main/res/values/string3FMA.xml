@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="FMA_T1">Constitución de un automóvil</string>
+    <string name="FMA_T1D">El automóvil está formado por las siguientes partes:
+
+    \n <b>- Estructura metálica:</b> Conjunto estructural sobre el que se van montando el resto de componentes del vehículo.
+    \n <b>- Carrocería:</b> Destinada a transportar y proteger a los pasajeros y carga.
+    \n <b>- Motor:</b> Generador de potencia que produce el movimiento para desplazar el vehículo.
+    \n <b>- Transmisión:</b> Transfiere la potencia desarrollada por el motor a las ruedas.
+    \n <b>- Dirección:</b> Permite dirigir el automóvil.
+    \n <b>- Frenos:</b> Permiten reducir la velocidad del vehículo, y detenerlo e inmovilizarlo.
+    \n <b>- Suspensión:</b> Ofrece seguridad y comodidad a los pasajeros.
+    \n <b>- Ruedas:</b> Hacen llegar las acciones de la transmisión, de la dirección, de la suspensión y de los frenos al pavimento.
+    \n <b>- Equipo eléctrico:</b> Ayuda en las diversas tareas de la conducción.</string>
+
+    <string name="FMA_T2">El Motor</string>
+    <string name="FMA_T2D">Proporciona al vehículo la energía necesaria para su desplazamiento. Existen dos tipos:
+
+    \n <b>- Motor de explosión (gasolina):</b> El aire y la gasolina se mezclan y se queman explotando
+    \n <b>- Motor de combustión (diesel):</b> El aire entra en los cilindros para que al inyectarse el carburante entre en combustión.</string>
+
+    <string name="FMA_T3">Mantenimiento del motor</string>
+    <string name="FMA_T3D">Un motor en buen estado debe echar humo sin color.
+
+    \n  <b>- Humo blanco:</b> Se da porque el motor está frío y el ambiente también pero no es síntoma de que exista avería.
+    \n  <b>- Humo negro:</b> Combustión incompleta por exceso de carburante o por falta de aire.
+    \n  <b>- Humo azulado:</b> Significa que sube aceite a la cámara de compresión y se quema.
+    \n  <b>- Humo gris:</b> Significa que existe un orden de inyección incorrecto o suciedad en los inyectores.</string>
+
+    <string name="FMA_T4">Alimentación del motor</string>
+    <string name="FMA_T4D">Éste sistema es el encargado de hacer llegar el aire y el carburante a los cilindros. Es por ello que debe existir una relación entre la cantidad de aire y la cantidad de carburante.
+
+    \n Los circuitos del aire y del carburante son distintos hasta que se produce la mezcla, ya que el aire debe pasar antes por un filtro y el carburante es transportado desde el depósito hasta el por medio de una bomba.
+
+    \n Elproceso de mezcla se puede hacer por inyección o por el carburador (en desuso). En los motores de gasolina el aire es aspirado por los pistones y al pisar el acelerador varia la cantidad de aire que pasa a los cilindros.
+
+    \n Los elementos del sistema de inyección miden el aire y proporcionan la cantidad de gasolina necesaria. Los inyectores van colocados en el colector de admisión por lo general.
+
+    \n Funcionamiento del motor de gasolina: El aire y la gasolina se mezclan en el colector de admisión o en el cilindro en los motores de inyección directa de gasolina. La mezcla explota en los cilindros mediante una chispa eléctrica provocada por las bujías.
+
+    \n Funcionamiento del motor diesel: El ire entra a los cilindros sin mezclarse con el gasóleo y comprimiéndose mucho. En el momento de mayor compresión se inyecta el gasóleo, se produce la combustión del aire y del gasóleo sin necesidad de chispa. El filtro del aire y el filtro del gasóleo necesitan una mayor atención en éste tipo de motores.</string>
+
+    <string name="FMA_T5">Sistema de escape</string>
+    <string name="FMA_T5D">Es el sistema encargado de permitir la salida al exterior de los gases quemados en el motor. Estos gases deben salir en buenas condiciones para conseguir la menor contaminación posible.
+
+    \n Para conseguir una baja contaminación el sistema está formado por:
+
+    \n  <b>- Colector de escape:</b> Unifica la salida de todos los cilindros del motor en uno o dos.
+    \n  <b>- Catalizador:</b> Se encarga de reducir las concentraciones de gases nocivos (Monóxido de carbono, Óxidos de nitrógeno y Hidrocarburos sin quemar).
+    \n  <b>- Tubo de escape:</b> Canaliza los gases quemados desde el catalizador hasta el silenciador.
+    \n  <b>- Silenciador:</b> Puede haber más de uno y sirve para disminuir o silenciar las explosiones producidas en el interior del motor.</string>
+
+    <string name="FMA_T6">Silenciador</string>
+    <string name="FMA_T6D">Contiene unos conductos para absorber y amortiguar las explosiones del motor. Las averías son poco frecuentes en el silenciador y son debidas principalmente a la oxidación por los restos de agua condensada.
+
+    \n Para repararlo deberemos sustituirlo por otro y percibiremos su mal funcionamiento ya que el ruido que hace el motor es mayor que cuando no está deteriorado.</string>
+
+    <string name="FMA_T7">Catalizador</string>
+    <string name="FMA_T7D">El catalizador está creado con un material que produce un cambio químico sin entrar en la propia reacción. Las averías en el mismo se manifiestan con ruidos y partículas que salen del tubo de escape.
+
+    \n Para una utilidad prolongada del catalizador debemos mantener adecuadamente el motor y no empujar el automóvil para arrancarlo con el motor caliente.</string>
+
+    <string name="FMA_T8">Sistema de lubricación</string>
+    <string name="FMA_T8D">El sistema de lubricación está formado por un conjunto de mecanismos encargados de proporcionar a las piezas que lo necesiten la cantidad de aceite necesaria para reducir desgaste y evitar gripajes.
+
+    \n El funcionamiento del motor y las numerosas piezas que éste contiene se encuentran en continua fricción unas con otras. Este rozamiento genera un desgaste prematuro de las piezas, una elevación de la temperatura y una fusión de las superficies en contacto.
+
+    \n Para reducir estos efectos se interpone una fina capa de aceite para que las piezas no resbalen entre sí sino sobre el aceite para disminuir el rozamiento.
+
+    \n El sistema dispone de una bomba que aspira aceite del depósito (cárter) y lo manda a las tuberías con presión. Para conocer cuál es el valor de ésta presión el sistema incorpora una lámpara de control de la presión en el tablero de instrumentos.
+
+    \n El filtro ha de cambiarse periódicamente para realizar un correcto mantenimiento del sistema de lubricación. Deberemos comprobar también el nivel de aceite en el cárter periódicamente, aunque los vehículos nuevos ya incorporan un indicador luminoso que nos avisa de la falta de aceite en el cárter.</string>
+
+    <string name="FMA_T9">Sistema de refrigeración</string>
+    <string name="FMA_T9D">En el interior del motor de un vehículo se originan temperatura de más de 2000 grados centígrados lo que hace necesario la existencia de un sistema que retire parte de ese calor.
+
+    \n Existen dos tipos de refrigeración según la forma como elimine dicho calor:
+
+    \n  <b>- Por aire:</b> Se refrigera directamente por el aire
+    \n  <b>- Por líquido:</b> Se refrigera a través del líquido refrigerante y éste enfriado por el aire. Este sistema regula la temperatura del líquido refrigerante, cuyo valor óptimo serán 95ºC.</string>
+
+    <string name="FMA_T10">La Batería</string>
+    <string name="FMA_T10D">Es la encargada de producir energía eléctrica, producida por la reacción de un electrolito entre las placas de la misma.
+
+    \n Para un correcto mantenimiento de la batería comprobaremos y repondremos el nivel de electrolito en la batería. También deberemos limpiar y proteger con grasa los bornes de la misma.
+
+    \n En la actualidad se utilizan baterías de bajo mantenimiento que requieren vigilar el nivel de electrolito una vez cada 6 meses, y baterías sin mantenimiento cuya reacción no produce pérdida de líquido.</string>
+
+
+    <string-array name="FMA">
+        <item>Constitución de un automóvil</item>
+        <item>El Motor</item>
+        <item>Mantenimiento del motor</item>
+        <item>Alimentación del motor</item>
+        <item>Sistema de escape</item>
+        <item>Silenciador</item>
+        <item>Catalizador</item>
+        <item>Sistema de lubricación</item>
+        <item>Sistema de refrigeración</item>
+        <item>La Batería</item>
+    </string-array>
+</resources>

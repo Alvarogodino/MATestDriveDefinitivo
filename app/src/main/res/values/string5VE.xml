@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="VE_T1">Vehículos especiales</string>
+    <string name="VE_T1D">Los vehículos especiales son aquellos vehículos autopropulsados o remolcados creados para realizar obras o servicios. Les está permitido por sus características, que algunas condiciones técnicas como sobrepasar los límites, masas y dimensiones establecidos. También la maquinaria agrícola y sus remolques están considerados vehículos especiales.
+
+    \n Sus características principales son que pueden tener propulsión propia o no (como por ejemplo los remolques) y su principal función es la de realizar obras o servicios como tareas agrícolas o ganaderas. A parte de las normas generales de tráfico tienen algunas específicas para ellos por la configuración del vehículo.</string>
+
+    <string name="VE_T2">Masas y dimensiones en vehículos especiales</string>
+    <string name="VE_T2D">Los vehículos especiales no están sometidos a las normas de masa y dimensión máximas recogidas en el Reglamento de circulación, pero si están sujetos a limitaciones en la conducción por vías públicas.
+
+    \n Para éste tipo de vehículos existen dos tipos de anchura: la anchura real que es la efectiva del vehículo, y la de circulación que es la que se tiene en cuenta a la hora de circular en vías públicas.
+    \n
+    \n Para los tractores agrícolas, motocultores y sus remolques la anchura de circulación será la propia del vehículo parado incluida la carga si la hubiera.
+    \n
+    \n Para las máquinas agrícolas la anchura de circulación también será la del vehículo parado disminuida en 0,50 metros.
+    \n
+    \n Para el resto de vehículos la anchura de circulación será la del mismo vehículo parado excepto en los conjuntos de los mismos en que prevalecerá la anchura mayor de entre todas las individuales.</string>
+
+    <string name="VE_T3">Matriculación de vehículos especiales</string>
+    <string name="VE_T3D">Para que un vehículo especial pueda circular tanto por vías públicas como privadas, debe estar matriculado en la Jefatura Provincial de Tráfico donde el propietario o arrendatario de largo plazo tenga su domicilio o donde vaya a estar el vehículo especial.
+
+    \n Se debe llevar además junto al vehículo cuando se circule por vías públicas el permiso de circulación, la tarjeta de inspección técnica, y resto de documentos acreditativos. Cuando estos vehículos excedan de la masa o dimensiones máximas autorizadas para vehículos ordinarios, deberán llevar además una autorización especial.</string>
+
+    <string name="VE_T4">Permisos para conducir vehículos especiales</string>
+    <string name="VE_T4D">
+    \n - Para conducir vehículos especiales agrícolas o conjuntos de los mismos: Depende de su masa o dimensiones máximas autorizadas y de los pasajeros que transporte.
+    \n - Para conducir vehículos especiales no agrícolas o conjuntos de los mismos: Depende de la velocidad, MMA y de los pasajeros que transporte.</string>
+
+    <string name="VE_T5">Condiciones técnicas para vehículos especiales</string>
+    <string name="VE_T5D">Los vehículos especiales además de cumplir las condiciones generales establecidas para todos los vehículos deberán seguir unas particularidades:
+    \n
+    \n <b>- Luces de trabajo:</b> Podrán llevar encendidas las luces de trabajo pero únicamente cuando estén desarrollando su labor.
+    \n <b>- Luces de gálibo:</b> Podrán llevar luces de gálibo situadas en parte más alta de la parte más ancha del vehículo, por debajo de las de posición. Las luces de gálibo podrán sustituir a las de posición cuando estén situadas a no más de 250 milímetros de los bordes exteriores del vehículo.
+    \n <b>- Luces de largo alcance:</b> Se podrán llevar opcionalmente dos o cuatro luces, en tractores agrícolas de obras, portadores o tractocarros.
+    \n <b>- Luces de corto alcance:</b> Los vehículos especiales autopropulsados agrícolas están obligados a llevar dos luces delante en los bordes del vehículo, excepto los motocultores no aptos para circular de noche. Los motocultores que si son aptos para circular de noche están obligados a llevar una o dos luces en la parte delantera. La altura de estas luces podrá ser superior a 120 cm cuando ilumine una zona de 25 metros como máximo por delante del vehículo.
+    \n <b>- Luces de posición:</b> Los tractores agrícolas, de obras o de servicios, los tractocarros y las máquinas automotrices de servicios están obligados a llevar dos o cuatro luces de posición blancas en la parte delantera y dos luces rojas en la trasera. Los remolques agrícolas y máquinas remolcadas están obligadas a llevarlas únicamente cuando su anchura exceda 20 cm de la anchura del vehículo tractor.
+    \n <b>- Luz de placa posterior:</b> Ésta luz es obligatoria para todo remolque o semirremolque matriculado.
+    \n <b>- Luces de frenado:</b> Las luces de frenado son obligatorias para los remolques y semirremolques (excepto los agrícolas) y para los tractores agrícolas, de obras y de servicios cuya velocidad máxima sea superior a 25 km/hora.
+    \n También serán obligatorias para las máquinas automotrices agrícolas con velocidad máxima de 25 km/hora sean aptas o no para circular de noche. En el resto de vehículos no citados las luces de frenado serán opcionales.
+    \n <b>- Luces indicadoras de dirección:</b> Serán obligatorias para todos los vehículos de motor excepto aquellos en que se pueda indicar en cambio de dirección con el brazo aunque sean remolques y semirremolques.
+    \n <b>- Guardabarros:</b> Los vehículos especiales están exceptuados de llevar guardabarros cuando sean incompatibles con la tarea que desempeñan.
+    \n <b>- Dispositivos de frenado</b></string>
+
+    <string name="VE_T6">Accesorios, placas de matrícula y espejos</string>
+    <string name="VE_T6D">Los vehículos especiales están obligados a llevar dispositivos de preseñalización de peligro, un juego de lámparas de aquellas que estén obligados a llevar y las herramientas para su cambio si son aptos para circular de noche.
+
+    \n Por lo que se refiere a la matrícula, los vehículos especiales no están obligados a llevar placa de matrícula delantera, pero si trasera que debe ser blanca, retorreflecante y con las letras y números rojos.
+
+    \n Los vehículos especiales están obligados a llevar los siguientes espejos retrovisores.</string>
+
+    <string name="VE_T7">Posición en la calzada de vehículos especiales</string>
+    <string name="VE_T7D">La posición que deberán ocupar los vehículos especiales en la calzada dependerá de su masa máxima autorizada. Los vehículos especiales con MMA no superior a 3500 kg cuando no exista zona habilitada para que ellos transiten, circularán fuera de poblado lo más cerca posible del borde derecho de la calzada si no existe arcén. Si hubiera arcén transitable y suficiente deberá circular por el.
+    \n
+    \n <b>- Fuera de poblado</b>
+    \n Los vehículos con MMA superior a 3500 kg circularán fuera de poblado por la calzada, y cuando esta tenga dos carriles por el derecho pudiendo utilizar el otro cuando las condiciones de tráfico le obliguen. Cuando la calzada tenga tres o más carriles para el mismo sentido circulará por aquel situado más a la derecha, pudiendo utilizar el inmediato.
+    \n
+    \n <b>- Dentro de poblado</b>
+    \n En poblado los vehículos especiales circularán por la derecha sin importar cuantos carriles existan. Cuando circulen por vías dentro de poblado con al menos dos carriles para el mismo sentido podrán utilizar el que mejor convenga a su destino, sin cambiar de carril a no ser que desee realizar alguna otra maniobra.
+
+    \n Estos vehículos podrán circular por autopista siempre que puedan alcanzar una velocidad de más de 60 km/hora en recto, y si superan las masas y dimensiones establecidas por el Reglamento de Circulación podrán circular cuando exista la correspondiente autorización complementaria.
+
+    \n Está terminantemente prohibido adelantar a otros vehículos si la duración en que los dos coches se encuentran paralelos es mayor a 15 segundos o el recorrido realizado superior a 200 metros. Tampoco podrán circular en posición paralela con otros vehículos obligados a utilizar el arcén.</string>
+
+    <string name="VE_T8">Velocidad de los vehículos especiales</string>
+    <string name="VE_T8D">Los vehículos y conjunto de vehículos especiales no deberán superar las siguientes velocidades:
+    \n
+    \n <b>- 25 km/ hora:</b> Aquellos vehículos especiales que no tienen señal de frenado, llevan remolque o son motocultores.
+    \n <b>- 40 km/hora:</b> El resto de vehículos especiales en general.
+    \n <b>- 70 km/hora:</b> Aquellos vehículos que puedan alcanzar una velocidad mayor a 60 km/hora en suelo llano.
+    \n <b>- La velocidad del paso humano:</b> Aquellos vehículos en que el conductor circula a pie.</string>
+
+    <string name="VE_T9">Normas y condiciones de circulación</string>
+    <string name="VE_T9D">Los vehículos especiales sólo podrán utilizar las vías públicas para desplazarse, excepto aquellos que realicen servicios de construcción o reparación de las vías, los cuales deberán desarrollar el servicio únicamente en la zona donde se llevan a cabo estos trabajos.
+
+    \n Los conductores y otro personal empleado para realizar dichos trabajos de construcción con vehículos especiales no estarán obligados a atender las normas de circulación cuando se encuentren realizando dichos trabajos.
+
+    \n Cuando realicen un trabajo en la vía los conductores de vehículos destinados a obras utilizarán la señal luminosa V-2 cuando interrumpan u obstaculicen la circulación, para indicar su situación cuando realicen trabajos de señalización, o todos los vehículos especiales cuando entren en una autovía u autopista para señalar su posición.
+
+    \n Durante la circulación los conductores de vehículos especiales deberán utilizar la señal luminosa V-2 siempre que circulen por vías públicas a una velocidad inferior a 40 km/hora. En caso de avería se deberá utilizarse la luz de cruce y la señal de emergencia a la vez.</string>
+
+    <string name="VE_T10">Condiciones de circulación comunes para todos los vehículos especiales</string>
+    <string name="VE_T10D">Los vehículos deberán dejar una separación mínima de 50 metros con el vehículo situado justo delante de ellos, permitiendo y facilitando el adelantamiento. Deberán en todos los casos estacionar y detenerse fuera de la calzada y del arcén.
+
+    \n También aquellos vehículos que tengan una anchura mayor a los cinco metros o cuarenta metros de longitud deberán ir acompañados de un agente de la autoridad que vigile el tráfico.
+
+    \n Por lo que se refiere a las luces, los vehículos especiales deberán llevar además de los dispositivos de señalización:
+    \n
+    \n <b>- Señales luminosas V-2:</b> Colocadas de manera que se visualice perfectamente su contorno.
+    \n <b>- Señal de limitación de velocidad V-4:</b> Se debe llevar de manera obligatoria en la parte posterior del vehículo.
+    \n <b>- Señal de vehículo lento V-5:</b> Ésta señal indica que el vehículo no puede sobrepasar los 40 km/hora.
+    \n <b>- Señal de vehículo largo:</b> Indica que el vehículo especial o conjunto de los mismos tiene una longitud superior a 12 metros.
+    \n <b>- Dispositivo de preseñalización de peligro V-16:</b> Indica que el vehículo ha quedad inmovilizado en la calzada o que su carga se encuentra sobre ella.
+    \n <b>- Panel para cargas que sobresalen V-20:</b> Indica que la carga sobresale por la parte de detrás.
+    \n Cuando el vehículo circule de noche o con condiciones meteorológicas adversas también deberá ser señalizado con una luz roja. Cuando la carga sobresalga por delante utilizaremos una luz blanca.
+
+    \n Las cargas que sobresalgan lateralmente de manera que su extremidad se encuentre a más de 0,40 metros del borde exterior de la luz de posición delantera o trasera deberán estar señalizadas con una luz blanca y un dispositivo reflectante blanco hacia delante, y una luz roja y dispositivo reflectante rojo por detrás, en condiciones meteorológicas adversas y de noche.</string>
+
+
+    <string-array name="VE">
+        <item>Vehículos especiales</item>
+        <item>Masas y dimensiones en vehículos especiales</item>
+        <item>Matriculación de vehículos especiales</item>
+        <item>Permisos para conducir vehículos especiales</item>
+        <item>Condiciones técnicas para vehículos especiales</item>
+        <item>Accesorios, placas de matrícula y espejos</item>
+        <item>Posición en la calzada de vehículos especiales</item>
+        <item>Velocidad de los vehículos especiales</item>
+        <item>Normas y condiciones de circulación</item>
+        <item>Condiciones de circulación comunes</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PCV_T1">Las curvas</string>
+    <string name="PCV_T1D">El conductor debe entrar en las curvas con el vehículo dominado para evitar el riesgo de derrape o salida de la vía. Las señales que advierten de que se aproxima una curva son las triangulares de peligro. La P-13A advierte de una curva hacia la derecha y la P-13B de una curva a la izquierda.
+
+    \n También existen señales que advierten del peligro de acercarnos a una sucesión de curvas: la señal P-14A indica que la primera curva es a la derecha, y la P.14B que la primera curva es a la izquierda.
+    \n
+    \n A veces en el mismo poste en que se encuentra ésta señal de advertencia por curva podemos encontrar un panel complementario con la distancia a la que nos encontramos del peligro, o la longitud por la que se extiende el citado peligro.
+    \n
+    \n Las señales P-13B y R-301 advierten de una curva peligrosa a la derecha y prohíben circular a más de 30 km/hora. Por su parte las señales P-13A y S-7 advierten de una curva peligrosa hacia la izquierda y se recomienda conducir a un máximo de 60 kilómetros por hora.
+    \n
+    \n Cuando nos encontramos con el panel S-810 éste nos indicará la existencia de un tramo de la vía donde existen curvas durante los kilómetros que el panel indique. Por otro lado el panel S-800 nos indica que a la distancia de los metros que ponga comenzará el peligro representado por un tramo de curvas.
+    \n
+    \n Para mejorar la información sobre la peligrosidad de una curva se podrá utilizar a la entrada de la misma un panel direccional permanente como señal de balizamiento. Los paneles podrán ser uno, dos o tres superpuestos de manera que a más paneles más peligrosidad.
+    \n
+    \n Dentro de la curva se suelen colocar paneles direccionales para que el conductor pueda observar su forma y características y barreras de seguridad con captafaros que lo guían por la curva.</string>
+
+
+    <string name="PCV_T2">curvas de reducida visibilidad</string>
+    <string name="PCV_T2D">Las curvas de reducida visibilidad están señalizadas con señales verticales, que advierten de la prohibición de adelantar en ellas cuando para ello sea necesario invadir el lado izquierdo.
+
+    \n Los trazos de las líneas discontinuas en las curvas de reducida visibilidad, suelen estar más juntos debido a que avisan de que nos acercamos a una línea continua. También se pintan en el eje de la calzada de éstas curvas, flechas de retorno al carril derecho.
+    \n
+    \n Estas flechas apuntando a la derecha anuncia la prohibición de circular por la izquierda debido a la línea continua, y de que todos los vehículos pasen al carril de la derecha de la flecha cuanto antes.
+    \n
+    \n Si no existen señales indicadoras de la curva de reducida visibilidad, se deberán extremar las precauciones moderando la velocidad, y no adelantar, cambiar de dirección a la izquierda, o cambiar el sentido de la marcha. Se debe dejar libre la mitad de la calzada reservada para el sentido contrario, y circular lo más cerca posible del borde derecho.
+    \n
+    \n Cuando el vehículo entra en una curva, se somete a una fuerza centrípeta tangencial que causa la variación de trayectoria y velocidad del mismo. Es por ello que para que las fuerzas estén en equilibrio, debe observarse una técnica específica.
+    \n
+    \n Antes de llegar a la curva en cuestión, deberemos observar las características de la curva y adecuar la velocidad de nuestro vehículo a las necesidades de la misma, frenando o acelerando. Siempre se frenará con antelación para tomar la curva con el vehículo dominado, y no dentro de la misma pues provocaría un derrape.
+    \n
+    \n Es importante recordar que se debe en la curva con una marcha corta y lo más ceñido posible al borde derecho (ya sea la curva a la izquierda o a la derecha), para así ampliar la zona de seguridad del sentido contrario.
+    \n
+    \n Una vez dentro de la curva, es necesario acelerar de manera suave para que al girar el volante los neumáticos se adhieran al pavimento trazando así la trayectoria deseada. Si el vehículo encontrará un obstáculo en medio de la curva, frenará de manera suave si es posible, para no bloquear las ruedas. Si eso ocurre dejaremos de pisar el freno para después volver a frenar.
+    \n
+    \n Para salir de la curva giraremos el volante suavemente, y aumentaremos la aceleración de manera progresiva con marchas más largas, para obtener una progresión normal.</string>
+
+
+    <string name="PCV_T3">Proyección de gravilla</string>
+    <string name="PCV_T3D">La señal P-28 indica la proximidad de un peligro, en que un tramo de vía tiene el riesgo de que se proyecte gravilla al circular los vehículos. Se debe tener especial precaución ya que con la gravilla existen los peligros de derrape rotura del parabrisas por las piedras contra el cristal.</string>
+
+
+    <string name="PCV_T4">Animales</string>
+    <string name="PCV_T4D">En algunas carreteras, sobre todo aquellas situadas en suelo rural, es frecuente el paso de animales que representan un peligro para la circulación. La señal P-23 advierte de que la vía puede ser atravesada por animales domésticos, y la P-24, animales en libertad.
+
+    \n Los animales tendrán preferencia de paso en las cañadas señalizadas, que estarán marcadas c con la señal de “Paso de animales domésticos” y una placa inferior con la inscripción “Cañada”.
+
+    \n También tendrán preferencia de paso cuando estén cruzando una vía a la que vayan a girar otros vehículos, y cuando circulen por el arcén al no disponer de cañada, y un vehículo desee cruzarlo.</string>
+
+
+    <string name="PCV_T5">Puente móvil y muelle</string>
+    <string name="PCV_T5D">La señal P-5 advierte de la proximidad de un puente que puede ser levantado o girado obstaculizando la circulación. Por su parte la señal P-27, advierte de que la vía por la que circulamos desemboca en un muelle o corriente de agua.
+
+    \n Si el vehículo queda detenido en un puente móvil, el conductor y los ocupantes deberán desalojar rápidamente el vehículo y dejar el paso libre.
+
+    \n Cuando nos aproximemos a un puente móvil, se deberá extremar la precaución y rebajar la velocidad por debajo de la máxima permitida. También deberán detenerse uno detrás de otro y esperar hasta que tengan paso libre, los conductores que al llegar a un puente móvil lo encuentren cerrado.</string>
+
+
+    <string name="PCV_T6">Túneles y pasos inferiores</string>
+    <string name="PCV_T6D">En caso de encontrarnos con el peligro de un incendio de un túnel, acercaremos el vehículo al lado derecho para no obstaculizar a los vehículos de emergencia. También deberemos apagar el motor, dejar la llave puesta y las puertas abiertas, y coger la documentación, si es posible.
+
+    \n Se debe caminar siempre en dirección contraria al fuego, si es posible a gatas ya que el humo siempre sube hacia la parte más alta del túnel y el aire más puro se encuentra abajo. Si el túnel es de doble sentido, deberemos circular muy próximos al lado derecho dejando la mayor separación posible con la línea que separa los sentidos de circulación.
+    \n
+    \n Si encontramos una emergencia en un túnel no se deberá nunca invadir el carril del sentido contrario, abandonar el vehículo y utilizar las salidas de emergencia si el incidente fuera grave y nunca dar marcha atrás con el vehículo.
+    \n
+    \n Si es nuestro vehículo el que sufre una avería, conectaremos la señal de emergencia e intentaremos detenerlo en un lugar habilitado o sino lo más cerca posible del borde derecho. Deberemos colocar también los dispositivos de preseñalización de peligro a la distancia correspondiente y desalojar el vehículo.
+    \n
+    \n Para recibir ayuda utilizaremos los postes SOS, dando al servicio de emergencias la máxima información sobre el motivo de la detención. Si nos quedamos inmovilizados dentro de un túnel por atasco, no deberemos abandonar el vehículo en ningún caso, y conectaremos la señal de emergencia para avisar al resto de usuarios. También dejaremos encendidas las luces de posición y apagar el motor.
+    \n
+    \n Otras consideraciones a tener en cuenta dentro de los túneles es respetar en todo momento la señalización que nos encontremos, observar los paneles de mensaje variable y semáforos, y nunca introducirnos en él si el semáforo está rojo.
+    \n
+    \n Dentro del túnel está prohibido parar y estacionar, cambiar el sentido de la marcha y adelantar en los túneles con un solo carril para cada sentido de circulación.</string>
+
+
+    <string name="PCV_T7">Estrechamiento de la calzada</string>
+    <string name="PCV_T7D">En ocasiones la anchura de una vía varía y se estrecha por un lado o ambos, lo cual supone un peligro por la circulación. Los conductores son advertidos de este peligro mediante las señales P-17, que indica un estrechamiento por ambos lados, la señal P-17a que indica un estrechamiento por la derecha y la P-17b que lo indica por la izquierda.
+
+    \n También la señal R-5 prohíbe la entrada en un paso estrecho, si es necesario que los vehículos del sentido se detengan para que nosotros paremos. La señal R-6 por su parte informa de que en el próximo paso estrecho tienen prioridad de paso respecto a los vehículos que circulan en sentido contrario.</string>
+
+
+    <string name="PCV_T8">Pendientes</string>
+    <string name="PCV_T8D">El peligro en las señales de pendiente está representado por una subida o bajada de la vía, junto con el porcentaje de inclinación de la vía respecto a la horizontal. La señal P-16a advierte de una bajada con pendiente, mientras que la señal P-16b indica una subida con fuerte pendiente.</string>
+
+
+    <string name="PCV_T9">Obras</string>
+    <string name="PCV_T9D">Las obras que obstaculicen o alteren la circulación deberán estar señalizadas de día y de noche siendo necesarias durante las horas nocturnas y en condiciones meteorológicas desfavorables, las señales de balizamiento luminosas. La señal P-18 advierte de la proximidad de un tramo de vía dónde se están desarrollando obras.
+    \n
+    \n La señalización de obras ordena la circulación, adapta su comportamiento a la situación de las obras, informa a los conductores de la presencia de las mismas, y consigue una mayor seguridad para todos los usuarios de la vía.
+    \n
+    \n Las señales verticales para señalizar obras son las mismas que habitualmente hay cuando no existen obras pero su fondo será amarillo para advertir el peligro. Cuando se señalicen las obras con marcas viales también se pintarán de color amarillo.
+    \n
+    \n Para delimitar los límites de una obra y ordenar la circulación, se utilizarán señales de balizamiento reflectantes y luminosas como conos, balizas, captafaros, semáforos o luces amarillas y rojas fijas. Cuando las vías obligan a reducir los carriles de una vía o desviarla, el conductor será informado con señales de indicación con fondo amarillo.
+    \n
+    \n En las vías en que por su estrechez sea imposible el paso simultáneo de dos vehículos que circulen en sentido contrario y sin señalización al respecto, tendrá preferencia aquel de los dos vehículos que haya entrado primero en el estrechamiento. En caso de duda tendrá preferencia el vehículo que tenga más dificultad para maniobrar y salir del tramo.</string>
+
+
+    <string name="PCV_T10">Otros peligros de la vía</string>
+    <string name="PCV_T10D">La señal P-30 advierte de un peligro ocasionado por un desnivel o escalón lateral en la vía. La señal P-21 advierte de la proximidad de un lugar frecuentado por niños en que debemos extremar la precaución. Siempre se deberá ceder el paso a las filas de escolares, y obedecer a las patrullas escolares incluso deteniendo el vehículo si dirigen contra nosotros la señal STOP de su paleta.
+
+    \n Cuando el peligro que se da en la vía no tiene símbolo establecido se utilizará la señal P-50 para advertir de un peligro diferente de los advertidos por otras señales, y ésta se complementará con una placa con indicación del peligro del que se trate.</string>
+
+    <string-array name="PCV">
+        <item>Las curvas</item>
+        <item>Curvas de reducida visibilidad</item>
+        <item>Proyección de gravilla</item>
+        <item>Animales</item>
+        <item>Puente móvil y muelle</item>
+        <item>Túneles y pasos inferiores</item>
+        <item>Estrechamiento de la calzada</item>
+        <item>Pendientes</item>
+        <item>Obras</item>
+        <item>Otros peligros de la vía</item>
+    </string-array>
+
+</resources>

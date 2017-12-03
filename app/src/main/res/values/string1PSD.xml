@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="PSD_T1">Placas de matrícula</string>
+    <string name="PSD_T1D">Los vehículos automóviles, remolques y semirremolques que circulen por las vías públicas deberán llevar las correspondientes placas de matrícula para su identificación.
+
+        \n Las placas de matrícula deben ser de dimensiones homologadas y de forma plana y rectangular. Deben ser visibles y legibles, tener fondo retro-reflectante y estar colocadas en el vehículo en el lugar establecido.
+
+        \n Deben llevar escritas en todo momento la matrícula dada por la Jefatura Provincial de Tráfico en el momento de la matriculación así como permanecer siempre limpias y bien conservadas.
+
+        \n Las placas traseras deben estar iluminadas entre la puesta y la salida del sol o en condiciones meteorológicas adversas.
+
+        \n Está totalmente prohibido inscribir o colocar adornos, pegatinas o publicidad en la placa de matrícula. También está prohibido colocar placas complementarias no autorizadas o pintar distintivos que dificulten su lectura.</string>
+
+    <string name="PSD_T2">Placas de automóviles</string>
+    <string name="PSD_T2D">Los vehículos automóviles deberán llevar dos placas de matrícula de forma plana y rectangular: una en la parte delantera y otra en la posterior.
+
+        \n Deben ir colocadas con su eje vertical situado en el plano longitudinal mediano del vehículo. En caso de que no pueda ser colocada en éste lugar la placa delantera se podrá colocar en su lado izquierdo o derecho, y la trasera se podrá colocar en el lado izquierdo.
+
+        \n Los ciclomotores y motocicletas deben llevar una sola placa en la parte posterior de forma vertical en el centro del guardabarros.</string>
+
+    <string name="PSD_T3">Vehículos especiales</string>
+    <string name="PSD_T3D">os vehículos especiales agrícolas y de obras y servicios, deben llevar una placa de matrícula trasera situada en el centro o en su lado izquierdo y en posición vertical. No están obligados a llevar placa de matrícula delantera.</string>
+
+    <string name="PSD_T4">Remolques y Semirremolques</string>
+    <string name="PSD_T4D">La placa de matrícula dependerá de si su MMA excede o no de 750 kilogramos:
+
+        \n - Los que excedan de 750 kg de MMA deberán llevar su propia placa de matrícula en la parte posterior y otra placa con la matrícula del vehículo que lo arrastra en el lado derecho.
+        \n
+        \n - Los que no excedan de 750 kg de MMA llevarán una placa en la parte posterior izquierda o central con la matrícula del vehículo que lo arrastran.</string>
+
+    <string name="PSD_T5">Placas de ensayo</string>
+    <string name="PSD_T5D">Se pueden otorgar placas de ensayo a los fabricantes de vehículos que les permitirá excepcionalmente hacer pruebas en autopistas, autovías y demás vías públicas.
+
+        \n La velocidad máxima que podrán desarrollar los vehículos con éste tipo de placa no podrá ser superior a 30 kilómetros por hora.</string>
+
+
+    <string-array name="PSD">
+        <item>Placas de matrícula</item>
+        <item>Placas de automóviles</item>
+        <item>Vehículos especiales</item>
+        <item>Remolques y Semirremolques</item>
+        <item>Placas de ensayo</item>
+    </string-array>
+
+
+</resources>
