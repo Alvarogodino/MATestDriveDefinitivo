@@ -49,7 +49,7 @@ public class Tab5 extends Fragment {
         EIA.setAdapter(adapterEIA);
 
         FDA = (Spinner) view.findViewById(R.id.spinnerFDA);
-        ArrayAdapter adapterFDA = ArrayAdapter.createFromResource(getContext(), R.array.PS, android.R.layout.simple_spinner_item);
+        ArrayAdapter adapterFDA = ArrayAdapter.createFromResource(getContext(), R.array.FDA, android.R.layout.simple_spinner_item);
         FDA.setAdapter(adapterFDA);
 
         PCV = (Spinner) view.findViewById(R.id.spinnerPCV);

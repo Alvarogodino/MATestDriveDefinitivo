@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String DEFINICION="definicion";
     public static final String IMAGEN="imagen";
 
-    
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

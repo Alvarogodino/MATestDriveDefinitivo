@@ -95,4 +95,16 @@
 
     \n Los conductores de motocicletas deben llevar un traje de piel, prenda impermeable y guantes y botas para mejorar así su experiencia al volante.</string>
 
+    <string-array name="FDA">
+        <item>El conductor</item>
+        <item>La fatiga</item>
+        <item>Disminución de la vigilancia o atención</item>
+        <item>El sueño o somnolencia</item>
+        <item>El sentido de la vista</item>
+        <item>El sentido del oído</item>
+        <item>El tiempo de reacción</item>
+        <item>Las drogas, cafeína y medicamentos</item>
+        <item>La intoxicación alcohólica</item>
+        <item>El vestuario del conductor</item>
+    </string-array>
 </resources>
