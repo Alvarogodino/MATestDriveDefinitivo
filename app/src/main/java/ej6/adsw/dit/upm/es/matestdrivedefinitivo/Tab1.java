@@ -1,6 +1,7 @@
 package ej6.adsw.dit.upm.es.matestdrivedefinitivo;
 
 import android.content.Intent;
+import android.content.pm.ActivityInfo;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -31,10 +32,12 @@ public class Tab1 extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         return inflater.inflate(R.layout.tab1, container, false);
+
     }
 
     @Override
     public void onViewCreated(View view, @Nullable Bundle savedInstanceState) {
+
 
         CB = (Spinner) view.findViewById(R.id.spinnerCB);
         ArrayAdapter adapterCB = ArrayAdapter.createFromResource(getContext(), R.array.CB, android.R.layout.simple_spinner_item);
