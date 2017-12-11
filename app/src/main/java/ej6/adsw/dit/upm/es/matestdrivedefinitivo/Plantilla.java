@@ -24,7 +24,7 @@ public class Plantilla extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.plantilla);
 
-        setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
+        //setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         final Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);

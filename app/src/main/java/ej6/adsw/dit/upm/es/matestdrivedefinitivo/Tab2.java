@@ -1,8 +1,12 @@
 package ej6.adsw.dit.upm.es.matestdrivedefinitivo;
 
+import android.app.Dialog;
+import android.content.DialogInterface;
 import android.content.Intent;
+import android.net.Uri;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -12,6 +16,7 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 public class Tab2 extends Fragment {
 
@@ -20,6 +25,7 @@ public class Tab2 extends Fragment {
     String definicion;
 
     ImageButton ImagenButtonLS, ImagenButtonLV, ImagenButtonNGS, ImagenButtonODS, ImagenButtonSCM;
+    TextView textSeñales;
 
     private Spinner LS, LV, NGS, ODS, SCM;
 
@@ -56,6 +62,14 @@ public class Tab2 extends Fragment {
         SCM = (Spinner) view.findViewById(R.id.spinnerSCM);
         ArrayAdapter adapterSCM = ArrayAdapter.createFromResource(getContext(), R.array.SCM, android.R.layout.simple_spinner_item);
         SCM.setAdapter(adapterSCM);
+
+        textSeñales = (TextView) view.findViewById(R.id.textSeñales);
+        textSeñales.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                crearDialogo().show();
+            }
+        });
 
         //   PRIMER BOTON
         ImagenButtonLS = (ImageButton) view.findViewById(R.id.image_buttonLS);
@@ -359,4 +373,25 @@ public class Tab2 extends Fragment {
             }
         });
     }
+    private Dialog crearDialogo() {
+        AlertDialog.Builder builder = new AlertDialog.Builder(getContext());
+        builder.setCancelable(false);
+        builder.setMessage("Necesita conexión a internet para acceder, ¿Desea continuar?");
+        builder.setPositiveButton("Si", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                Uri uri = Uri.parse("https://practicatest.com/temario/permiso-B/senales-verticales/59");
+                Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+                startActivity(intent);
+            }
+        });
+        builder.setNegativeButton("No", new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialog, int which) {
+                dialog.cancel();
+            }
+        });
+        return builder.create();
+    }
+
 }

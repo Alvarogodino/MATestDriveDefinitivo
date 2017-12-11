@@ -158,5 +158,13 @@
                 android:layout_alignRight="@+id/botonSV"
                 android:layout_alignEnd="@+id/botonSV"/>
         </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/señales"
+            android:id="@+id/textSeñales"
+            android:textAlignment="center"
+            android:paddingTop="70dp"/>
     </LinearLayout>
 </RelativeLayout>

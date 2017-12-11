@@ -115,7 +115,9 @@ public class MainActivity extends AppCompatActivity {
                 })
                 .setMessage("Para acceder al contenido primero deberás de seleccionar la opción de uno de los desplegables, " +
                         "acto seguido, pulsa en el botón que está asignado a la derecha del desplegable " +
-                        "y te redirigirá a la pantalla con el contenido seleccionado. ");
+                        "y te redirigirá a la pantalla con el contenido seleccionado. " +
+                        "En el apartado de señales, segunda pestaña, encontrarás al final un texto donde al pulsarlo te redigirá " +
+                        "al contenido de señales verticales de tráfico");
         builder.create().show();
         return true;
     }
@@ -156,7 +158,6 @@ public class MainActivity extends AppCompatActivity {
                 dialog.cancel();
             }
         });
-
         return builder.create();
     }
 
